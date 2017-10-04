@@ -15,46 +15,46 @@ if ('serviceWorker' in navigator) {
 	// Service worker on the root as it is scoped on directory level
 	navigator.serviceWorker.register('/sw.js')
 		.then(
-			function () {
-				console.log('CLIENT: serviceWorker registration complete 🙏');
+		function () {
+			console.log('CLIENT: serviceWorker registration complete 🙏');
 
-				// Update online status
-				messageToSW().then(
-					function (data) {
-						updateStatus(data);
-					},
-					function () {
-						updateStatus('online');
-					});
+			// Update online status
+			messageToSW().then(
+				function (data) {
+					updateStatus(data);
+				},
+				function () {
+					updateStatus('online');
+				});
 
-				// Carry on with registration down the chain
-				return navigator.serviceWorker.ready;
-			},
-			function () {
-				console.log('CLIENT: serviceWorker registration failed 🖕');
-			}
+			// Carry on with registration down the chain
+			return navigator.serviceWorker.ready;
+		},
+		function () {
+			console.log('CLIENT: serviceWorker registration failed 🖕');
+		}
 		)
 		.then(
-			function (registration) {
-				console.log('CLIENT: serviceWorker pushManager registration 📢');
+		function (registration) {
+			console.log('CLIENT: serviceWorker pushManager registration 📢');
 
-				// Register push manager
-				registration.pushManager.subscribe({userVisibleOnly: true}).then(function(sub) { console.log('CLIENT: endpoint =>:', sub.endpoint); });
+			// Register push manager
+			registration.pushManager.subscribe({ userVisibleOnly: true }).then(function (sub) { console.log('CLIENT: sub =>:', sub); });
 
-			},
-			function () {
-				console.log('CLIENT: serviceWorker registration failed 🖕');
-			}
+		},
+		function () {
+			console.log('CLIENT: serviceWorker registration failed 🖕');
+		}
 		);
 
 	// Listen to messages from SW
-	navigator.serviceWorker.addEventListener('message', function(event){
-        console.log(`CLIENT: Received Message: ${event.data}`, event);
-        // For Push notification actions
-        if (event.data === 'update') {
-        	offers();
-        }
-    });
+	navigator.serviceWorker.addEventListener('message', function (event) {
+		console.log(`CLIENT: Received Message: ${event.data}`, event);
+		// For Push notification actions
+		if (event.data === 'update') {
+			offers();
+		}
+	});
 } else {
 	console.log('CLIENT: serviceWorker it not supported in this browser 💩');
 }
@@ -65,8 +65,8 @@ if ('serviceWorker' in navigator) {
 *	MESSAGING
 */
 
-function messageToSW (message) {
-	return new Promise (function (resolve, reject) {
+function messageToSW(message) {
+	return new Promise(function (resolve, reject) {
 		let msgChannel = new MessageChannel();
 
 		// Resolve or reject the promise when we got a return message from SW
@@ -88,7 +88,7 @@ function messageToSW (message) {
 *	ONLINE/OFFLINE STATUS
 */
 
-function updateStatus (status) {
+function updateStatus(status) {
 	if (status === 'offline') {
 		$statusEl.className = $statusEl.className.replace('success', 'danger');
 	}
@@ -109,7 +109,7 @@ function renderOffers(data) {
 	for (let offer of offersArray) {
 		tempHTML += template(offer);
 	}
-	
+
 	$offersContainer.innerHTML = tempHTML;
 }
 
@@ -119,52 +119,21 @@ function renderOffers(data) {
 *	GET OFFERS
 */
 
-function getOffers () {
-	return new Promise (function (resolve, reject) {
-		// let request = new XMLHttpRequest();
+function getOffers() {
+	return new Promise(function (resolve, reject) {
+		let request = new XMLHttpRequest();
 
-		// request.open('GET', '/offers');
+		request.open('GET', '/offers');
 
-		// request.onload = function () {
-		// 	if (request.status == 200) {
-		// 		resolve(request.response);
-		// 	} else {
-		// 		console.error(request.statusText);
-		// 	}
-		// }
+		request.onload = function () {
+			if (request.status == 200) {
+				resolve(request.response);
+			} else {
+				console.error(request.statusText);
+			}
+		}
 
-		// request.send();
-
-		// Static
-		resolve({
-			"offers": [
-				{
-					"merchant": "Asos Kids",
-					"title": "10% off summer clothes",
-					"code": "VC2016RMN"
-				},
-				{
-					"merchant": "Debenhams",
-					"title": "2 for 1 on plain t-shirts",
-					"code": "PLAINTS"
-				},
-				{
-					"merchant": "Debenhams",
-					"title": "£15 off on debit card purchases",
-					"code": "FIFTEENOFF"
-				},
-				{
-					"merchant": "Pizza Hut",
-					"title": "Second pizza for £1 on Saturdays",
-					"code": "FATSO"
-				},
-				{
-					"merchant": "Asos",
-					"title": "25% off on cargo trousers",
-					"code": "INTHENAVY"
-				}
-			]
-		});
+		request.send();
 	});
 }
 
@@ -174,7 +143,7 @@ function getOffers () {
 *	UPDATE OFFER COUNT
 */
 
-function updateCounter (value) {
+function updateCounter(value) {
 	$offersCounter.innerHTML = value;
 }
 
@@ -184,11 +153,10 @@ function updateCounter (value) {
 */
 function offers() {
 	getOffers().then(function (data) {
-		// let parsedData = JSON.parse(data);
-		let parsedData = data;
+		let parsedData = JSON.parse(data);
 		renderOffers(parsedData);
 		updateCounter(parsedData.offers.length);
-	});	
+	});
 }
 offers();
 

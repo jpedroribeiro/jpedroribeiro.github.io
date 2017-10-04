@@ -8,7 +8,7 @@ const
 	appShellFiles = [
 		'/css/index.css',
 		'/js/index.js',
-		'/handlebars.min.js',
+		'/node_modules/handlebars/dist/handlebars.min.js',
 		'/manifest.json'
 	];
 

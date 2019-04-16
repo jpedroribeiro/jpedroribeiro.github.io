@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Mar 2019 12:28:10 GMT</lastBuildDate><item><title><![CDATA[Back to Basics]]></title><description><![CDATA[It’s been a long time since I wrote anything on this site. So, as any web developer would do, I decided to rewrite the whole site instead…]]></description><link>https://jpedroribeiro.com//2019/03/back-to-basics/</link><guid isPermaLink="false">https://jpedroribeiro.com//2019/03/back-to-basics/</guid><pubDate>Sat, 30 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It’s been a long time since I wrote anything on this site. So, as any web developer would do, I decided to rewrite the whole site instead.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 16 Apr 2019 18:32:09 GMT</lastBuildDate><item><title><![CDATA[React Amsterdam 2019]]></title><description><![CDATA[This weekend I had the privilege to attend the biggest ReactJS conference in the world -  React Amsterdam . Day 1 - Meetup Fail My trip…]]></description><link>https://jpedroribeiro.com//2019/04/react-amsterdam-2019/</link><guid isPermaLink="false">https://jpedroribeiro.com//2019/04/react-amsterdam-2019/</guid><pubDate>Sun, 14 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend I had the privilege to attend the biggest ReactJS conference in the world - &lt;a href=&quot;https://react.amsterdam/&quot;&gt;React Amsterdam&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Day 1 - Meetup Fail&lt;/h2&gt;
+&lt;p&gt;My trip started on the wrong foot. I was planning to attend the GraphQL Community Meetup, but my flight got slightly &lt;strong&gt;delayed&lt;/strong&gt; and I ended up missing it. To be fair, it’s entirely my fault as I was &lt;em&gt;way&lt;/em&gt; too optimistic with the time it would take from landing at Schiphol Airport to getting all the way to the city centre, specially going through the immigration queues.&lt;/p&gt;
+&lt;h2&gt;Day 2, part 1 - The Workshop&lt;/h2&gt;
+&lt;p&gt;One of the things that attracted me to this conference was the chance of attending workshop with top class developers in different fields.&lt;/p&gt;
+&lt;p&gt;The one I attended was the &lt;strong&gt;GraphQL Workshop&lt;/strong&gt; with &lt;a href=&quot;https://kitze.io/&quot;&gt;Kitze&lt;/a&gt;, beautifully located at the &lt;a href=&quot;https://www.google.com/maps/place/Royal+Industrieele+Groote+Club/@52.3724914,4.8933255,17z/data=!4m5!3m4!1s0x47c609c731728e8b:0xe01a4e4dd9accd2f!8m2!3d52.3724914!4d4.8933255&quot;&gt;Royal Industrieele Groote Club&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BwGx6k7nTKs/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BwGx6k7nTKs/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BwGx6k7nTKs/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by J. Pedro Ribeiro (@joaopedrorib)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-04-11T06:54:46+00:00&quot;&gt;Apr 10, 2019 at 11:54pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Apart from a few issues with the lack of chargers and slightly cramped room, the workshop was excellent. Kitze managed to get a room filled with developers with different backgrounds and experience levels working with server side &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; in no time.&lt;/p&gt;
+&lt;p&gt;Personally, I’d rather spend more time on that area, but the agenda for the day was quite busy so we quickly moved to client side GraphQL, from barebones fetch to libraries like &lt;a href=&quot;https://www.apollographql.com/&quot;&gt;Apollo&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Day 2, part 2 - The Meetup (again, this time for real)&lt;/h2&gt;
+&lt;p&gt;Just after the workshop, there was another meetup happening - The Official React Amsterdam Pre-party Meetup. Which I manage to attend this time.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BwH9THGnUCj/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BwH9THGnUCj/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BwH9THGnUCj/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by J. Pedro Ribeiro (@joaopedrorib)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-04-11T17:53:29+00:00&quot;&gt;Apr 11, 2019 at 10:53am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;This was a classic meetup format: free pizzas, networking and presentations. We heard from &lt;a href=&quot;http://www.alessiodicrescenzo.com/&quot;&gt;Alessio Di Crescenzo&lt;/a&gt; talking about his project React-Imago3d, and &lt;a href=&quot;https://twitter.com/jessicaleach6&quot;&gt;Jessica Leach&lt;/a&gt; telling us all about ReactJS lifecycle methods.&lt;/p&gt;
+&lt;h2&gt;Day 3 - The Conference&lt;/h2&gt;
+&lt;p&gt;I was happily impressed by the quality of the speakers. This is the first conference that I attend where &lt;strong&gt;every&lt;/strong&gt;, &lt;strong&gt;single&lt;/strong&gt;, &lt;strong&gt;talk&lt;/strong&gt; was great. I took so many notes I might need a day off to sort them out.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BwJaVGdlyNV/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BwJaVGdlyNV/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BwJaVGdlyNV/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by J. Pedro Ribeiro (@joaopedrorib)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-04-12T07:26:24+00:00&quot;&gt;Apr 12, 2019 at 12:26am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;The highlights (and this was hard to pick) were &lt;a href=&quot;https://twitter.com/siddharthkp&quot;&gt;Sid&lt;/a&gt; walking us through how to refactor your ReactJS applications and get rid of &lt;em&gt;code smells&lt;/em&gt;, followed by &lt;a href=&quot;https://twitter.com/miuki_miu&quot;&gt;Elizabet Oliveira&lt;/a&gt; who showed us the power of combining SVGs with React. She also &lt;em&gt;freestyled&lt;/em&gt; mid presentation which was simply awesome.&lt;/p&gt;
+&lt;p&gt;There was also a party with open bar, food, DJs, etc., and of course they had their own beer - React Blonde, brewed by &lt;a href=&quot;https://www.deprael.nl/&quot;&gt;Brouwerij de Prael&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BwKYB1NlO8F/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BwKYB1NlO8F/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BwKYB1NlO8F/?utm_source=ig_embed&amp;amp;utm_medium=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by J. Pedro Ribeiro (@joaopedrorib)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-04-12T16:25:32+00:00&quot;&gt;Apr 12, 2019 at 9:25am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Every conference has its own issues and React Amsterdam wasn’t an exception. Food was a bit of a problem, queuing was another, but honestly, these things don’t take the shine away from the organizers who clearly put a lot of effort and managed to create a brilliant conference.&lt;/p&gt;
+&lt;p&gt;I, for one, will be looking forward to next edition.&lt;/p&gt;
+&lt;h4&gt;🎥 Live on YouTube&lt;/h4&gt;
+&lt;p&gt;The event was broadcasted live on YouTube and the recording is available for anyone to watch on &lt;a href=&quot;https://www.youtube.com/watch?v=4KfAS3zrvX8&quot;&gt;https://www.youtube.com/watch?v=4KfAS3zrvX8&lt;/a&gt; . You can also find the &lt;strong&gt;React Native&lt;/strong&gt; track on the channel.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Back to Basics]]></title><description><![CDATA[It’s been a long time since I wrote anything on this site. So, as any web developer would do, I decided to rewrite the whole site instead…]]></description><link>https://jpedroribeiro.com//2019/03/back-to-basics/</link><guid isPermaLink="false">https://jpedroribeiro.com//2019/03/back-to-basics/</guid><pubDate>Sat, 30 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It’s been a long time since I wrote anything on this site. So, as any web developer would do, I decided to rewrite the whole site instead.&lt;/p&gt;
 &lt;h2&gt;Out with the old…&lt;/h2&gt;
 &lt;p&gt;My previous hosting provider was stuck in the 2000’s, and this is me being nice. It was very difficult (read: &lt;em&gt;impossible&lt;/em&gt;) to upgrade &lt;strong&gt;backend applications&lt;/strong&gt;, which led me to find hacky alternatives to achieve what I needed.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;Plesk&lt;/em&gt; version was so old that there was no documentation or support available. If you’ve never used Plesk before… consider yourself lucky.&lt;/p&gt;
@@ -240,7 +267,7 @@ bbcResults
 &lt;p&gt;Nice and easy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Understanding Bandwidth vs Latency Through An Analogy]]></title><description><![CDATA[To understand how  performance  can affect your website, it’s important to understand common terms and which part they play in a  network…]]></description><link>https://jpedroribeiro.com//2016/05/understanding-bandwidth-vs-latency-through-an-analogy/</link><guid isPermaLink="false">https://jpedroribeiro.com//2016/05/understanding-bandwidth-vs-latency-through-an-analogy/</guid><pubDate>Sat, 14 May 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/55a81e98d53f6a96da2365c79fec3b05/911d5/road-1024x683.jpg&quot;
+    href=&quot;/static/55a81e98d53f6a96da2365c79fec3b05/1f853/road-1024x683.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -259,12 +286,12 @@ bbcResults
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;road&quot;
         title=&quot;&quot;
-        src=&quot;/static/55a81e98d53f6a96da2365c79fec3b05/44e84/road-1024x683.jpg&quot;
-        srcset=&quot;/static/55a81e98d53f6a96da2365c79fec3b05/68355/road-1024x683.jpg 148w,
-/static/55a81e98d53f6a96da2365c79fec3b05/ada22/road-1024x683.jpg 295w,
-/static/55a81e98d53f6a96da2365c79fec3b05/44e84/road-1024x683.jpg 590w,
-/static/55a81e98d53f6a96da2365c79fec3b05/274de/road-1024x683.jpg 885w,
-/static/55a81e98d53f6a96da2365c79fec3b05/911d5/road-1024x683.jpg 1024w&quot;
+        src=&quot;/static/55a81e98d53f6a96da2365c79fec3b05/c739e/road-1024x683.jpg&quot;
+        srcset=&quot;/static/55a81e98d53f6a96da2365c79fec3b05/8ee9c/road-1024x683.jpg 148w,
+/static/55a81e98d53f6a96da2365c79fec3b05/ebbe7/road-1024x683.jpg 295w,
+/static/55a81e98d53f6a96da2365c79fec3b05/c739e/road-1024x683.jpg 590w,
+/static/55a81e98d53f6a96da2365c79fec3b05/5413e/road-1024x683.jpg 885w,
+/static/55a81e98d53f6a96da2365c79fec3b05/1f853/road-1024x683.jpg 1024w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -302,7 +329,7 @@ console.log(baz);
 &lt;p&gt;Of course, it’s not always like that: 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3b469c1bea49386f1f4523c63f3e0b11/f5fea/dOLkgVR.png&quot;
+    href=&quot;/static/3b469c1bea49386f1f4523c63f3e0b11/9b316/dOLkgVR.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -321,12 +348,12 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Every Stack Overflow Question&quot;
         title=&quot;&quot;
-        src=&quot;/static/3b469c1bea49386f1f4523c63f3e0b11/623ee/dOLkgVR.png&quot;
-        srcset=&quot;/static/3b469c1bea49386f1f4523c63f3e0b11/816c5/dOLkgVR.png 148w,
-/static/3b469c1bea49386f1f4523c63f3e0b11/c766b/dOLkgVR.png 295w,
-/static/3b469c1bea49386f1f4523c63f3e0b11/623ee/dOLkgVR.png 590w,
-/static/3b469c1bea49386f1f4523c63f3e0b11/e5345/dOLkgVR.png 885w,
-/static/3b469c1bea49386f1f4523c63f3e0b11/f5fea/dOLkgVR.png 1017w&quot;
+        src=&quot;/static/3b469c1bea49386f1f4523c63f3e0b11/b9e4f/dOLkgVR.png&quot;
+        srcset=&quot;/static/3b469c1bea49386f1f4523c63f3e0b11/cf440/dOLkgVR.png 148w,
+/static/3b469c1bea49386f1f4523c63f3e0b11/d2d38/dOLkgVR.png 295w,
+/static/3b469c1bea49386f1f4523c63f3e0b11/b9e4f/dOLkgVR.png 590w,
+/static/3b469c1bea49386f1f4523c63f3e0b11/f9b6a/dOLkgVR.png 885w,
+/static/3b469c1bea49386f1f4523c63f3e0b11/9b316/dOLkgVR.png 1017w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -344,7 +371,7 @@ console.log(baz);
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/54651330afb95a6485635a166ce07188/b0b95/Screen-Shot-2016-03-27-at-16.18.40.png&quot;
+    href=&quot;/static/54651330afb95a6485635a166ce07188/6fdc2/Screen-Shot-2016-03-27-at-16.18.40.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -363,10 +390,10 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;r2d2&quot;
         title=&quot;&quot;
-        src=&quot;/static/54651330afb95a6485635a166ce07188/b0b95/Screen-Shot-2016-03-27-at-16.18.40.png&quot;
-        srcset=&quot;/static/54651330afb95a6485635a166ce07188/33a54/Screen-Shot-2016-03-27-at-16.18.40.png 148w,
-/static/54651330afb95a6485635a166ce07188/0af78/Screen-Shot-2016-03-27-at-16.18.40.png 295w,
-/static/54651330afb95a6485635a166ce07188/b0b95/Screen-Shot-2016-03-27-at-16.18.40.png 403w&quot;
+        src=&quot;/static/54651330afb95a6485635a166ce07188/6fdc2/Screen-Shot-2016-03-27-at-16.18.40.png&quot;
+        srcset=&quot;/static/54651330afb95a6485635a166ce07188/cf440/Screen-Shot-2016-03-27-at-16.18.40.png 148w,
+/static/54651330afb95a6485635a166ce07188/d2d38/Screen-Shot-2016-03-27-at-16.18.40.png 295w,
+/static/54651330afb95a6485635a166ce07188/6fdc2/Screen-Shot-2016-03-27-at-16.18.40.png 403w&quot;
         sizes=&quot;(max-width: 403px) 100vw, 403px&quot;
       /&gt;
     &lt;/span&gt;
@@ -389,7 +416,7 @@ console.log(baz);
 &lt;p&gt;This post is part of the &lt;a href=&quot;https://twitter.com/hashtag/startyourshift&quot;&gt;#startYourShift&lt;/a&gt; initiative where everyone is invited to write about different topics each month.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thoughts on Front-end Tooling]]></title><description><![CDATA[ Being a front-end developer means keeping up with current trends. It doesn’t mean you have to master them all, however you are expected to…]]></description><link>https://jpedroribeiro.com//2016/02/thoughts-on-front-end-tooling/</link><guid isPermaLink="false">https://jpedroribeiro.com//2016/02/thoughts-on-front-end-tooling/</guid><pubDate>Sun, 28 Feb 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/17b2321066ab6f9730dc032543e461c8/0dfef/choices-1.jpg&quot;
+    href=&quot;/static/17b2321066ab6f9730dc032543e461c8/498ee/choices-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -408,11 +435,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;choices&quot;
         title=&quot;&quot;
-        src=&quot;/static/17b2321066ab6f9730dc032543e461c8/44e84/choices-1.jpg&quot;
-        srcset=&quot;/static/17b2321066ab6f9730dc032543e461c8/68355/choices-1.jpg 148w,
-/static/17b2321066ab6f9730dc032543e461c8/ada22/choices-1.jpg 295w,
-/static/17b2321066ab6f9730dc032543e461c8/44e84/choices-1.jpg 590w,
-/static/17b2321066ab6f9730dc032543e461c8/0dfef/choices-1.jpg 730w&quot;
+        src=&quot;/static/17b2321066ab6f9730dc032543e461c8/c739e/choices-1.jpg&quot;
+        srcset=&quot;/static/17b2321066ab6f9730dc032543e461c8/8ee9c/choices-1.jpg 148w,
+/static/17b2321066ab6f9730dc032543e461c8/ebbe7/choices-1.jpg 295w,
+/static/17b2321066ab6f9730dc032543e461c8/c739e/choices-1.jpg 590w,
+/static/17b2321066ab6f9730dc032543e461c8/498ee/choices-1.jpg 730w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -453,11 +480,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The Shift&quot;
         title=&quot;&quot;
-        src=&quot;/static/7b6640571643db7d1a8c8c3223e6b954/44e84/post-image_The-Shift_color.jpg&quot;
-        srcset=&quot;/static/7b6640571643db7d1a8c8c3223e6b954/68355/post-image_The-Shift_color.jpg 148w,
-/static/7b6640571643db7d1a8c8c3223e6b954/ada22/post-image_The-Shift_color.jpg 295w,
-/static/7b6640571643db7d1a8c8c3223e6b954/44e84/post-image_The-Shift_color.jpg 590w,
-/static/7b6640571643db7d1a8c8c3223e6b954/cd70e/post-image_The-Shift_color.jpg 798w&quot;
+        src=&quot;/static/7b6640571643db7d1a8c8c3223e6b954/c739e/post-image_The-Shift_color.jpg&quot;
+        srcset=&quot;/static/7b6640571643db7d1a8c8c3223e6b954/8ee9c/post-image_The-Shift_color.jpg 148w,
+/static/7b6640571643db7d1a8c8c3223e6b954/ebbe7/post-image_The-Shift_color.jpg 295w,
+/static/7b6640571643db7d1a8c8c3223e6b954/c739e/post-image_The-Shift_color.jpg 590w,
+/static/7b6640571643db7d1a8c8c3223e6b954/117bc/post-image_The-Shift_color.jpg 798w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -486,7 +513,7 @@ console.log(baz);
 &lt;p&gt;What about you? What’s your process? Let me know at &lt;a href=&quot;http://www.twitter.com/jpedroribeiro&quot;&gt;@jpedroribeiro&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Baseliner: My First Chrome Extension]]></title><description><![CDATA[ I’ve build a small tool a while ago to help me align elements on a page and keep the baseline consistent. It adds a customisable horizontal…]]></description><link>https://jpedroribeiro.com//2015/08/baseliner-my-first-chrome-extension/</link><guid isPermaLink="false">https://jpedroribeiro.com//2015/08/baseliner-my-first-chrome-extension/</guid><pubDate>Sun, 30 Aug 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bc0a46ddd0701d679630f03a27080b08/35098/baseliner-300x187.png&quot;
+    href=&quot;/static/bc0a46ddd0701d679630f03a27080b08/135ae/baseliner-300x187.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -505,10 +532,10 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Baseliner in action&quot;
         title=&quot;&quot;
-        src=&quot;/static/bc0a46ddd0701d679630f03a27080b08/35098/baseliner-300x187.png&quot;
-        srcset=&quot;/static/bc0a46ddd0701d679630f03a27080b08/1d926/baseliner-300x187.png 148w,
-/static/bc0a46ddd0701d679630f03a27080b08/c07ff/baseliner-300x187.png 295w,
-/static/bc0a46ddd0701d679630f03a27080b08/35098/baseliner-300x187.png 300w&quot;
+        src=&quot;/static/bc0a46ddd0701d679630f03a27080b08/135ae/baseliner-300x187.png&quot;
+        srcset=&quot;/static/bc0a46ddd0701d679630f03a27080b08/cf440/baseliner-300x187.png 148w,
+/static/bc0a46ddd0701d679630f03a27080b08/d2d38/baseliner-300x187.png 295w,
+/static/bc0a46ddd0701d679630f03a27080b08/135ae/baseliner-300x187.png 300w&quot;
         sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
       /&gt;
     &lt;/span&gt;
@@ -545,9 +572,9 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;expert&quot;
         title=&quot;&quot;
-        src=&quot;/static/9557bf5ff53f9df8904cf452e615b5e2/5bb15/expert.jpg&quot;
-        srcset=&quot;/static/9557bf5ff53f9df8904cf452e615b5e2/23c5c/expert.jpg 148w,
-/static/9557bf5ff53f9df8904cf452e615b5e2/5bb15/expert.jpg 260w&quot;
+        src=&quot;/static/9557bf5ff53f9df8904cf452e615b5e2/125c2/expert.jpg&quot;
+        srcset=&quot;/static/9557bf5ff53f9df8904cf452e615b5e2/8ee9c/expert.jpg 148w,
+/static/9557bf5ff53f9df8904cf452e615b5e2/125c2/expert.jpg 260w&quot;
         sizes=&quot;(max-width: 260px) 100vw, 260px&quot;
       /&gt;
     &lt;/span&gt;
@@ -573,10 +600,10 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The Cover 300x300&quot;
         title=&quot;The_Cover&quot;
-        src=&quot;/static/bc025bf57c5c17cbc3c606f2d4d82215/35098/The_Cover-300x300.png&quot;
-        srcset=&quot;/static/bc025bf57c5c17cbc3c606f2d4d82215/1d926/The_Cover-300x300.png 148w,
-/static/bc025bf57c5c17cbc3c606f2d4d82215/c07ff/The_Cover-300x300.png 295w,
-/static/bc025bf57c5c17cbc3c606f2d4d82215/35098/The_Cover-300x300.png 300w&quot;
+        src=&quot;/static/bc025bf57c5c17cbc3c606f2d4d82215/135ae/The_Cover-300x300.png&quot;
+        srcset=&quot;/static/bc025bf57c5c17cbc3c606f2d4d82215/cf440/The_Cover-300x300.png 148w,
+/static/bc025bf57c5c17cbc3c606f2d4d82215/d2d38/The_Cover-300x300.png 295w,
+/static/bc025bf57c5c17cbc3c606f2d4d82215/135ae/The_Cover-300x300.png 300w&quot;
         sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
       /&gt;
     &lt;/span&gt;
@@ -628,7 +655,7 @@ console.log(baz);
 &lt;p&gt;Got any other solution? &lt;a href=&quot;http://jpedroribeiro.com/contact-me/&quot; title=&quot;Contact Me&quot;&gt;Let me know&lt;/a&gt;!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What Is Media Queries And How To Use Them]]></title><description><![CDATA[Mobile, tablets, netbooks… today people access websites using a variety of computers and gadgets and that is great, it enable us to reach…]]></description><link>https://jpedroribeiro.com//2012/07/what-is-media-queries-and-how-to-use-them/</link><guid isPermaLink="false">https://jpedroribeiro.com//2012/07/what-is-media-queries-and-how-to-use-them/</guid><pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/77fb42222bd1227903ed883f96aaa2fa/2677c/mediaqueries-main.jpg&quot;
+    href=&quot;/static/77fb42222bd1227903ed883f96aaa2fa/cad07/mediaqueries-main.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -647,11 +674,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;What Is Media Queries And How To Use Them&quot;
         title=&quot;mediaqueries-main&quot;
-        src=&quot;/static/77fb42222bd1227903ed883f96aaa2fa/44e84/mediaqueries-main.jpg&quot;
-        srcset=&quot;/static/77fb42222bd1227903ed883f96aaa2fa/68355/mediaqueries-main.jpg 148w,
-/static/77fb42222bd1227903ed883f96aaa2fa/ada22/mediaqueries-main.jpg 295w,
-/static/77fb42222bd1227903ed883f96aaa2fa/44e84/mediaqueries-main.jpg 590w,
-/static/77fb42222bd1227903ed883f96aaa2fa/2677c/mediaqueries-main.jpg 720w&quot;
+        src=&quot;/static/77fb42222bd1227903ed883f96aaa2fa/c739e/mediaqueries-main.jpg&quot;
+        srcset=&quot;/static/77fb42222bd1227903ed883f96aaa2fa/8ee9c/mediaqueries-main.jpg 148w,
+/static/77fb42222bd1227903ed883f96aaa2fa/ebbe7/mediaqueries-main.jpg 295w,
+/static/77fb42222bd1227903ed883f96aaa2fa/c739e/mediaqueries-main.jpg 590w,
+/static/77fb42222bd1227903ed883f96aaa2fa/cad07/mediaqueries-main.jpg 720w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -667,7 +694,7 @@ console.log(baz);
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f2debc1dacb5951d5ca7f269bcd069e6/2677c/mediaqueries.jpg&quot;
+    href=&quot;/static/f2debc1dacb5951d5ca7f269bcd069e6/cad07/mediaqueries.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -686,11 +713,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;mediaqueries&quot;
         title=&quot;mediaqueries&quot;
-        src=&quot;/static/f2debc1dacb5951d5ca7f269bcd069e6/44e84/mediaqueries.jpg&quot;
-        srcset=&quot;/static/f2debc1dacb5951d5ca7f269bcd069e6/68355/mediaqueries.jpg 148w,
-/static/f2debc1dacb5951d5ca7f269bcd069e6/ada22/mediaqueries.jpg 295w,
-/static/f2debc1dacb5951d5ca7f269bcd069e6/44e84/mediaqueries.jpg 590w,
-/static/f2debc1dacb5951d5ca7f269bcd069e6/2677c/mediaqueries.jpg 720w&quot;
+        src=&quot;/static/f2debc1dacb5951d5ca7f269bcd069e6/c739e/mediaqueries.jpg&quot;
+        srcset=&quot;/static/f2debc1dacb5951d5ca7f269bcd069e6/8ee9c/mediaqueries.jpg 148w,
+/static/f2debc1dacb5951d5ca7f269bcd069e6/ebbe7/mediaqueries.jpg 295w,
+/static/f2debc1dacb5951d5ca7f269bcd069e6/c739e/mediaqueries.jpg 590w,
+/static/f2debc1dacb5951d5ca7f269bcd069e6/cad07/mediaqueries.jpg 720w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -720,7 +747,7 @@ console.log(baz);
 &lt;p&gt;If you want to go deeper, here is a &lt;a href=&quot;https://developer.mozilla.org/en/CSS/Media_queries&quot;&gt;couple&lt;/a&gt; &lt;a href=&quot;http://reference.sitepoint.com/css/mediaqueries&quot;&gt;links&lt;/a&gt; I recommend on this subject. Also, W3C has &lt;a href=&quot;http://www.w3.org/TR/css3-mediaqueries/&quot;&gt;a page&lt;/a&gt; regarding Media Queries, it’s quite complex but worth the look.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Book Review: Smashing Book 3]]></title><description><![CDATA[Well, I guess third time’s the charm because  Smashing Magazine  finally made it. Their third volume hits the nail on all chapters and it’s…]]></description><link>https://jpedroribeiro.com//2012/06/book-review-smashing-book-3/</link><guid isPermaLink="false">https://jpedroribeiro.com//2012/06/book-review-smashing-book-3/</guid><pubDate>Wed, 20 Jun 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/03f16ee4505ce7e25e34db3953886dd5/b3f23/smashing-book-3_2.png&quot;
+    href=&quot;/static/03f16ee4505ce7e25e34db3953886dd5/d76d9/smashing-book-3_2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -739,10 +766,10 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Book Review: Smashing Book 3&quot;
         title=&quot;smashing-book-3&quot;
-        src=&quot;/static/03f16ee4505ce7e25e34db3953886dd5/b3f23/smashing-book-3_2.png&quot;
-        srcset=&quot;/static/03f16ee4505ce7e25e34db3953886dd5/b7df3/smashing-book-3_2.png 148w,
-/static/03f16ee4505ce7e25e34db3953886dd5/3856b/smashing-book-3_2.png 295w,
-/static/03f16ee4505ce7e25e34db3953886dd5/b3f23/smashing-book-3_2.png 342w&quot;
+        src=&quot;/static/03f16ee4505ce7e25e34db3953886dd5/d76d9/smashing-book-3_2.png&quot;
+        srcset=&quot;/static/03f16ee4505ce7e25e34db3953886dd5/cf440/smashing-book-3_2.png 148w,
+/static/03f16ee4505ce7e25e34db3953886dd5/d2d38/smashing-book-3_2.png 295w,
+/static/03f16ee4505ce7e25e34db3953886dd5/d76d9/smashing-book-3_2.png 342w&quot;
         sizes=&quot;(max-width: 342px) 100vw, 342px&quot;
       /&gt;
     &lt;/span&gt;
@@ -762,7 +789,7 @@ console.log(baz);
 &lt;p&gt;With a new approach and a refreshed idea, the &lt;a href=&quot;https://shop.smashingmagazine.com/smashing-book-3-printed-and-or-ebook.html&quot;&gt;Smashing Book 3&lt;/a&gt; is definitely a book I &lt;strong&gt;recommend&lt;/strong&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HTML5 & CSS3 Curriculum Vitae (Résumé) Template]]></title><description><![CDATA[I was tired of my old  CV  and lately I was using the  LinkedIn  auto generated  PDF  CV, which is quite nice and handy but it lacks…]]></description><link>https://jpedroribeiro.com//2012/05/html5-css3-curriculum-vitae-resume-template/</link><guid isPermaLink="false">https://jpedroribeiro.com//2012/05/html5-css3-curriculum-vitae-resume-template/</guid><pubDate>Wed, 09 May 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c433d84c0d71d298a76cd674f16cc057/4d08a/html-cv.png&quot;
+    href=&quot;/static/c433d84c0d71d298a76cd674f16cc057/6da3e/html-cv.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -781,11 +808,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;html cv&quot;
         title=&quot;HTML5 &amp; CSS3 Curriculum Vitae (Résumé) Template&quot;
-        src=&quot;/static/c433d84c0d71d298a76cd674f16cc057/623ee/html-cv.png&quot;
-        srcset=&quot;/static/c433d84c0d71d298a76cd674f16cc057/816c5/html-cv.png 148w,
-/static/c433d84c0d71d298a76cd674f16cc057/c766b/html-cv.png 295w,
-/static/c433d84c0d71d298a76cd674f16cc057/623ee/html-cv.png 590w,
-/static/c433d84c0d71d298a76cd674f16cc057/4d08a/html-cv.png 720w&quot;
+        src=&quot;/static/c433d84c0d71d298a76cd674f16cc057/b9e4f/html-cv.png&quot;
+        srcset=&quot;/static/c433d84c0d71d298a76cd674f16cc057/cf440/html-cv.png 148w,
+/static/c433d84c0d71d298a76cd674f16cc057/d2d38/html-cv.png 295w,
+/static/c433d84c0d71d298a76cd674f16cc057/b9e4f/html-cv.png 590w,
+/static/c433d84c0d71d298a76cd674f16cc057/6da3e/html-cv.png 720w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -806,7 +833,7 @@ console.log(baz);
 &lt;p&gt;Any feedback on this is always welcome.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HTML5 and CSS3 Boilerplate files]]></title><description><![CDATA[Boilerplate  is a set of files composed to be used over and over again. In  front-end development  (any area actually), starting from…]]></description><link>https://jpedroribeiro.com//2012/02/html5-and-css3-boilerplate-files/</link><guid isPermaLink="false">https://jpedroribeiro.com//2012/02/html5-and-css3-boilerplate-files/</guid><pubDate>Tue, 28 Feb 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7ca682fc9d10f89ec413979e68fda5e1/2677c/boilerplate.jpg&quot;
+    href=&quot;/static/7ca682fc9d10f89ec413979e68fda5e1/cad07/boilerplate.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -825,11 +852,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;boilerplate&quot;
         title=&quot;boilerplate&quot;
-        src=&quot;/static/7ca682fc9d10f89ec413979e68fda5e1/44e84/boilerplate.jpg&quot;
-        srcset=&quot;/static/7ca682fc9d10f89ec413979e68fda5e1/68355/boilerplate.jpg 148w,
-/static/7ca682fc9d10f89ec413979e68fda5e1/ada22/boilerplate.jpg 295w,
-/static/7ca682fc9d10f89ec413979e68fda5e1/44e84/boilerplate.jpg 590w,
-/static/7ca682fc9d10f89ec413979e68fda5e1/2677c/boilerplate.jpg 720w&quot;
+        src=&quot;/static/7ca682fc9d10f89ec413979e68fda5e1/c739e/boilerplate.jpg&quot;
+        srcset=&quot;/static/7ca682fc9d10f89ec413979e68fda5e1/8ee9c/boilerplate.jpg 148w,
+/static/7ca682fc9d10f89ec413979e68fda5e1/ebbe7/boilerplate.jpg 295w,
+/static/7ca682fc9d10f89ec413979e68fda5e1/c739e/boilerplate.jpg 590w,
+/static/7ca682fc9d10f89ec413979e68fda5e1/cad07/boilerplate.jpg 720w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -844,7 +871,7 @@ console.log(baz);
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f4472a6efd2a13fd9ffc7bd95cd378ef/9dec7/html5boilerplate.png&quot;
+    href=&quot;/static/f4472a6efd2a13fd9ffc7bd95cd378ef/925b5/html5boilerplate.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -863,10 +890,10 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;html5boilerplate&quot;
         title=&quot;html5boilerplate&quot;
-        src=&quot;/static/f4472a6efd2a13fd9ffc7bd95cd378ef/9dec7/html5boilerplate.png&quot;
-        srcset=&quot;/static/f4472a6efd2a13fd9ffc7bd95cd378ef/dd7ed/html5boilerplate.png 148w,
-/static/f4472a6efd2a13fd9ffc7bd95cd378ef/2c048/html5boilerplate.png 295w,
-/static/f4472a6efd2a13fd9ffc7bd95cd378ef/9dec7/html5boilerplate.png 465w&quot;
+        src=&quot;/static/f4472a6efd2a13fd9ffc7bd95cd378ef/925b5/html5boilerplate.png&quot;
+        srcset=&quot;/static/f4472a6efd2a13fd9ffc7bd95cd378ef/cf440/html5boilerplate.png 148w,
+/static/f4472a6efd2a13fd9ffc7bd95cd378ef/d2d38/html5boilerplate.png 295w,
+/static/f4472a6efd2a13fd9ffc7bd95cd378ef/925b5/html5boilerplate.png 465w&quot;
         sizes=&quot;(max-width: 465px) 100vw, 465px&quot;
       /&gt;
     &lt;/span&gt;
@@ -883,7 +910,7 @@ console.log(baz);
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cf74c93d657f71c692a9cc1eddff23a5/31149/jquery.png&quot;
+    href=&quot;/static/cf74c93d657f71c692a9cc1eddff23a5/a1ad1/jquery.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -902,9 +929,9 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;jquery&quot;
         title=&quot;jquery&quot;
-        src=&quot;/static/cf74c93d657f71c692a9cc1eddff23a5/31149/jquery.png&quot;
-        srcset=&quot;/static/cf74c93d657f71c692a9cc1eddff23a5/8a3ad/jquery.png 148w,
-/static/cf74c93d657f71c692a9cc1eddff23a5/31149/jquery.png 237w&quot;
+        src=&quot;/static/cf74c93d657f71c692a9cc1eddff23a5/a1ad1/jquery.png&quot;
+        srcset=&quot;/static/cf74c93d657f71c692a9cc1eddff23a5/cf440/jquery.png 148w,
+/static/cf74c93d657f71c692a9cc1eddff23a5/a1ad1/jquery.png 237w&quot;
         sizes=&quot;(max-width: 237px) 100vw, 237px&quot;
       /&gt;
     &lt;/span&gt;
@@ -932,11 +959,11 @@ console.log(baz);
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;CSS Only Drop Down Menu&quot;
         title=&quot;css only drop down&quot;
-        src=&quot;/static/59d370bf39542b42c3facf1ca6252122/44e84/css-only-drop-down.jpg&quot;
-        srcset=&quot;/static/59d370bf39542b42c3facf1ca6252122/68355/css-only-drop-down.jpg 148w,
-/static/59d370bf39542b42c3facf1ca6252122/ada22/css-only-drop-down.jpg 295w,
-/static/59d370bf39542b42c3facf1ca6252122/44e84/css-only-drop-down.jpg 590w,
-/static/59d370bf39542b42c3facf1ca6252122/2677c/css-only-drop-down.jpg 720w&quot;
+        src=&quot;/static/59d370bf39542b42c3facf1ca6252122/c739e/css-only-drop-down.jpg&quot;
+        srcset=&quot;/static/59d370bf39542b42c3facf1ca6252122/8ee9c/css-only-drop-down.jpg 148w,
+/static/59d370bf39542b42c3facf1ca6252122/ebbe7/css-only-drop-down.jpg 295w,
+/static/59d370bf39542b42c3facf1ca6252122/c739e/css-only-drop-down.jpg 590w,
+/static/59d370bf39542b42c3facf1ca6252122/cad07/css-only-drop-down.jpg 720w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1029,7 +1056,7 @@ ol li:hover ol {
 &lt;p&gt;&lt;a href=&quot;http://jpedroribeiro.com/wp-content/uploads/2012/01/css-only-drop-down.html&quot;&gt;&lt;strong&gt;VIEW DEMO&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Book Review: Smashing Book 2]]></title><description><![CDATA[A couple months ago I finished reading  The Smashing Book 2  from the popular web design blog  Smashing Magazine . Just like with the first…]]></description><link>https://jpedroribeiro.com//2012/01/book-review-smashing-book-2/</link><guid isPermaLink="false">https://jpedroribeiro.com//2012/01/book-review-smashing-book-2/</guid><pubDate>Wed, 18 Jan 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fceea37d930da12e052a65e1ebdcfa14/b3f23/buch_dummy_big_3.png&quot;
+    href=&quot;/static/fceea37d930da12e052a65e1ebdcfa14/d76d9/buch_dummy_big_3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1048,10 +1075,10 @@ ol li:hover ol {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;buch dummy big 3&quot;
         title=&quot;smashing book 2&quot;
-        src=&quot;/static/fceea37d930da12e052a65e1ebdcfa14/b3f23/buch_dummy_big_3.png&quot;
-        srcset=&quot;/static/fceea37d930da12e052a65e1ebdcfa14/b7df3/buch_dummy_big_3.png 148w,
-/static/fceea37d930da12e052a65e1ebdcfa14/3856b/buch_dummy_big_3.png 295w,
-/static/fceea37d930da12e052a65e1ebdcfa14/b3f23/buch_dummy_big_3.png 342w&quot;
+        src=&quot;/static/fceea37d930da12e052a65e1ebdcfa14/d76d9/buch_dummy_big_3.png&quot;
+        srcset=&quot;/static/fceea37d930da12e052a65e1ebdcfa14/cf440/buch_dummy_big_3.png 148w,
+/static/fceea37d930da12e052a65e1ebdcfa14/d2d38/buch_dummy_big_3.png 295w,
+/static/fceea37d930da12e052a65e1ebdcfa14/d76d9/buch_dummy_big_3.png 342w&quot;
         sizes=&quot;(max-width: 342px) 100vw, 342px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1066,7 +1093,7 @@ ol li:hover ol {
 &lt;p&gt;It’s a great improvement from their first try and I’m sure a lot of people will like it. It just isn’t the book I was expecting considering what &lt;strong&gt;Smashing Magazine&lt;/strong&gt; represents to the web community.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[So... I Finally Redesigned My Site]]></title><description><![CDATA[Nearly 4 years ago, back in 2008, I decided to create a  blog  and write about all the stuff I was reading and doing, mostly  web  related…]]></description><link>https://jpedroribeiro.com//2012/01/so-i-finally-redesigned-my-site/</link><guid isPermaLink="false">https://jpedroribeiro.com//2012/01/so-i-finally-redesigned-my-site/</guid><pubDate>Fri, 13 Jan 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5220b2e72f06acbd8d64aa5ba46a94db/2677c/redesign.jpg&quot;
+    href=&quot;/static/5220b2e72f06acbd8d64aa5ba46a94db/cad07/redesign.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1085,11 +1112,11 @@ ol li:hover ol {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Website, Redesigned&quot;
         title=&quot;redesign&quot;
-        src=&quot;/static/5220b2e72f06acbd8d64aa5ba46a94db/44e84/redesign.jpg&quot;
-        srcset=&quot;/static/5220b2e72f06acbd8d64aa5ba46a94db/68355/redesign.jpg 148w,
-/static/5220b2e72f06acbd8d64aa5ba46a94db/ada22/redesign.jpg 295w,
-/static/5220b2e72f06acbd8d64aa5ba46a94db/44e84/redesign.jpg 590w,
-/static/5220b2e72f06acbd8d64aa5ba46a94db/2677c/redesign.jpg 720w&quot;
+        src=&quot;/static/5220b2e72f06acbd8d64aa5ba46a94db/c739e/redesign.jpg&quot;
+        srcset=&quot;/static/5220b2e72f06acbd8d64aa5ba46a94db/8ee9c/redesign.jpg 148w,
+/static/5220b2e72f06acbd8d64aa5ba46a94db/ebbe7/redesign.jpg 295w,
+/static/5220b2e72f06acbd8d64aa5ba46a94db/c739e/redesign.jpg 590w,
+/static/5220b2e72f06acbd8d64aa5ba46a94db/cad07/redesign.jpg 720w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1122,11 +1149,11 @@ ol li:hover ol {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;HTML Coding For E-mail Marketing&quot;
         title=&quot;HTML Coding For E-mail Marketing&quot;
-        src=&quot;/static/d7140d5e519e990c90da749b2be54cc1/44e84/email-marketing.jpg&quot;
-        srcset=&quot;/static/d7140d5e519e990c90da749b2be54cc1/68355/email-marketing.jpg 148w,
-/static/d7140d5e519e990c90da749b2be54cc1/ada22/email-marketing.jpg 295w,
-/static/d7140d5e519e990c90da749b2be54cc1/44e84/email-marketing.jpg 590w,
-/static/d7140d5e519e990c90da749b2be54cc1/307be/email-marketing.jpg 644w&quot;
+        src=&quot;/static/d7140d5e519e990c90da749b2be54cc1/c739e/email-marketing.jpg&quot;
+        srcset=&quot;/static/d7140d5e519e990c90da749b2be54cc1/8ee9c/email-marketing.jpg 148w,
+/static/d7140d5e519e990c90da749b2be54cc1/ebbe7/email-marketing.jpg 295w,
+/static/d7140d5e519e990c90da749b2be54cc1/c739e/email-marketing.jpg 590w,
+/static/d7140d5e519e990c90da749b2be54cc1/161f5/email-marketing.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1154,11 +1181,11 @@ ol li:hover ol {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Book Review: Hardboiled Web Design&quot;
         title=&quot;Book Review: Hardboiled Web Design&quot;
-        src=&quot;/static/a22ed360c5aec92a2de84657d535f98b/44e84/hardboiled.jpg&quot;
-        srcset=&quot;/static/a22ed360c5aec92a2de84657d535f98b/68355/hardboiled.jpg 148w,
-/static/a22ed360c5aec92a2de84657d535f98b/ada22/hardboiled.jpg 295w,
-/static/a22ed360c5aec92a2de84657d535f98b/44e84/hardboiled.jpg 590w,
-/static/a22ed360c5aec92a2de84657d535f98b/307be/hardboiled.jpg 644w&quot;
+        src=&quot;/static/a22ed360c5aec92a2de84657d535f98b/c739e/hardboiled.jpg&quot;
+        srcset=&quot;/static/a22ed360c5aec92a2de84657d535f98b/8ee9c/hardboiled.jpg 148w,
+/static/a22ed360c5aec92a2de84657d535f98b/ebbe7/hardboiled.jpg 295w,
+/static/a22ed360c5aec92a2de84657d535f98b/c739e/hardboiled.jpg 590w,
+/static/a22ed360c5aec92a2de84657d535f98b/161f5/hardboiled.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1185,11 +1212,11 @@ ol li:hover ol {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Creating Expandable Banners with Flash and Javascript&quot;
         title=&quot;Creating Expandable Banners with Flash and Javascript&quot;
-        src=&quot;/static/61a76935cf2a3135dc0a2566f9315f68/44e84/expandable-banner.jpg&quot;
-        srcset=&quot;/static/61a76935cf2a3135dc0a2566f9315f68/68355/expandable-banner.jpg 148w,
-/static/61a76935cf2a3135dc0a2566f9315f68/ada22/expandable-banner.jpg 295w,
-/static/61a76935cf2a3135dc0a2566f9315f68/44e84/expandable-banner.jpg 590w,
-/static/61a76935cf2a3135dc0a2566f9315f68/307be/expandable-banner.jpg 644w&quot;
+        src=&quot;/static/61a76935cf2a3135dc0a2566f9315f68/c739e/expandable-banner.jpg&quot;
+        srcset=&quot;/static/61a76935cf2a3135dc0a2566f9315f68/8ee9c/expandable-banner.jpg 148w,
+/static/61a76935cf2a3135dc0a2566f9315f68/ebbe7/expandable-banner.jpg 295w,
+/static/61a76935cf2a3135dc0a2566f9315f68/c739e/expandable-banner.jpg 590w,
+/static/61a76935cf2a3135dc0a2566f9315f68/161f5/expandable-banner.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1208,7 +1235,7 @@ ol li:hover ol {
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f1b4af7a5b1c3f80a1c9522b97b919ce/8ab29/flash-layers.png&quot;
+    href=&quot;/static/f1b4af7a5b1c3f80a1c9522b97b919ce/d502a/flash-layers.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1227,10 +1254,10 @@ ol li:hover ol {
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;flash layers&quot;
         title=&quot;flash-layers&quot;
-        src=&quot;/static/f1b4af7a5b1c3f80a1c9522b97b919ce/8ab29/flash-layers.png&quot;
-        srcset=&quot;/static/f1b4af7a5b1c3f80a1c9522b97b919ce/a714b/flash-layers.png 148w,
-/static/f1b4af7a5b1c3f80a1c9522b97b919ce/53001/flash-layers.png 295w,
-/static/f1b4af7a5b1c3f80a1c9522b97b919ce/8ab29/flash-layers.png 511w&quot;
+        src=&quot;/static/f1b4af7a5b1c3f80a1c9522b97b919ce/d502a/flash-layers.png&quot;
+        srcset=&quot;/static/f1b4af7a5b1c3f80a1c9522b97b919ce/cf440/flash-layers.png 148w,
+/static/f1b4af7a5b1c3f80a1c9522b97b919ce/d2d38/flash-layers.png 295w,
+/static/f1b4af7a5b1c3f80a1c9522b97b919ce/d502a/flash-layers.png 511w&quot;
         sizes=&quot;(max-width: 511px) 100vw, 511px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1285,11 +1312,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Please Start From The Beginning...&quot;
         title=&quot;Please Start From The Beginning...&quot;
-        src=&quot;/static/976e95a8c492134c6c0ee2e6732ffd41/44e84/psftb.jpg&quot;
-        srcset=&quot;/static/976e95a8c492134c6c0ee2e6732ffd41/68355/psftb.jpg 148w,
-/static/976e95a8c492134c6c0ee2e6732ffd41/ada22/psftb.jpg 295w,
-/static/976e95a8c492134c6c0ee2e6732ffd41/44e84/psftb.jpg 590w,
-/static/976e95a8c492134c6c0ee2e6732ffd41/307be/psftb.jpg 644w&quot;
+        src=&quot;/static/976e95a8c492134c6c0ee2e6732ffd41/c739e/psftb.jpg&quot;
+        srcset=&quot;/static/976e95a8c492134c6c0ee2e6732ffd41/8ee9c/psftb.jpg 148w,
+/static/976e95a8c492134c6c0ee2e6732ffd41/ebbe7/psftb.jpg 295w,
+/static/976e95a8c492134c6c0ee2e6732ffd41/c739e/psftb.jpg 590w,
+/static/976e95a8c492134c6c0ee2e6732ffd41/161f5/psftb.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1315,11 +1342,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Photoshop: Quick Guide to Smart Object &amp; Smart Filters&quot;
         title=&quot;Photoshop: Quick Guide to Smart Object &amp; Smart Filters&quot;
-        src=&quot;/static/50b26387c10117863927c4f6bcbc05cd/44e84/smart-objects.jpg&quot;
-        srcset=&quot;/static/50b26387c10117863927c4f6bcbc05cd/68355/smart-objects.jpg 148w,
-/static/50b26387c10117863927c4f6bcbc05cd/ada22/smart-objects.jpg 295w,
-/static/50b26387c10117863927c4f6bcbc05cd/44e84/smart-objects.jpg 590w,
-/static/50b26387c10117863927c4f6bcbc05cd/307be/smart-objects.jpg 644w&quot;
+        src=&quot;/static/50b26387c10117863927c4f6bcbc05cd/c739e/smart-objects.jpg&quot;
+        srcset=&quot;/static/50b26387c10117863927c4f6bcbc05cd/8ee9c/smart-objects.jpg 148w,
+/static/50b26387c10117863927c4f6bcbc05cd/ebbe7/smart-objects.jpg 295w,
+/static/50b26387c10117863927c4f6bcbc05cd/c739e/smart-objects.jpg 590w,
+/static/50b26387c10117863927c4f6bcbc05cd/161f5/smart-objects.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1350,7 +1377,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bea3664b20af1f3a54ed38eb82568c4a/8cbec/smart-1.png&quot;
+    href=&quot;/static/bea3664b20af1f3a54ed38eb82568c4a/3a666/smart-1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1369,10 +1396,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Creating Smart Objects&quot;
         title=&quot;&quot;
-        src=&quot;/static/bea3664b20af1f3a54ed38eb82568c4a/8cbec/smart-1.png&quot;
-        srcset=&quot;/static/bea3664b20af1f3a54ed38eb82568c4a/b6b31/smart-1.png 148w,
-/static/bea3664b20af1f3a54ed38eb82568c4a/c3013/smart-1.png 295w,
-/static/bea3664b20af1f3a54ed38eb82568c4a/8cbec/smart-1.png 434w&quot;
+        src=&quot;/static/bea3664b20af1f3a54ed38eb82568c4a/3a666/smart-1.png&quot;
+        srcset=&quot;/static/bea3664b20af1f3a54ed38eb82568c4a/cf440/smart-1.png 148w,
+/static/bea3664b20af1f3a54ed38eb82568c4a/d2d38/smart-1.png 295w,
+/static/bea3664b20af1f3a54ed38eb82568c4a/3a666/smart-1.png 434w&quot;
         sizes=&quot;(max-width: 434px) 100vw, 434px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1395,7 +1422,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/329d3bba47f98181890f0998ac412498/ef4d4/smart-2.png&quot;
+    href=&quot;/static/329d3bba47f98181890f0998ac412498/34e8a/smart-2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1414,11 +1441,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Creating Smart Filters&quot;
         title=&quot;&quot;
-        src=&quot;/static/329d3bba47f98181890f0998ac412498/623ee/smart-2.png&quot;
-        srcset=&quot;/static/329d3bba47f98181890f0998ac412498/816c5/smart-2.png 148w,
-/static/329d3bba47f98181890f0998ac412498/c766b/smart-2.png 295w,
-/static/329d3bba47f98181890f0998ac412498/623ee/smart-2.png 590w,
-/static/329d3bba47f98181890f0998ac412498/ef4d4/smart-2.png 600w&quot;
+        src=&quot;/static/329d3bba47f98181890f0998ac412498/b9e4f/smart-2.png&quot;
+        srcset=&quot;/static/329d3bba47f98181890f0998ac412498/cf440/smart-2.png 148w,
+/static/329d3bba47f98181890f0998ac412498/d2d38/smart-2.png 295w,
+/static/329d3bba47f98181890f0998ac412498/b9e4f/smart-2.png 590w,
+/static/329d3bba47f98181890f0998ac412498/34e8a/smart-2.png 600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1440,11 +1467,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Cross Browser Testing Resources&quot;
         title=&quot;Cross Browser Testing Resources&quot;
-        src=&quot;/static/4a2a205e089e3c28220df5645328f6a9/44e84/cross-browser-testing-resources.jpg&quot;
-        srcset=&quot;/static/4a2a205e089e3c28220df5645328f6a9/68355/cross-browser-testing-resources.jpg 148w,
-/static/4a2a205e089e3c28220df5645328f6a9/ada22/cross-browser-testing-resources.jpg 295w,
-/static/4a2a205e089e3c28220df5645328f6a9/44e84/cross-browser-testing-resources.jpg 590w,
-/static/4a2a205e089e3c28220df5645328f6a9/307be/cross-browser-testing-resources.jpg 644w&quot;
+        src=&quot;/static/4a2a205e089e3c28220df5645328f6a9/c739e/cross-browser-testing-resources.jpg&quot;
+        srcset=&quot;/static/4a2a205e089e3c28220df5645328f6a9/8ee9c/cross-browser-testing-resources.jpg 148w,
+/static/4a2a205e089e3c28220df5645328f6a9/ebbe7/cross-browser-testing-resources.jpg 295w,
+/static/4a2a205e089e3c28220df5645328f6a9/c739e/cross-browser-testing-resources.jpg 590w,
+/static/4a2a205e089e3c28220df5645328f6a9/161f5/cross-browser-testing-resources.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1468,10 +1495,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IETester&quot;
         title=&quot;IETester&quot;
-        src=&quot;/static/bfe5178c8fa18ccf47961d2f00bd4287/eca92/ietester.png&quot;
-        srcset=&quot;/static/bfe5178c8fa18ccf47961d2f00bd4287/d8073/ietester.png 148w,
-/static/bfe5178c8fa18ccf47961d2f00bd4287/27594/ietester.png 295w,
-/static/bfe5178c8fa18ccf47961d2f00bd4287/eca92/ietester.png 381w&quot;
+        src=&quot;/static/bfe5178c8fa18ccf47961d2f00bd4287/e37cd/ietester.png&quot;
+        srcset=&quot;/static/bfe5178c8fa18ccf47961d2f00bd4287/cf440/ietester.png 148w,
+/static/bfe5178c8fa18ccf47961d2f00bd4287/d2d38/ietester.png 295w,
+/static/bfe5178c8fa18ccf47961d2f00bd4287/e37cd/ietester.png 381w&quot;
         sizes=&quot;(max-width: 381px) 100vw, 381px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1492,10 +1519,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Browsershots&quot;
         title=&quot;Browsershots&quot;
-        src=&quot;/static/f74b3d35344174b214b7e8e0efb02319/eca92/browsershots.png&quot;
-        srcset=&quot;/static/f74b3d35344174b214b7e8e0efb02319/d8073/browsershots.png 148w,
-/static/f74b3d35344174b214b7e8e0efb02319/27594/browsershots.png 295w,
-/static/f74b3d35344174b214b7e8e0efb02319/eca92/browsershots.png 381w&quot;
+        src=&quot;/static/f74b3d35344174b214b7e8e0efb02319/e37cd/browsershots.png&quot;
+        srcset=&quot;/static/f74b3d35344174b214b7e8e0efb02319/cf440/browsershots.png 148w,
+/static/f74b3d35344174b214b7e8e0efb02319/d2d38/browsershots.png 295w,
+/static/f74b3d35344174b214b7e8e0efb02319/e37cd/browsershots.png 381w&quot;
         sizes=&quot;(max-width: 381px) 100vw, 381px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1516,10 +1543,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Adobe Browserlabs&quot;
         title=&quot;Adobe Browserlabs&quot;
-        src=&quot;/static/662c7f3cbd8fd58c4ffac57671ed1125/eca92/browserlabs.png&quot;
-        srcset=&quot;/static/662c7f3cbd8fd58c4ffac57671ed1125/d8073/browserlabs.png 148w,
-/static/662c7f3cbd8fd58c4ffac57671ed1125/27594/browserlabs.png 295w,
-/static/662c7f3cbd8fd58c4ffac57671ed1125/eca92/browserlabs.png 381w&quot;
+        src=&quot;/static/662c7f3cbd8fd58c4ffac57671ed1125/e37cd/browserlabs.png&quot;
+        srcset=&quot;/static/662c7f3cbd8fd58c4ffac57671ed1125/cf440/browserlabs.png 148w,
+/static/662c7f3cbd8fd58c4ffac57671ed1125/d2d38/browserlabs.png 295w,
+/static/662c7f3cbd8fd58c4ffac57671ed1125/e37cd/browserlabs.png 381w&quot;
         sizes=&quot;(max-width: 381px) 100vw, 381px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1540,10 +1567,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Spoon Browser Sandbox&quot;
         title=&quot;Spoon Browser Sandbox&quot;
-        src=&quot;/static/b0118026465388477b96e8a4242e3e18/eca92/spoon.png&quot;
-        srcset=&quot;/static/b0118026465388477b96e8a4242e3e18/d8073/spoon.png 148w,
-/static/b0118026465388477b96e8a4242e3e18/27594/spoon.png 295w,
-/static/b0118026465388477b96e8a4242e3e18/eca92/spoon.png 381w&quot;
+        src=&quot;/static/b0118026465388477b96e8a4242e3e18/e37cd/spoon.png&quot;
+        srcset=&quot;/static/b0118026465388477b96e8a4242e3e18/cf440/spoon.png 148w,
+/static/b0118026465388477b96e8a4242e3e18/d2d38/spoon.png 295w,
+/static/b0118026465388477b96e8a4242e3e18/e37cd/spoon.png 381w&quot;
         sizes=&quot;(max-width: 381px) 100vw, 381px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1563,11 +1590,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Book Review: Logo Design Love&quot;
         title=&quot;Book Review: Logo Design Love&quot;
-        src=&quot;/static/94eb8a48ea471035bf0cf0e5d72fc039/44e84/logo-design-love.jpg&quot;
-        srcset=&quot;/static/94eb8a48ea471035bf0cf0e5d72fc039/68355/logo-design-love.jpg 148w,
-/static/94eb8a48ea471035bf0cf0e5d72fc039/ada22/logo-design-love.jpg 295w,
-/static/94eb8a48ea471035bf0cf0e5d72fc039/44e84/logo-design-love.jpg 590w,
-/static/94eb8a48ea471035bf0cf0e5d72fc039/307be/logo-design-love.jpg 644w&quot;
+        src=&quot;/static/94eb8a48ea471035bf0cf0e5d72fc039/c739e/logo-design-love.jpg&quot;
+        srcset=&quot;/static/94eb8a48ea471035bf0cf0e5d72fc039/8ee9c/logo-design-love.jpg 148w,
+/static/94eb8a48ea471035bf0cf0e5d72fc039/ebbe7/logo-design-love.jpg 295w,
+/static/94eb8a48ea471035bf0cf0e5d72fc039/c739e/logo-design-love.jpg 590w,
+/static/94eb8a48ea471035bf0cf0e5d72fc039/161f5/logo-design-love.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1596,11 +1623,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;How to Make the Most of Design Tutorials Without Losing Your Soul&quot;
         title=&quot;How to Make the Most of Design Tutorials Without Losing Your Soul&quot;
-        src=&quot;/static/7385ee5a986ac110a576e2a0eeb43b71/44e84/design-tutorial-soul.jpg&quot;
-        srcset=&quot;/static/7385ee5a986ac110a576e2a0eeb43b71/68355/design-tutorial-soul.jpg 148w,
-/static/7385ee5a986ac110a576e2a0eeb43b71/ada22/design-tutorial-soul.jpg 295w,
-/static/7385ee5a986ac110a576e2a0eeb43b71/44e84/design-tutorial-soul.jpg 590w,
-/static/7385ee5a986ac110a576e2a0eeb43b71/307be/design-tutorial-soul.jpg 644w&quot;
+        src=&quot;/static/7385ee5a986ac110a576e2a0eeb43b71/c739e/design-tutorial-soul.jpg&quot;
+        srcset=&quot;/static/7385ee5a986ac110a576e2a0eeb43b71/8ee9c/design-tutorial-soul.jpg 148w,
+/static/7385ee5a986ac110a576e2a0eeb43b71/ebbe7/design-tutorial-soul.jpg 295w,
+/static/7385ee5a986ac110a576e2a0eeb43b71/c739e/design-tutorial-soul.jpg 590w,
+/static/7385ee5a986ac110a576e2a0eeb43b71/161f5/design-tutorial-soul.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1648,11 +1675,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Know Your Type: Part 2 – Type Categories&quot;
         title=&quot;Know Your Type: Part 2 – Type Categories&quot;
-        src=&quot;/static/e06fbe2f3c131bac0a8d414c6534b9a4/623ee/type-categories.png&quot;
-        srcset=&quot;/static/e06fbe2f3c131bac0a8d414c6534b9a4/816c5/type-categories.png 148w,
-/static/e06fbe2f3c131bac0a8d414c6534b9a4/c766b/type-categories.png 295w,
-/static/e06fbe2f3c131bac0a8d414c6534b9a4/623ee/type-categories.png 590w,
-/static/e06fbe2f3c131bac0a8d414c6534b9a4/5c1b2/type-categories.png 644w&quot;
+        src=&quot;/static/e06fbe2f3c131bac0a8d414c6534b9a4/b9e4f/type-categories.png&quot;
+        srcset=&quot;/static/e06fbe2f3c131bac0a8d414c6534b9a4/cf440/type-categories.png 148w,
+/static/e06fbe2f3c131bac0a8d414c6534b9a4/d2d38/type-categories.png 295w,
+/static/e06fbe2f3c131bac0a8d414c6534b9a4/b9e4f/type-categories.png 590w,
+/static/e06fbe2f3c131bac0a8d414c6534b9a4/5b815/type-categories.png 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1688,11 +1715,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Book Review: Making and Breaking the Grid&quot;
         title=&quot;Book Review: Making and Breaking the Grid&quot;
-        src=&quot;/static/9cb524a77a8548807c973b1971aeb45c/44e84/breaking-the-grid.jpg&quot;
-        srcset=&quot;/static/9cb524a77a8548807c973b1971aeb45c/68355/breaking-the-grid.jpg 148w,
-/static/9cb524a77a8548807c973b1971aeb45c/ada22/breaking-the-grid.jpg 295w,
-/static/9cb524a77a8548807c973b1971aeb45c/44e84/breaking-the-grid.jpg 590w,
-/static/9cb524a77a8548807c973b1971aeb45c/307be/breaking-the-grid.jpg 644w&quot;
+        src=&quot;/static/9cb524a77a8548807c973b1971aeb45c/c739e/breaking-the-grid.jpg&quot;
+        srcset=&quot;/static/9cb524a77a8548807c973b1971aeb45c/8ee9c/breaking-the-grid.jpg 148w,
+/static/9cb524a77a8548807c973b1971aeb45c/ebbe7/breaking-the-grid.jpg 295w,
+/static/9cb524a77a8548807c973b1971aeb45c/c739e/breaking-the-grid.jpg 590w,
+/static/9cb524a77a8548807c973b1971aeb45c/161f5/breaking-the-grid.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1719,11 +1746,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Portfolio: Hooke &amp; MacDonald&quot;
         title=&quot;Portfolio: Hooke &amp; MacDonald&quot;
-        src=&quot;/static/a52963ed704ab0ad5c8fd8cc9e2f560b/44e84/portfolio-hooke.jpg&quot;
-        srcset=&quot;/static/a52963ed704ab0ad5c8fd8cc9e2f560b/68355/portfolio-hooke.jpg 148w,
-/static/a52963ed704ab0ad5c8fd8cc9e2f560b/ada22/portfolio-hooke.jpg 295w,
-/static/a52963ed704ab0ad5c8fd8cc9e2f560b/44e84/portfolio-hooke.jpg 590w,
-/static/a52963ed704ab0ad5c8fd8cc9e2f560b/307be/portfolio-hooke.jpg 644w&quot;
+        src=&quot;/static/a52963ed704ab0ad5c8fd8cc9e2f560b/c739e/portfolio-hooke.jpg&quot;
+        srcset=&quot;/static/a52963ed704ab0ad5c8fd8cc9e2f560b/8ee9c/portfolio-hooke.jpg 148w,
+/static/a52963ed704ab0ad5c8fd8cc9e2f560b/ebbe7/portfolio-hooke.jpg 295w,
+/static/a52963ed704ab0ad5c8fd8cc9e2f560b/c739e/portfolio-hooke.jpg 590w,
+/static/a52963ed704ab0ad5c8fd8cc9e2f560b/161f5/portfolio-hooke.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1735,7 +1762,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/307be/hmd-frontpage1.jpg&quot;
+    href=&quot;/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/161f5/hmd-frontpage1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1754,11 +1781,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hmd---frontpage&quot;
         title=&quot;hmd---frontpage&quot;
-        src=&quot;/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/44e84/hmd-frontpage1.jpg&quot;
-        srcset=&quot;/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/68355/hmd-frontpage1.jpg 148w,
-/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/ada22/hmd-frontpage1.jpg 295w,
-/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/44e84/hmd-frontpage1.jpg 590w,
-/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/307be/hmd-frontpage1.jpg 644w&quot;
+        src=&quot;/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/c739e/hmd-frontpage1.jpg&quot;
+        srcset=&quot;/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/8ee9c/hmd-frontpage1.jpg 148w,
+/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/ebbe7/hmd-frontpage1.jpg 295w,
+/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/c739e/hmd-frontpage1.jpg 590w,
+/static/d8b75f8c1b2f80cfd3e4ea339ceb49c2/161f5/hmd-frontpage1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1769,7 +1796,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a0a68a404572f43961bf492d3b52b50c/307be/hmd-list1.jpg&quot;
+    href=&quot;/static/a0a68a404572f43961bf492d3b52b50c/161f5/hmd-list1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1788,11 +1815,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hmd---list&quot;
         title=&quot;hmd---list&quot;
-        src=&quot;/static/a0a68a404572f43961bf492d3b52b50c/44e84/hmd-list1.jpg&quot;
-        srcset=&quot;/static/a0a68a404572f43961bf492d3b52b50c/68355/hmd-list1.jpg 148w,
-/static/a0a68a404572f43961bf492d3b52b50c/ada22/hmd-list1.jpg 295w,
-/static/a0a68a404572f43961bf492d3b52b50c/44e84/hmd-list1.jpg 590w,
-/static/a0a68a404572f43961bf492d3b52b50c/307be/hmd-list1.jpg 644w&quot;
+        src=&quot;/static/a0a68a404572f43961bf492d3b52b50c/c739e/hmd-list1.jpg&quot;
+        srcset=&quot;/static/a0a68a404572f43961bf492d3b52b50c/8ee9c/hmd-list1.jpg 148w,
+/static/a0a68a404572f43961bf492d3b52b50c/ebbe7/hmd-list1.jpg 295w,
+/static/a0a68a404572f43961bf492d3b52b50c/c739e/hmd-list1.jpg 590w,
+/static/a0a68a404572f43961bf492d3b52b50c/161f5/hmd-list1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1803,7 +1830,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7289b9f174a3995f0163d0eca2d6a520/307be/hmd-map1.jpg&quot;
+    href=&quot;/static/7289b9f174a3995f0163d0eca2d6a520/161f5/hmd-map1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1822,11 +1849,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hmd---map&quot;
         title=&quot;hmd---map&quot;
-        src=&quot;/static/7289b9f174a3995f0163d0eca2d6a520/44e84/hmd-map1.jpg&quot;
-        srcset=&quot;/static/7289b9f174a3995f0163d0eca2d6a520/68355/hmd-map1.jpg 148w,
-/static/7289b9f174a3995f0163d0eca2d6a520/ada22/hmd-map1.jpg 295w,
-/static/7289b9f174a3995f0163d0eca2d6a520/44e84/hmd-map1.jpg 590w,
-/static/7289b9f174a3995f0163d0eca2d6a520/307be/hmd-map1.jpg 644w&quot;
+        src=&quot;/static/7289b9f174a3995f0163d0eca2d6a520/c739e/hmd-map1.jpg&quot;
+        srcset=&quot;/static/7289b9f174a3995f0163d0eca2d6a520/8ee9c/hmd-map1.jpg 148w,
+/static/7289b9f174a3995f0163d0eca2d6a520/ebbe7/hmd-map1.jpg 295w,
+/static/7289b9f174a3995f0163d0eca2d6a520/c739e/hmd-map1.jpg 590w,
+/static/7289b9f174a3995f0163d0eca2d6a520/161f5/hmd-map1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1837,7 +1864,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/307be/hmd-matrix.jpg&quot;
+    href=&quot;/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/161f5/hmd-matrix.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1856,11 +1883,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hmd---matrix&quot;
         title=&quot;hmd---matrix&quot;
-        src=&quot;/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/44e84/hmd-matrix.jpg&quot;
-        srcset=&quot;/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/68355/hmd-matrix.jpg 148w,
-/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/ada22/hmd-matrix.jpg 295w,
-/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/44e84/hmd-matrix.jpg 590w,
-/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/307be/hmd-matrix.jpg 644w&quot;
+        src=&quot;/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/c739e/hmd-matrix.jpg&quot;
+        srcset=&quot;/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/8ee9c/hmd-matrix.jpg 148w,
+/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/ebbe7/hmd-matrix.jpg 295w,
+/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/c739e/hmd-matrix.jpg 590w,
+/static/f3f07a7fe1c7d4286ac0b7c233ec6cf1/161f5/hmd-matrix.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1871,7 +1898,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4cf6440c3b6f802fce8074bb8a6bb931/307be/hmd-fullpage1.jpg&quot;
+    href=&quot;/static/4cf6440c3b6f802fce8074bb8a6bb931/161f5/hmd-fullpage1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1890,11 +1917,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hmd---fullpage&quot;
         title=&quot;hmd---fullpage&quot;
-        src=&quot;/static/4cf6440c3b6f802fce8074bb8a6bb931/44e84/hmd-fullpage1.jpg&quot;
-        srcset=&quot;/static/4cf6440c3b6f802fce8074bb8a6bb931/68355/hmd-fullpage1.jpg 148w,
-/static/4cf6440c3b6f802fce8074bb8a6bb931/ada22/hmd-fullpage1.jpg 295w,
-/static/4cf6440c3b6f802fce8074bb8a6bb931/44e84/hmd-fullpage1.jpg 590w,
-/static/4cf6440c3b6f802fce8074bb8a6bb931/307be/hmd-fullpage1.jpg 644w&quot;
+        src=&quot;/static/4cf6440c3b6f802fce8074bb8a6bb931/c739e/hmd-fullpage1.jpg&quot;
+        srcset=&quot;/static/4cf6440c3b6f802fce8074bb8a6bb931/8ee9c/hmd-fullpage1.jpg 148w,
+/static/4cf6440c3b6f802fce8074bb8a6bb931/ebbe7/hmd-fullpage1.jpg 295w,
+/static/4cf6440c3b6f802fce8074bb8a6bb931/c739e/hmd-fullpage1.jpg 590w,
+/static/4cf6440c3b6f802fce8074bb8a6bb931/161f5/hmd-fullpage1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1915,11 +1942,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;ie6-post&quot;
         title=&quot;ie6-post&quot;
-        src=&quot;/static/8aa086c24246ce959f7f2d76716af7a2/44e84/ie6-post.jpg&quot;
-        srcset=&quot;/static/8aa086c24246ce959f7f2d76716af7a2/68355/ie6-post.jpg 148w,
-/static/8aa086c24246ce959f7f2d76716af7a2/ada22/ie6-post.jpg 295w,
-/static/8aa086c24246ce959f7f2d76716af7a2/44e84/ie6-post.jpg 590w,
-/static/8aa086c24246ce959f7f2d76716af7a2/307be/ie6-post.jpg 644w&quot;
+        src=&quot;/static/8aa086c24246ce959f7f2d76716af7a2/c739e/ie6-post.jpg&quot;
+        srcset=&quot;/static/8aa086c24246ce959f7f2d76716af7a2/8ee9c/ie6-post.jpg 148w,
+/static/8aa086c24246ce959f7f2d76716af7a2/ebbe7/ie6-post.jpg 295w,
+/static/8aa086c24246ce959f7f2d76716af7a2/c739e/ie6-post.jpg 590w,
+/static/8aa086c24246ce959f7f2d76716af7a2/161f5/ie6-post.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1948,11 +1975,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Know Your Type: Part 1 - Anatomy&quot;
         title=&quot;Know Your Type: Part 1 - Anatomy&quot;
-        src=&quot;/static/aa79d7b3043dfafa0f03d5ff5d687e20/44e84/anatomy-of-type-post.jpg&quot;
-        srcset=&quot;/static/aa79d7b3043dfafa0f03d5ff5d687e20/68355/anatomy-of-type-post.jpg 148w,
-/static/aa79d7b3043dfafa0f03d5ff5d687e20/ada22/anatomy-of-type-post.jpg 295w,
-/static/aa79d7b3043dfafa0f03d5ff5d687e20/44e84/anatomy-of-type-post.jpg 590w,
-/static/aa79d7b3043dfafa0f03d5ff5d687e20/307be/anatomy-of-type-post.jpg 644w&quot;
+        src=&quot;/static/aa79d7b3043dfafa0f03d5ff5d687e20/c739e/anatomy-of-type-post.jpg&quot;
+        srcset=&quot;/static/aa79d7b3043dfafa0f03d5ff5d687e20/8ee9c/anatomy-of-type-post.jpg 148w,
+/static/aa79d7b3043dfafa0f03d5ff5d687e20/ebbe7/anatomy-of-type-post.jpg 295w,
+/static/aa79d7b3043dfafa0f03d5ff5d687e20/c739e/anatomy-of-type-post.jpg 590w,
+/static/aa79d7b3043dfafa0f03d5ff5d687e20/161f5/anatomy-of-type-post.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1965,7 +1992,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cad4d97b37656b0d9e2f3dd0f2066749/5c1b2/anatomy-of-type.png&quot;
+    href=&quot;/static/cad4d97b37656b0d9e2f3dd0f2066749/5b815/anatomy-of-type.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1984,11 +2011,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;anatomy-of-type&quot;
         title=&quot;anatomy-of-type&quot;
-        src=&quot;/static/cad4d97b37656b0d9e2f3dd0f2066749/623ee/anatomy-of-type.png&quot;
-        srcset=&quot;/static/cad4d97b37656b0d9e2f3dd0f2066749/816c5/anatomy-of-type.png 148w,
-/static/cad4d97b37656b0d9e2f3dd0f2066749/c766b/anatomy-of-type.png 295w,
-/static/cad4d97b37656b0d9e2f3dd0f2066749/623ee/anatomy-of-type.png 590w,
-/static/cad4d97b37656b0d9e2f3dd0f2066749/5c1b2/anatomy-of-type.png 644w&quot;
+        src=&quot;/static/cad4d97b37656b0d9e2f3dd0f2066749/b9e4f/anatomy-of-type.png&quot;
+        srcset=&quot;/static/cad4d97b37656b0d9e2f3dd0f2066749/cf440/anatomy-of-type.png 148w,
+/static/cad4d97b37656b0d9e2f3dd0f2066749/d2d38/anatomy-of-type.png 295w,
+/static/cad4d97b37656b0d9e2f3dd0f2066749/b9e4f/anatomy-of-type.png 590w,
+/static/cad4d97b37656b0d9e2f3dd0f2066749/5b815/anatomy-of-type.png 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2010,11 +2037,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;3 Image Techniques To Speed Up Your Website &quot;
         title=&quot;3 Image Techniques To Speed Up Your Website &quot;
-        src=&quot;/static/e08f7df3dafa31285ed3101318937f3d/44e84/3-image-techniques.jpg&quot;
-        srcset=&quot;/static/e08f7df3dafa31285ed3101318937f3d/68355/3-image-techniques.jpg 148w,
-/static/e08f7df3dafa31285ed3101318937f3d/ada22/3-image-techniques.jpg 295w,
-/static/e08f7df3dafa31285ed3101318937f3d/44e84/3-image-techniques.jpg 590w,
-/static/e08f7df3dafa31285ed3101318937f3d/307be/3-image-techniques.jpg 644w&quot;
+        src=&quot;/static/e08f7df3dafa31285ed3101318937f3d/c739e/3-image-techniques.jpg&quot;
+        srcset=&quot;/static/e08f7df3dafa31285ed3101318937f3d/8ee9c/3-image-techniques.jpg 148w,
+/static/e08f7df3dafa31285ed3101318937f3d/ebbe7/3-image-techniques.jpg 295w,
+/static/e08f7df3dafa31285ed3101318937f3d/c739e/3-image-techniques.jpg 590w,
+/static/e08f7df3dafa31285ed3101318937f3d/161f5/3-image-techniques.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2033,7 +2060,7 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/53b6fb51692f1b9bf8e04375eb3bfb87/38c7a/map-area.jpg&quot;
+    href=&quot;/static/53b6fb51692f1b9bf8e04375eb3bfb87/05477/map-area.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2052,11 +2079,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;map-area&quot;
         title=&quot;map-area&quot;
-        src=&quot;/static/53b6fb51692f1b9bf8e04375eb3bfb87/44e84/map-area.jpg&quot;
-        srcset=&quot;/static/53b6fb51692f1b9bf8e04375eb3bfb87/68355/map-area.jpg 148w,
-/static/53b6fb51692f1b9bf8e04375eb3bfb87/ada22/map-area.jpg 295w,
-/static/53b6fb51692f1b9bf8e04375eb3bfb87/44e84/map-area.jpg 590w,
-/static/53b6fb51692f1b9bf8e04375eb3bfb87/38c7a/map-area.jpg 605w&quot;
+        src=&quot;/static/53b6fb51692f1b9bf8e04375eb3bfb87/c739e/map-area.jpg&quot;
+        srcset=&quot;/static/53b6fb51692f1b9bf8e04375eb3bfb87/8ee9c/map-area.jpg 148w,
+/static/53b6fb51692f1b9bf8e04375eb3bfb87/ebbe7/map-area.jpg 295w,
+/static/53b6fb51692f1b9bf8e04375eb3bfb87/c739e/map-area.jpg 590w,
+/static/53b6fb51692f1b9bf8e04375eb3bfb87/05477/map-area.jpg 605w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2084,11 +2111,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Don&apos;t Make Me Think!&quot;
         title=&quot;Don&apos;t Make Me Think!&quot;
-        src=&quot;/static/b9252a22f574d5174fcb0bf328ea664d/44e84/dont-make-me-think.jpg&quot;
-        srcset=&quot;/static/b9252a22f574d5174fcb0bf328ea664d/68355/dont-make-me-think.jpg 148w,
-/static/b9252a22f574d5174fcb0bf328ea664d/ada22/dont-make-me-think.jpg 295w,
-/static/b9252a22f574d5174fcb0bf328ea664d/44e84/dont-make-me-think.jpg 590w,
-/static/b9252a22f574d5174fcb0bf328ea664d/307be/dont-make-me-think.jpg 644w&quot;
+        src=&quot;/static/b9252a22f574d5174fcb0bf328ea664d/c739e/dont-make-me-think.jpg&quot;
+        srcset=&quot;/static/b9252a22f574d5174fcb0bf328ea664d/8ee9c/dont-make-me-think.jpg 148w,
+/static/b9252a22f574d5174fcb0bf328ea664d/ebbe7/dont-make-me-think.jpg 295w,
+/static/b9252a22f574d5174fcb0bf328ea664d/c739e/dont-make-me-think.jpg 590w,
+/static/b9252a22f574d5174fcb0bf328ea664d/161f5/dont-make-me-think.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2114,11 +2141,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Portfolio: Coldwell Banker Ireland&quot;
         title=&quot;Portfolio: Coldwell Banker Ireland&quot;
-        src=&quot;/static/06e5f63d255042fee34b7c3c2a42b5a4/44e84/portfolio-cbi.jpg&quot;
-        srcset=&quot;/static/06e5f63d255042fee34b7c3c2a42b5a4/68355/portfolio-cbi.jpg 148w,
-/static/06e5f63d255042fee34b7c3c2a42b5a4/ada22/portfolio-cbi.jpg 295w,
-/static/06e5f63d255042fee34b7c3c2a42b5a4/44e84/portfolio-cbi.jpg 590w,
-/static/06e5f63d255042fee34b7c3c2a42b5a4/307be/portfolio-cbi.jpg 644w&quot;
+        src=&quot;/static/06e5f63d255042fee34b7c3c2a42b5a4/c739e/portfolio-cbi.jpg&quot;
+        srcset=&quot;/static/06e5f63d255042fee34b7c3c2a42b5a4/8ee9c/portfolio-cbi.jpg 148w,
+/static/06e5f63d255042fee34b7c3c2a42b5a4/ebbe7/portfolio-cbi.jpg 295w,
+/static/06e5f63d255042fee34b7c3c2a42b5a4/c739e/portfolio-cbi.jpg 590w,
+/static/06e5f63d255042fee34b7c3c2a42b5a4/161f5/portfolio-cbi.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2142,11 +2169,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Coldwell Banker Ireland&quot;
         title=&quot;Coldwell Banker Ireland&quot;
-        src=&quot;/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/44e84/cb-small.jpg&quot;
-        srcset=&quot;/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/68355/cb-small.jpg 148w,
-/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/ada22/cb-small.jpg 295w,
-/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/44e84/cb-small.jpg 590w,
-/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/307be/cb-small.jpg 644w&quot;
+        src=&quot;/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/c739e/cb-small.jpg&quot;
+        srcset=&quot;/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/8ee9c/cb-small.jpg 148w,
+/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/ebbe7/cb-small.jpg 295w,
+/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/c739e/cb-small.jpg 590w,
+/static/4f3f9ba98e5ef68c78f03a8fcea57d0a/161f5/cb-small.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2167,11 +2194,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Coldwell Banker Ireland&quot;
         title=&quot;Coldwell Banker Ireland&quot;
-        src=&quot;/static/76c812732a4156f12f9294e0b13e7b5e/44e84/cb-list-small.jpg&quot;
-        srcset=&quot;/static/76c812732a4156f12f9294e0b13e7b5e/68355/cb-list-small.jpg 148w,
-/static/76c812732a4156f12f9294e0b13e7b5e/ada22/cb-list-small.jpg 295w,
-/static/76c812732a4156f12f9294e0b13e7b5e/44e84/cb-list-small.jpg 590w,
-/static/76c812732a4156f12f9294e0b13e7b5e/307be/cb-list-small.jpg 644w&quot;
+        src=&quot;/static/76c812732a4156f12f9294e0b13e7b5e/c739e/cb-list-small.jpg&quot;
+        srcset=&quot;/static/76c812732a4156f12f9294e0b13e7b5e/8ee9c/cb-list-small.jpg 148w,
+/static/76c812732a4156f12f9294e0b13e7b5e/ebbe7/cb-list-small.jpg 295w,
+/static/76c812732a4156f12f9294e0b13e7b5e/c739e/cb-list-small.jpg 590w,
+/static/76c812732a4156f12f9294e0b13e7b5e/161f5/cb-list-small.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2192,11 +2219,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Coldwell Banker Ireland&quot;
         title=&quot;Coldwell Banker Ireland&quot;
-        src=&quot;/static/cc9467d734182fe35b62bef1e1dd2563/44e84/cb-full-small.jpg&quot;
-        srcset=&quot;/static/cc9467d734182fe35b62bef1e1dd2563/68355/cb-full-small.jpg 148w,
-/static/cc9467d734182fe35b62bef1e1dd2563/ada22/cb-full-small.jpg 295w,
-/static/cc9467d734182fe35b62bef1e1dd2563/44e84/cb-full-small.jpg 590w,
-/static/cc9467d734182fe35b62bef1e1dd2563/307be/cb-full-small.jpg 644w&quot;
+        src=&quot;/static/cc9467d734182fe35b62bef1e1dd2563/c739e/cb-full-small.jpg&quot;
+        srcset=&quot;/static/cc9467d734182fe35b62bef1e1dd2563/8ee9c/cb-full-small.jpg 148w,
+/static/cc9467d734182fe35b62bef1e1dd2563/ebbe7/cb-full-small.jpg 295w,
+/static/cc9467d734182fe35b62bef1e1dd2563/c739e/cb-full-small.jpg 590w,
+/static/cc9467d734182fe35b62bef1e1dd2563/161f5/cb-full-small.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2216,11 +2243,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;How to Photograph Textures For Websites&quot;
         title=&quot;How to Photograph Textures For Websites&quot;
-        src=&quot;/static/53f2d5647266164122da705e99991769/44e84/how-to-protograph-textures.jpg&quot;
-        srcset=&quot;/static/53f2d5647266164122da705e99991769/68355/how-to-protograph-textures.jpg 148w,
-/static/53f2d5647266164122da705e99991769/ada22/how-to-protograph-textures.jpg 295w,
-/static/53f2d5647266164122da705e99991769/44e84/how-to-protograph-textures.jpg 590w,
-/static/53f2d5647266164122da705e99991769/307be/how-to-protograph-textures.jpg 644w&quot;
+        src=&quot;/static/53f2d5647266164122da705e99991769/c739e/how-to-protograph-textures.jpg&quot;
+        srcset=&quot;/static/53f2d5647266164122da705e99991769/8ee9c/how-to-protograph-textures.jpg 148w,
+/static/53f2d5647266164122da705e99991769/ebbe7/how-to-protograph-textures.jpg 295w,
+/static/53f2d5647266164122da705e99991769/c739e/how-to-protograph-textures.jpg 590w,
+/static/53f2d5647266164122da705e99991769/161f5/how-to-protograph-textures.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2248,10 +2275,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Cracked floor&quot;
         title=&quot;Cracked floor&quot;
-        src=&quot;/static/c730d3ef7cd6cf2c7d3422a1586b2480/78768/3581584751_a398fef8b0.jpg&quot;
-        srcset=&quot;/static/c730d3ef7cd6cf2c7d3422a1586b2480/290ad/3581584751_a398fef8b0.jpg 148w,
-/static/c730d3ef7cd6cf2c7d3422a1586b2480/467b4/3581584751_a398fef8b0.jpg 295w,
-/static/c730d3ef7cd6cf2c7d3422a1586b2480/78768/3581584751_a398fef8b0.jpg 500w&quot;
+        src=&quot;/static/c730d3ef7cd6cf2c7d3422a1586b2480/48a11/3581584751_a398fef8b0.jpg&quot;
+        srcset=&quot;/static/c730d3ef7cd6cf2c7d3422a1586b2480/8ee9c/3581584751_a398fef8b0.jpg 148w,
+/static/c730d3ef7cd6cf2c7d3422a1586b2480/ebbe7/3581584751_a398fef8b0.jpg 295w,
+/static/c730d3ef7cd6cf2c7d3422a1586b2480/48a11/3581584751_a398fef8b0.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2271,10 +2298,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Wall&quot;
         title=&quot;Wall&quot;
-        src=&quot;/static/379ab4d58ca62152bfaaa052f69180e0/78768/3584466223_2845f34be5.jpg&quot;
-        srcset=&quot;/static/379ab4d58ca62152bfaaa052f69180e0/290ad/3584466223_2845f34be5.jpg 148w,
-/static/379ab4d58ca62152bfaaa052f69180e0/467b4/3584466223_2845f34be5.jpg 295w,
-/static/379ab4d58ca62152bfaaa052f69180e0/78768/3584466223_2845f34be5.jpg 500w&quot;
+        src=&quot;/static/379ab4d58ca62152bfaaa052f69180e0/48a11/3584466223_2845f34be5.jpg&quot;
+        srcset=&quot;/static/379ab4d58ca62152bfaaa052f69180e0/8ee9c/3584466223_2845f34be5.jpg 148w,
+/static/379ab4d58ca62152bfaaa052f69180e0/ebbe7/3584466223_2845f34be5.jpg 295w,
+/static/379ab4d58ca62152bfaaa052f69180e0/48a11/3584466223_2845f34be5.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2294,10 +2321,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Wall&quot;
         title=&quot;Wall&quot;
-        src=&quot;/static/805f0ab3dc2c9381e756e80192e62909/78768/3804267442_b1a32b3182.jpg&quot;
-        srcset=&quot;/static/805f0ab3dc2c9381e756e80192e62909/290ad/3804267442_b1a32b3182.jpg 148w,
-/static/805f0ab3dc2c9381e756e80192e62909/467b4/3804267442_b1a32b3182.jpg 295w,
-/static/805f0ab3dc2c9381e756e80192e62909/78768/3804267442_b1a32b3182.jpg 500w&quot;
+        src=&quot;/static/805f0ab3dc2c9381e756e80192e62909/48a11/3804267442_b1a32b3182.jpg&quot;
+        srcset=&quot;/static/805f0ab3dc2c9381e756e80192e62909/8ee9c/3804267442_b1a32b3182.jpg 148w,
+/static/805f0ab3dc2c9381e756e80192e62909/ebbe7/3804267442_b1a32b3182.jpg 295w,
+/static/805f0ab3dc2c9381e756e80192e62909/48a11/3804267442_b1a32b3182.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2317,10 +2344,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Rusty Wall&quot;
         title=&quot;Rusty Wall&quot;
-        src=&quot;/static/d66d2f7169101bc4f02cbcee1a0a74da/78768/3803454067_f244f91450.jpg&quot;
-        srcset=&quot;/static/d66d2f7169101bc4f02cbcee1a0a74da/290ad/3803454067_f244f91450.jpg 148w,
-/static/d66d2f7169101bc4f02cbcee1a0a74da/467b4/3803454067_f244f91450.jpg 295w,
-/static/d66d2f7169101bc4f02cbcee1a0a74da/78768/3803454067_f244f91450.jpg 500w&quot;
+        src=&quot;/static/d66d2f7169101bc4f02cbcee1a0a74da/48a11/3803454067_f244f91450.jpg&quot;
+        srcset=&quot;/static/d66d2f7169101bc4f02cbcee1a0a74da/8ee9c/3803454067_f244f91450.jpg 148w,
+/static/d66d2f7169101bc4f02cbcee1a0a74da/ebbe7/3803454067_f244f91450.jpg 295w,
+/static/d66d2f7169101bc4f02cbcee1a0a74da/48a11/3803454067_f244f91450.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2340,10 +2367,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Stone Wall&quot;
         title=&quot;Stone Wall&quot;
-        src=&quot;/static/022a9154932d61b3bbfee93cce7ba0e1/78768/3803454877_d9d0d01a9c.jpg&quot;
-        srcset=&quot;/static/022a9154932d61b3bbfee93cce7ba0e1/290ad/3803454877_d9d0d01a9c.jpg 148w,
-/static/022a9154932d61b3bbfee93cce7ba0e1/467b4/3803454877_d9d0d01a9c.jpg 295w,
-/static/022a9154932d61b3bbfee93cce7ba0e1/78768/3803454877_d9d0d01a9c.jpg 500w&quot;
+        src=&quot;/static/022a9154932d61b3bbfee93cce7ba0e1/48a11/3803454877_d9d0d01a9c.jpg&quot;
+        srcset=&quot;/static/022a9154932d61b3bbfee93cce7ba0e1/8ee9c/3803454877_d9d0d01a9c.jpg 148w,
+/static/022a9154932d61b3bbfee93cce7ba0e1/ebbe7/3803454877_d9d0d01a9c.jpg 295w,
+/static/022a9154932d61b3bbfee93cce7ba0e1/48a11/3803454877_d9d0d01a9c.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2363,10 +2390,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Rock&quot;
         title=&quot;Rock&quot;
-        src=&quot;/static/b33f7e267295748816e117247d34b62f/78768/3803454495_5da03790b1.jpg&quot;
-        srcset=&quot;/static/b33f7e267295748816e117247d34b62f/290ad/3803454495_5da03790b1.jpg 148w,
-/static/b33f7e267295748816e117247d34b62f/467b4/3803454495_5da03790b1.jpg 295w,
-/static/b33f7e267295748816e117247d34b62f/78768/3803454495_5da03790b1.jpg 500w&quot;
+        src=&quot;/static/b33f7e267295748816e117247d34b62f/48a11/3803454495_5da03790b1.jpg&quot;
+        srcset=&quot;/static/b33f7e267295748816e117247d34b62f/8ee9c/3803454495_5da03790b1.jpg 148w,
+/static/b33f7e267295748816e117247d34b62f/ebbe7/3803454495_5da03790b1.jpg 295w,
+/static/b33f7e267295748816e117247d34b62f/48a11/3803454495_5da03790b1.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2386,10 +2413,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Written Wall&quot;
         title=&quot;Written Wall&quot;
-        src=&quot;/static/dc28741060a11f620f788fda71a10fad/78768/3803455187_9d46cf9e90.jpg&quot;
-        srcset=&quot;/static/dc28741060a11f620f788fda71a10fad/290ad/3803455187_9d46cf9e90.jpg 148w,
-/static/dc28741060a11f620f788fda71a10fad/467b4/3803455187_9d46cf9e90.jpg 295w,
-/static/dc28741060a11f620f788fda71a10fad/78768/3803455187_9d46cf9e90.jpg 500w&quot;
+        src=&quot;/static/dc28741060a11f620f788fda71a10fad/48a11/3803455187_9d46cf9e90.jpg&quot;
+        srcset=&quot;/static/dc28741060a11f620f788fda71a10fad/8ee9c/3803455187_9d46cf9e90.jpg 148w,
+/static/dc28741060a11f620f788fda71a10fad/ebbe7/3803455187_9d46cf9e90.jpg 295w,
+/static/dc28741060a11f620f788fda71a10fad/48a11/3803455187_9d46cf9e90.jpg 500w&quot;
         sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2409,10 +2436,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Concrete wall&quot;
         title=&quot;Concrete wall&quot;
-        src=&quot;/static/c114572a16d55f1bbc0f8bb970c453c8/aee44/3581586443_746a4cc052.jpg&quot;
-        srcset=&quot;/static/c114572a16d55f1bbc0f8bb970c453c8/10242/3581586443_746a4cc052.jpg 148w,
-/static/c114572a16d55f1bbc0f8bb970c453c8/daa9c/3581586443_746a4cc052.jpg 295w,
-/static/c114572a16d55f1bbc0f8bb970c453c8/aee44/3581586443_746a4cc052.jpg 330w&quot;
+        src=&quot;/static/c114572a16d55f1bbc0f8bb970c453c8/13d9f/3581586443_746a4cc052.jpg&quot;
+        srcset=&quot;/static/c114572a16d55f1bbc0f8bb970c453c8/8ee9c/3581586443_746a4cc052.jpg 148w,
+/static/c114572a16d55f1bbc0f8bb970c453c8/ebbe7/3581586443_746a4cc052.jpg 295w,
+/static/c114572a16d55f1bbc0f8bb970c453c8/13d9f/3581586443_746a4cc052.jpg 330w&quot;
         sizes=&quot;(max-width: 330px) 100vw, 330px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2432,11 +2459,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;15 Amazing Beer Bottle Designs&quot;
         title=&quot;15 Amazing Beer Bottle Designs&quot;
-        src=&quot;/static/5b9dddcd222e8ce233a81faa11c5b450/44e84/15-amazing-beer-bottle-design.jpg&quot;
-        srcset=&quot;/static/5b9dddcd222e8ce233a81faa11c5b450/68355/15-amazing-beer-bottle-design.jpg 148w,
-/static/5b9dddcd222e8ce233a81faa11c5b450/ada22/15-amazing-beer-bottle-design.jpg 295w,
-/static/5b9dddcd222e8ce233a81faa11c5b450/44e84/15-amazing-beer-bottle-design.jpg 590w,
-/static/5b9dddcd222e8ce233a81faa11c5b450/307be/15-amazing-beer-bottle-design.jpg 644w&quot;
+        src=&quot;/static/5b9dddcd222e8ce233a81faa11c5b450/c739e/15-amazing-beer-bottle-design.jpg&quot;
+        srcset=&quot;/static/5b9dddcd222e8ce233a81faa11c5b450/8ee9c/15-amazing-beer-bottle-design.jpg 148w,
+/static/5b9dddcd222e8ce233a81faa11c5b450/ebbe7/15-amazing-beer-bottle-design.jpg 295w,
+/static/5b9dddcd222e8ce233a81faa11c5b450/c739e/15-amazing-beer-bottle-design.jpg 590w,
+/static/5b9dddcd222e8ce233a81faa11c5b450/161f5/15-amazing-beer-bottle-design.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2458,10 +2485,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;a-le-coq-special&quot;
         title=&quot;&quot;
-        src=&quot;/static/91da5055c85f6b1c315f792a21c9f527/73042/special1.jpg&quot;
-        srcset=&quot;/static/91da5055c85f6b1c315f792a21c9f527/0d5d8/special1.jpg 148w,
-/static/91da5055c85f6b1c315f792a21c9f527/969c4/special1.jpg 295w,
-/static/91da5055c85f6b1c315f792a21c9f527/73042/special1.jpg 538w&quot;
+        src=&quot;/static/91da5055c85f6b1c315f792a21c9f527/7610c/special1.jpg&quot;
+        srcset=&quot;/static/91da5055c85f6b1c315f792a21c9f527/8ee9c/special1.jpg 148w,
+/static/91da5055c85f6b1c315f792a21c9f527/ebbe7/special1.jpg 295w,
+/static/91da5055c85f6b1c315f792a21c9f527/7610c/special1.jpg 538w&quot;
         sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2483,10 +2510,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Stiegl Beer&quot;
         title=&quot;&quot;
-        src=&quot;/static/bb098e74bcfbd0388dc971b1ff30c201/73042/stiegl1.jpg&quot;
-        srcset=&quot;/static/bb098e74bcfbd0388dc971b1ff30c201/0d5d8/stiegl1.jpg 148w,
-/static/bb098e74bcfbd0388dc971b1ff30c201/969c4/stiegl1.jpg 295w,
-/static/bb098e74bcfbd0388dc971b1ff30c201/73042/stiegl1.jpg 538w&quot;
+        src=&quot;/static/bb098e74bcfbd0388dc971b1ff30c201/7610c/stiegl1.jpg&quot;
+        srcset=&quot;/static/bb098e74bcfbd0388dc971b1ff30c201/8ee9c/stiegl1.jpg 148w,
+/static/bb098e74bcfbd0388dc971b1ff30c201/ebbe7/stiegl1.jpg 295w,
+/static/bb098e74bcfbd0388dc971b1ff30c201/7610c/stiegl1.jpg 538w&quot;
         sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2508,10 +2535,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Great Divine&quot;
         title=&quot;&quot;
-        src=&quot;/static/359e2822eb94cfa90d1c382e5e37a3ca/73042/great_divide1.jpg&quot;
-        srcset=&quot;/static/359e2822eb94cfa90d1c382e5e37a3ca/0d5d8/great_divide1.jpg 148w,
-/static/359e2822eb94cfa90d1c382e5e37a3ca/969c4/great_divide1.jpg 295w,
-/static/359e2822eb94cfa90d1c382e5e37a3ca/73042/great_divide1.jpg 538w&quot;
+        src=&quot;/static/359e2822eb94cfa90d1c382e5e37a3ca/7610c/great_divide1.jpg&quot;
+        srcset=&quot;/static/359e2822eb94cfa90d1c382e5e37a3ca/8ee9c/great_divide1.jpg 148w,
+/static/359e2822eb94cfa90d1c382e5e37a3ca/ebbe7/great_divide1.jpg 295w,
+/static/359e2822eb94cfa90d1c382e5e37a3ca/7610c/great_divide1.jpg 538w&quot;
         sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2533,10 +2560,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;TT&quot;
         title=&quot;&quot;
-        src=&quot;/static/0d61591e7a7a87003524db6428cff3a9/73042/tt.jpg&quot;
-        srcset=&quot;/static/0d61591e7a7a87003524db6428cff3a9/0d5d8/tt.jpg 148w,
-/static/0d61591e7a7a87003524db6428cff3a9/969c4/tt.jpg 295w,
-/static/0d61591e7a7a87003524db6428cff3a9/73042/tt.jpg 538w&quot;
+        src=&quot;/static/0d61591e7a7a87003524db6428cff3a9/7610c/tt.jpg&quot;
+        srcset=&quot;/static/0d61591e7a7a87003524db6428cff3a9/8ee9c/tt.jpg 148w,
+/static/0d61591e7a7a87003524db6428cff3a9/ebbe7/tt.jpg 295w,
+/static/0d61591e7a7a87003524db6428cff3a9/7610c/tt.jpg 538w&quot;
         sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2556,10 +2583,10 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Deschutes&quot;
         title=&quot;&quot;
-        src=&quot;/static/ea9ebd2cdf76855e515b020866a978de/73042/deschutes.jpg&quot;
-        srcset=&quot;/static/ea9ebd2cdf76855e515b020866a978de/0d5d8/deschutes.jpg 148w,
-/static/ea9ebd2cdf76855e515b020866a978de/969c4/deschutes.jpg 295w,
-/static/ea9ebd2cdf76855e515b020866a978de/73042/deschutes.jpg 538w&quot;
+        src=&quot;/static/ea9ebd2cdf76855e515b020866a978de/7610c/deschutes.jpg&quot;
+        srcset=&quot;/static/ea9ebd2cdf76855e515b020866a978de/8ee9c/deschutes.jpg 148w,
+/static/ea9ebd2cdf76855e515b020866a978de/ebbe7/deschutes.jpg 295w,
+/static/ea9ebd2cdf76855e515b020866a978de/7610c/deschutes.jpg 538w&quot;
         sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2583,11 +2610,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Portfolio: iWord&quot;
         title=&quot;Portfolio: iWord&quot;
-        src=&quot;/static/f6165032b8ead112235a0b068743015c/44e84/portfolio-iword.jpg&quot;
-        srcset=&quot;/static/f6165032b8ead112235a0b068743015c/68355/portfolio-iword.jpg 148w,
-/static/f6165032b8ead112235a0b068743015c/ada22/portfolio-iword.jpg 295w,
-/static/f6165032b8ead112235a0b068743015c/44e84/portfolio-iword.jpg 590w,
-/static/f6165032b8ead112235a0b068743015c/307be/portfolio-iword.jpg 644w&quot;
+        src=&quot;/static/f6165032b8ead112235a0b068743015c/c739e/portfolio-iword.jpg&quot;
+        srcset=&quot;/static/f6165032b8ead112235a0b068743015c/8ee9c/portfolio-iword.jpg 148w,
+/static/f6165032b8ead112235a0b068743015c/ebbe7/portfolio-iword.jpg 295w,
+/static/f6165032b8ead112235a0b068743015c/c739e/portfolio-iword.jpg 590w,
+/static/f6165032b8ead112235a0b068743015c/161f5/portfolio-iword.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2611,11 +2638,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;iword-small&quot;
         title=&quot;iword-small&quot;
-        src=&quot;/static/2000223854c428e2c31ed6b08e31b395/44e84/iword-small.jpg&quot;
-        srcset=&quot;/static/2000223854c428e2c31ed6b08e31b395/68355/iword-small.jpg 148w,
-/static/2000223854c428e2c31ed6b08e31b395/ada22/iword-small.jpg 295w,
-/static/2000223854c428e2c31ed6b08e31b395/44e84/iword-small.jpg 590w,
-/static/2000223854c428e2c31ed6b08e31b395/307be/iword-small.jpg 644w&quot;
+        src=&quot;/static/2000223854c428e2c31ed6b08e31b395/c739e/iword-small.jpg&quot;
+        srcset=&quot;/static/2000223854c428e2c31ed6b08e31b395/8ee9c/iword-small.jpg 148w,
+/static/2000223854c428e2c31ed6b08e31b395/ebbe7/iword-small.jpg 295w,
+/static/2000223854c428e2c31ed6b08e31b395/c739e/iword-small.jpg 590w,
+/static/2000223854c428e2c31ed6b08e31b395/161f5/iword-small.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2640,11 +2667,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Sexy Web Design&quot;
         title=&quot;Sexy Web Design&quot;
-        src=&quot;/static/71656522aa4b628672f978cb94577556/44e84/DSC_0265.jpg&quot;
-        srcset=&quot;/static/71656522aa4b628672f978cb94577556/68355/DSC_0265.jpg 148w,
-/static/71656522aa4b628672f978cb94577556/ada22/DSC_0265.jpg 295w,
-/static/71656522aa4b628672f978cb94577556/44e84/DSC_0265.jpg 590w,
-/static/71656522aa4b628672f978cb94577556/7d6a7/DSC_0265.jpg 722w&quot;
+        src=&quot;/static/71656522aa4b628672f978cb94577556/c739e/DSC_0265.jpg&quot;
+        srcset=&quot;/static/71656522aa4b628672f978cb94577556/8ee9c/DSC_0265.jpg 148w,
+/static/71656522aa4b628672f978cb94577556/ebbe7/DSC_0265.jpg 295w,
+/static/71656522aa4b628672f978cb94577556/c739e/DSC_0265.jpg 590w,
+/static/71656522aa4b628672f978cb94577556/26037/DSC_0265.jpg 722w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2671,11 +2698,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Random Illustrations Part 1&quot;
         title=&quot;Random Illustrations Part 1&quot;
-        src=&quot;/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/44e84/Untitled-1.jpg&quot;
-        srcset=&quot;/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/68355/Untitled-1.jpg 148w,
-/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/ada22/Untitled-1.jpg 295w,
-/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/44e84/Untitled-1.jpg 590w,
-/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/1c5ad/Untitled-1.jpg 645w&quot;
+        src=&quot;/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/c739e/Untitled-1.jpg&quot;
+        srcset=&quot;/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/8ee9c/Untitled-1.jpg 148w,
+/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/ebbe7/Untitled-1.jpg 295w,
+/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/c739e/Untitled-1.jpg 590w,
+/static/3bf6f9c4d574f1bb5c2ab54a9ca4ac27/db310/Untitled-1.jpg 645w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2696,11 +2723,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Great websites for vintage resources &amp; inspiration&quot;
         title=&quot;Great websites for vintage resources &amp; inspiration&quot;
-        src=&quot;/static/fae581bc96d2d2fcf6ec07ce30661269/44e84/vintage-inspiration.jpg&quot;
-        srcset=&quot;/static/fae581bc96d2d2fcf6ec07ce30661269/68355/vintage-inspiration.jpg 148w,
-/static/fae581bc96d2d2fcf6ec07ce30661269/ada22/vintage-inspiration.jpg 295w,
-/static/fae581bc96d2d2fcf6ec07ce30661269/44e84/vintage-inspiration.jpg 590w,
-/static/fae581bc96d2d2fcf6ec07ce30661269/307be/vintage-inspiration.jpg 644w&quot;
+        src=&quot;/static/fae581bc96d2d2fcf6ec07ce30661269/c739e/vintage-inspiration.jpg&quot;
+        srcset=&quot;/static/fae581bc96d2d2fcf6ec07ce30661269/8ee9c/vintage-inspiration.jpg 148w,
+/static/fae581bc96d2d2fcf6ec07ce30661269/ebbe7/vintage-inspiration.jpg 295w,
+/static/fae581bc96d2d2fcf6ec07ce30661269/c739e/vintage-inspiration.jpg 590w,
+/static/fae581bc96d2d2fcf6ec07ce30661269/161f5/vintage-inspiration.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2753,11 +2780,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Thinking with Type&quot;
         title=&quot;Thinking with Type&quot;
-        src=&quot;/static/8e7c1d924b53764fdb0c214c6235f9fb/44e84/DSC_0005-copy.jpg&quot;
-        srcset=&quot;/static/8e7c1d924b53764fdb0c214c6235f9fb/68355/DSC_0005-copy.jpg 148w,
-/static/8e7c1d924b53764fdb0c214c6235f9fb/ada22/DSC_0005-copy.jpg 295w,
-/static/8e7c1d924b53764fdb0c214c6235f9fb/44e84/DSC_0005-copy.jpg 590w,
-/static/8e7c1d924b53764fdb0c214c6235f9fb/307be/DSC_0005-copy.jpg 644w&quot;
+        src=&quot;/static/8e7c1d924b53764fdb0c214c6235f9fb/c739e/DSC_0005-copy.jpg&quot;
+        srcset=&quot;/static/8e7c1d924b53764fdb0c214c6235f9fb/8ee9c/DSC_0005-copy.jpg 148w,
+/static/8e7c1d924b53764fdb0c214c6235f9fb/ebbe7/DSC_0005-copy.jpg 295w,
+/static/8e7c1d924b53764fdb0c214c6235f9fb/c739e/DSC_0005-copy.jpg 590w,
+/static/8e7c1d924b53764fdb0c214c6235f9fb/161f5/DSC_0005-copy.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2787,11 +2814,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Creating your own portfolio website - Single Page, Full Site or Blog style?&quot;
         title=&quot;Creating your own portfolio website - Single Page, Full Site or Blog style?&quot;
-        src=&quot;/static/3512b20152811cf452ae43aad9a16be6/44e84/creating-your-portfolio-website.jpg&quot;
-        srcset=&quot;/static/3512b20152811cf452ae43aad9a16be6/68355/creating-your-portfolio-website.jpg 148w,
-/static/3512b20152811cf452ae43aad9a16be6/ada22/creating-your-portfolio-website.jpg 295w,
-/static/3512b20152811cf452ae43aad9a16be6/44e84/creating-your-portfolio-website.jpg 590w,
-/static/3512b20152811cf452ae43aad9a16be6/307be/creating-your-portfolio-website.jpg 644w&quot;
+        src=&quot;/static/3512b20152811cf452ae43aad9a16be6/c739e/creating-your-portfolio-website.jpg&quot;
+        srcset=&quot;/static/3512b20152811cf452ae43aad9a16be6/8ee9c/creating-your-portfolio-website.jpg 148w,
+/static/3512b20152811cf452ae43aad9a16be6/ebbe7/creating-your-portfolio-website.jpg 295w,
+/static/3512b20152811cf452ae43aad9a16be6/c739e/creating-your-portfolio-website.jpg 590w,
+/static/3512b20152811cf452ae43aad9a16be6/161f5/creating-your-portfolio-website.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2819,11 +2846,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Sprocket House&quot;
         title=&quot;&quot;
-        src=&quot;/static/deb39995b49a5cf32652c80b2cefdd4a/44e84/sp-2.jpg&quot;
-        srcset=&quot;/static/deb39995b49a5cf32652c80b2cefdd4a/68355/sp-2.jpg 148w,
-/static/deb39995b49a5cf32652c80b2cefdd4a/ada22/sp-2.jpg 295w,
-/static/deb39995b49a5cf32652c80b2cefdd4a/44e84/sp-2.jpg 590w,
-/static/deb39995b49a5cf32652c80b2cefdd4a/307be/sp-2.jpg 644w&quot;
+        src=&quot;/static/deb39995b49a5cf32652c80b2cefdd4a/c739e/sp-2.jpg&quot;
+        srcset=&quot;/static/deb39995b49a5cf32652c80b2cefdd4a/8ee9c/sp-2.jpg 148w,
+/static/deb39995b49a5cf32652c80b2cefdd4a/ebbe7/sp-2.jpg 295w,
+/static/deb39995b49a5cf32652c80b2cefdd4a/c739e/sp-2.jpg 590w,
+/static/deb39995b49a5cf32652c80b2cefdd4a/161f5/sp-2.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2843,11 +2870,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Chris Barr&quot;
         title=&quot;&quot;
-        src=&quot;/static/5cdf824003ca08bf1e238be1f98e6cd7/44e84/sp-3.jpg&quot;
-        srcset=&quot;/static/5cdf824003ca08bf1e238be1f98e6cd7/68355/sp-3.jpg 148w,
-/static/5cdf824003ca08bf1e238be1f98e6cd7/ada22/sp-3.jpg 295w,
-/static/5cdf824003ca08bf1e238be1f98e6cd7/44e84/sp-3.jpg 590w,
-/static/5cdf824003ca08bf1e238be1f98e6cd7/307be/sp-3.jpg 644w&quot;
+        src=&quot;/static/5cdf824003ca08bf1e238be1f98e6cd7/c739e/sp-3.jpg&quot;
+        srcset=&quot;/static/5cdf824003ca08bf1e238be1f98e6cd7/8ee9c/sp-3.jpg 148w,
+/static/5cdf824003ca08bf1e238be1f98e6cd7/ebbe7/sp-3.jpg 295w,
+/static/5cdf824003ca08bf1e238be1f98e6cd7/c739e/sp-3.jpg 590w,
+/static/5cdf824003ca08bf1e238be1f98e6cd7/161f5/sp-3.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2867,11 +2894,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Little Box of Ideas&quot;
         title=&quot;&quot;
-        src=&quot;/static/cbafea509902ec46582280854a2dfa70/44e84/sp-1.jpg&quot;
-        srcset=&quot;/static/cbafea509902ec46582280854a2dfa70/68355/sp-1.jpg 148w,
-/static/cbafea509902ec46582280854a2dfa70/ada22/sp-1.jpg 295w,
-/static/cbafea509902ec46582280854a2dfa70/44e84/sp-1.jpg 590w,
-/static/cbafea509902ec46582280854a2dfa70/307be/sp-1.jpg 644w&quot;
+        src=&quot;/static/cbafea509902ec46582280854a2dfa70/c739e/sp-1.jpg&quot;
+        srcset=&quot;/static/cbafea509902ec46582280854a2dfa70/8ee9c/sp-1.jpg 148w,
+/static/cbafea509902ec46582280854a2dfa70/ebbe7/sp-1.jpg 295w,
+/static/cbafea509902ec46582280854a2dfa70/c739e/sp-1.jpg 590w,
+/static/cbafea509902ec46582280854a2dfa70/161f5/sp-1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2891,11 +2918,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Rutiso&quot;
         title=&quot;&quot;
-        src=&quot;/static/e1e7d3875e3583ec8b8763f6340e4255/44e84/sp-5.jpg&quot;
-        srcset=&quot;/static/e1e7d3875e3583ec8b8763f6340e4255/68355/sp-5.jpg 148w,
-/static/e1e7d3875e3583ec8b8763f6340e4255/ada22/sp-5.jpg 295w,
-/static/e1e7d3875e3583ec8b8763f6340e4255/44e84/sp-5.jpg 590w,
-/static/e1e7d3875e3583ec8b8763f6340e4255/307be/sp-5.jpg 644w&quot;
+        src=&quot;/static/e1e7d3875e3583ec8b8763f6340e4255/c739e/sp-5.jpg&quot;
+        srcset=&quot;/static/e1e7d3875e3583ec8b8763f6340e4255/8ee9c/sp-5.jpg 148w,
+/static/e1e7d3875e3583ec8b8763f6340e4255/ebbe7/sp-5.jpg 295w,
+/static/e1e7d3875e3583ec8b8763f6340e4255/c739e/sp-5.jpg 590w,
+/static/e1e7d3875e3583ec8b8763f6340e4255/161f5/sp-5.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2915,11 +2942,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Paul J. Noble&quot;
         title=&quot;&quot;
-        src=&quot;/static/8c0217c6d1236aa0297b33f8ba1ef9c0/44e84/sp-4.jpg&quot;
-        srcset=&quot;/static/8c0217c6d1236aa0297b33f8ba1ef9c0/68355/sp-4.jpg 148w,
-/static/8c0217c6d1236aa0297b33f8ba1ef9c0/ada22/sp-4.jpg 295w,
-/static/8c0217c6d1236aa0297b33f8ba1ef9c0/44e84/sp-4.jpg 590w,
-/static/8c0217c6d1236aa0297b33f8ba1ef9c0/307be/sp-4.jpg 644w&quot;
+        src=&quot;/static/8c0217c6d1236aa0297b33f8ba1ef9c0/c739e/sp-4.jpg&quot;
+        srcset=&quot;/static/8c0217c6d1236aa0297b33f8ba1ef9c0/8ee9c/sp-4.jpg 148w,
+/static/8c0217c6d1236aa0297b33f8ba1ef9c0/ebbe7/sp-4.jpg 295w,
+/static/8c0217c6d1236aa0297b33f8ba1ef9c0/c739e/sp-4.jpg 590w,
+/static/8c0217c6d1236aa0297b33f8ba1ef9c0/161f5/sp-4.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2943,11 +2970,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Naked Studios&quot;
         title=&quot;&quot;
-        src=&quot;/static/691fe4360cec55bae7b3451e97ad3828/44e84/fp-1.jpg&quot;
-        srcset=&quot;/static/691fe4360cec55bae7b3451e97ad3828/68355/fp-1.jpg 148w,
-/static/691fe4360cec55bae7b3451e97ad3828/ada22/fp-1.jpg 295w,
-/static/691fe4360cec55bae7b3451e97ad3828/44e84/fp-1.jpg 590w,
-/static/691fe4360cec55bae7b3451e97ad3828/307be/fp-1.jpg 644w&quot;
+        src=&quot;/static/691fe4360cec55bae7b3451e97ad3828/c739e/fp-1.jpg&quot;
+        srcset=&quot;/static/691fe4360cec55bae7b3451e97ad3828/8ee9c/fp-1.jpg 148w,
+/static/691fe4360cec55bae7b3451e97ad3828/ebbe7/fp-1.jpg 295w,
+/static/691fe4360cec55bae7b3451e97ad3828/c739e/fp-1.jpg 590w,
+/static/691fe4360cec55bae7b3451e97ad3828/161f5/fp-1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2967,11 +2994,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Socio Design&quot;
         title=&quot;&quot;
-        src=&quot;/static/138de78c4586cdb9b875afe422242430/44e84/fp-2.jpg&quot;
-        srcset=&quot;/static/138de78c4586cdb9b875afe422242430/68355/fp-2.jpg 148w,
-/static/138de78c4586cdb9b875afe422242430/ada22/fp-2.jpg 295w,
-/static/138de78c4586cdb9b875afe422242430/44e84/fp-2.jpg 590w,
-/static/138de78c4586cdb9b875afe422242430/307be/fp-2.jpg 644w&quot;
+        src=&quot;/static/138de78c4586cdb9b875afe422242430/c739e/fp-2.jpg&quot;
+        srcset=&quot;/static/138de78c4586cdb9b875afe422242430/8ee9c/fp-2.jpg 148w,
+/static/138de78c4586cdb9b875afe422242430/ebbe7/fp-2.jpg 295w,
+/static/138de78c4586cdb9b875afe422242430/c739e/fp-2.jpg 590w,
+/static/138de78c4586cdb9b875afe422242430/161f5/fp-2.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -2991,11 +3018,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Silnt&quot;
         title=&quot;&quot;
-        src=&quot;/static/c56b5a6b3b66ebad63c28bce18875649/44e84/fp-3.jpg&quot;
-        srcset=&quot;/static/c56b5a6b3b66ebad63c28bce18875649/68355/fp-3.jpg 148w,
-/static/c56b5a6b3b66ebad63c28bce18875649/ada22/fp-3.jpg 295w,
-/static/c56b5a6b3b66ebad63c28bce18875649/44e84/fp-3.jpg 590w,
-/static/c56b5a6b3b66ebad63c28bce18875649/307be/fp-3.jpg 644w&quot;
+        src=&quot;/static/c56b5a6b3b66ebad63c28bce18875649/c739e/fp-3.jpg&quot;
+        srcset=&quot;/static/c56b5a6b3b66ebad63c28bce18875649/8ee9c/fp-3.jpg 148w,
+/static/c56b5a6b3b66ebad63c28bce18875649/ebbe7/fp-3.jpg 295w,
+/static/c56b5a6b3b66ebad63c28bce18875649/c739e/fp-3.jpg 590w,
+/static/c56b5a6b3b66ebad63c28bce18875649/161f5/fp-3.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3015,11 +3042,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Noe Design&quot;
         title=&quot;&quot;
-        src=&quot;/static/5137cc179f4cee11108df14cdac9871e/44e84/fp-4.jpg&quot;
-        srcset=&quot;/static/5137cc179f4cee11108df14cdac9871e/68355/fp-4.jpg 148w,
-/static/5137cc179f4cee11108df14cdac9871e/ada22/fp-4.jpg 295w,
-/static/5137cc179f4cee11108df14cdac9871e/44e84/fp-4.jpg 590w,
-/static/5137cc179f4cee11108df14cdac9871e/307be/fp-4.jpg 644w&quot;
+        src=&quot;/static/5137cc179f4cee11108df14cdac9871e/c739e/fp-4.jpg&quot;
+        srcset=&quot;/static/5137cc179f4cee11108df14cdac9871e/8ee9c/fp-4.jpg 148w,
+/static/5137cc179f4cee11108df14cdac9871e/ebbe7/fp-4.jpg 295w,
+/static/5137cc179f4cee11108df14cdac9871e/c739e/fp-4.jpg 590w,
+/static/5137cc179f4cee11108df14cdac9871e/161f5/fp-4.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3039,11 +3066,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Studio 7 Designs&quot;
         title=&quot;&quot;
-        src=&quot;/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/44e84/fp-5.jpg&quot;
-        srcset=&quot;/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/68355/fp-5.jpg 148w,
-/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/ada22/fp-5.jpg 295w,
-/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/44e84/fp-5.jpg 590w,
-/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/307be/fp-5.jpg 644w&quot;
+        src=&quot;/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/c739e/fp-5.jpg&quot;
+        srcset=&quot;/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/8ee9c/fp-5.jpg 148w,
+/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/ebbe7/fp-5.jpg 295w,
+/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/c739e/fp-5.jpg 590w,
+/static/0c2d51fe5f5991b5a29f3a4d1d2f0a7f/161f5/fp-5.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3067,11 +3094,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Multiways&quot;
         title=&quot;&quot;
-        src=&quot;/static/e1dbb2d0acdca276d17156bc57972ebe/44e84/bs-1.jpg&quot;
-        srcset=&quot;/static/e1dbb2d0acdca276d17156bc57972ebe/68355/bs-1.jpg 148w,
-/static/e1dbb2d0acdca276d17156bc57972ebe/ada22/bs-1.jpg 295w,
-/static/e1dbb2d0acdca276d17156bc57972ebe/44e84/bs-1.jpg 590w,
-/static/e1dbb2d0acdca276d17156bc57972ebe/307be/bs-1.jpg 644w&quot;
+        src=&quot;/static/e1dbb2d0acdca276d17156bc57972ebe/c739e/bs-1.jpg&quot;
+        srcset=&quot;/static/e1dbb2d0acdca276d17156bc57972ebe/8ee9c/bs-1.jpg 148w,
+/static/e1dbb2d0acdca276d17156bc57972ebe/ebbe7/bs-1.jpg 295w,
+/static/e1dbb2d0acdca276d17156bc57972ebe/c739e/bs-1.jpg 590w,
+/static/e1dbb2d0acdca276d17156bc57972ebe/161f5/bs-1.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3091,11 +3118,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Corvusart&quot;
         title=&quot;&quot;
-        src=&quot;/static/2d668a720977282a941822c80252007d/44e84/bs-2.jpg&quot;
-        srcset=&quot;/static/2d668a720977282a941822c80252007d/68355/bs-2.jpg 148w,
-/static/2d668a720977282a941822c80252007d/ada22/bs-2.jpg 295w,
-/static/2d668a720977282a941822c80252007d/44e84/bs-2.jpg 590w,
-/static/2d668a720977282a941822c80252007d/307be/bs-2.jpg 644w&quot;
+        src=&quot;/static/2d668a720977282a941822c80252007d/c739e/bs-2.jpg&quot;
+        srcset=&quot;/static/2d668a720977282a941822c80252007d/8ee9c/bs-2.jpg 148w,
+/static/2d668a720977282a941822c80252007d/ebbe7/bs-2.jpg 295w,
+/static/2d668a720977282a941822c80252007d/c739e/bs-2.jpg 590w,
+/static/2d668a720977282a941822c80252007d/161f5/bs-2.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3115,11 +3142,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Julius Mattsson&quot;
         title=&quot;&quot;
-        src=&quot;/static/a1408ff22fffc6ac19621efcf4df51c4/44e84/bs-3.jpg&quot;
-        srcset=&quot;/static/a1408ff22fffc6ac19621efcf4df51c4/68355/bs-3.jpg 148w,
-/static/a1408ff22fffc6ac19621efcf4df51c4/ada22/bs-3.jpg 295w,
-/static/a1408ff22fffc6ac19621efcf4df51c4/44e84/bs-3.jpg 590w,
-/static/a1408ff22fffc6ac19621efcf4df51c4/307be/bs-3.jpg 644w&quot;
+        src=&quot;/static/a1408ff22fffc6ac19621efcf4df51c4/c739e/bs-3.jpg&quot;
+        srcset=&quot;/static/a1408ff22fffc6ac19621efcf4df51c4/8ee9c/bs-3.jpg 148w,
+/static/a1408ff22fffc6ac19621efcf4df51c4/ebbe7/bs-3.jpg 295w,
+/static/a1408ff22fffc6ac19621efcf4df51c4/c739e/bs-3.jpg 590w,
+/static/a1408ff22fffc6ac19621efcf4df51c4/161f5/bs-3.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3139,11 +3166,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;No Sleep for Sheep&quot;
         title=&quot;&quot;
-        src=&quot;/static/30d272a91f103c5237f3c474732e565e/44e84/bs-4.jpg&quot;
-        srcset=&quot;/static/30d272a91f103c5237f3c474732e565e/68355/bs-4.jpg 148w,
-/static/30d272a91f103c5237f3c474732e565e/ada22/bs-4.jpg 295w,
-/static/30d272a91f103c5237f3c474732e565e/44e84/bs-4.jpg 590w,
-/static/30d272a91f103c5237f3c474732e565e/307be/bs-4.jpg 644w&quot;
+        src=&quot;/static/30d272a91f103c5237f3c474732e565e/c739e/bs-4.jpg&quot;
+        srcset=&quot;/static/30d272a91f103c5237f3c474732e565e/8ee9c/bs-4.jpg 148w,
+/static/30d272a91f103c5237f3c474732e565e/ebbe7/bs-4.jpg 295w,
+/static/30d272a91f103c5237f3c474732e565e/c739e/bs-4.jpg 590w,
+/static/30d272a91f103c5237f3c474732e565e/161f5/bs-4.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3163,11 +3190,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Branded07&quot;
         title=&quot;&quot;
-        src=&quot;/static/c70a9a6a9d611222cac51f0a83ca5ec7/44e84/bs-5.jpg&quot;
-        srcset=&quot;/static/c70a9a6a9d611222cac51f0a83ca5ec7/68355/bs-5.jpg 148w,
-/static/c70a9a6a9d611222cac51f0a83ca5ec7/ada22/bs-5.jpg 295w,
-/static/c70a9a6a9d611222cac51f0a83ca5ec7/44e84/bs-5.jpg 590w,
-/static/c70a9a6a9d611222cac51f0a83ca5ec7/307be/bs-5.jpg 644w&quot;
+        src=&quot;/static/c70a9a6a9d611222cac51f0a83ca5ec7/c739e/bs-5.jpg&quot;
+        srcset=&quot;/static/c70a9a6a9d611222cac51f0a83ca5ec7/8ee9c/bs-5.jpg 148w,
+/static/c70a9a6a9d611222cac51f0a83ca5ec7/ebbe7/bs-5.jpg 295w,
+/static/c70a9a6a9d611222cac51f0a83ca5ec7/c739e/bs-5.jpg 590w,
+/static/c70a9a6a9d611222cac51f0a83ca5ec7/161f5/bs-5.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -3191,11 +3218,11 @@ document.getElementById(“exp-banner”).style.clip=“rect(0px 600px 150px 0px
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The Brand Gap&quot;
         title=&quot;The Brand Gap&quot;
-        src=&quot;/static/a329fb3b123813c7b05cdc44c214dec7/44e84/DEMO-imagepreview.jpg&quot;
-        srcset=&quot;/static/a329fb3b123813c7b05cdc44c214dec7/68355/DEMO-imagepreview.jpg 148w,
-/static/a329fb3b123813c7b05cdc44c214dec7/ada22/DEMO-imagepreview.jpg 295w,
-/static/a329fb3b123813c7b05cdc44c214dec7/44e84/DEMO-imagepreview.jpg 590w,
-/static/a329fb3b123813c7b05cdc44c214dec7/307be/DEMO-imagepreview.jpg 644w&quot;
+        src=&quot;/static/a329fb3b123813c7b05cdc44c214dec7/c739e/DEMO-imagepreview.jpg&quot;
+        srcset=&quot;/static/a329fb3b123813c7b05cdc44c214dec7/8ee9c/DEMO-imagepreview.jpg 148w,
+/static/a329fb3b123813c7b05cdc44c214dec7/ebbe7/DEMO-imagepreview.jpg 295w,
+/static/a329fb3b123813c7b05cdc44c214dec7/c739e/DEMO-imagepreview.jpg 590w,
+/static/a329fb3b123813c7b05cdc44c214dec7/161f5/DEMO-imagepreview.jpg 644w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;

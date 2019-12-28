@@ -1,4 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 07 Dec 2019 16:18:12 GMT</lastBuildDate><item><title><![CDATA[Book Notes #4 - Factfulness]]></title><description><![CDATA[If I would sum up this book in a short sentence it would be “numbers don’t like but liars use numbers”.  It’s a class on data interpretation…]]></description><link>https://jpedroribeiro.com/2019/12/book-notes-4-factfulness/</link><guid isPermaLink="false">https://jpedroribeiro.com/2019/12/book-notes-4-factfulness/</guid><pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a style=&quot;box-shadow: none&quot; target=&quot;_blank&quot; href=&quot;https://www.amazon.co.uk/Factfulness-Reasons-Wrong-Things-Better/dp/147363749X/ref=as_li_ss_il?keywords=factfulness&amp;qid=1575378991&amp;sr=8-1&amp;linkCode=li2&amp;tag=jpedroribeiro-21&amp;linkId=b8c908a13eaf65be368ff2bd677a76f0&amp;language=en_GB&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot;  style=&quot;margin:0 auto; display: block&quot; src=&quot;//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=147363749X&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=GB&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=jpedroribeiro-21&amp;language=en_GB&quot; &gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 Dec 2019 18:52:15 GMT</lastBuildDate><item><title><![CDATA[Beer Log #2 - Birrificio B63]]></title><description><![CDATA[During my Christmas break I left the never ending overcast skies of London for the sun and (really) cold weather of the Valle d’Aosta, in…]]></description><link>https://jpedroribeiro.com/2019/12/beer-log-2-b63/</link><guid isPermaLink="false">https://jpedroribeiro.com/2019/12/beer-log-2-b63/</guid><pubDate>Thu, 26 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;During my Christmas break I left the never ending overcast skies of London for the sun and (really) cold weather of the &lt;a href=&quot;http://www.lovevda.it/en&quot;&gt;Valle d’Aosta&lt;/a&gt;, in Italy.&lt;/p&gt;
+&lt;p&gt;The region is known for its wine. In fact, it’s home to the &lt;strong&gt;highest elevated vineyards&lt;/strong&gt; in all of Europe.&lt;/p&gt;
+&lt;p&gt;So you can imagine my surprise when I discovered B63’s &lt;em&gt;brewpub&lt;/em&gt; tucked away in a small square (&lt;a href=&quot;https://www.google.com/maps/search/Piazza+Caveri+/@45.7371359,7.3158384,17z/data=!3m1!4b1&quot;&gt;Piazza Caveri&lt;/a&gt;) between the main cathedral and Aosta’s highstreet. &lt;/p&gt;
+&lt;h2&gt;The Brewery&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/49db334fcf765768ba9644e229735cf7/2b40c/b63-piazza-caveri.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABnbI5LjBl/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAAxEx/9oACAEBAAEFAtdk4beomT6J2ZoP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAS/9oACAEDAQE/AcjYL//EABYRAAMAAAAAAAAAAAAAAAAAAAABE//aAAgBAgEBPwGjRc//xAAbEAACAQUAAAAAAAAAAAAAAAAAASEQETEycf/aAAgBAQAGPwJq74aEGKQkj//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExUWFx/9oACAEBAAE/Ic4NmmYAFs6RnpHyKrQPh0VKqJyf/9oADAMBAAIAAwAAABC4P//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxBRrL//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFR/9oACAECAQE/EAGErt//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAxQZEhUXHB4f/aAAgBAQABPxAWkBHRN/Bh1U0A89sQMdbUCc4cZoSmC4bIU+YCpFqes//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;B63 brewpub at Piazza Caveri&quot;
+        title=&quot;B63 brewpub at Piazza Caveri&quot;
+        src=&quot;/static/49db334fcf765768ba9644e229735cf7/c739e/b63-piazza-caveri.jpg&quot;
+        srcset=&quot;/static/49db334fcf765768ba9644e229735cf7/8ee9c/b63-piazza-caveri.jpg 148w,
+/static/49db334fcf765768ba9644e229735cf7/ebbe7/b63-piazza-caveri.jpg 295w,
+/static/49db334fcf765768ba9644e229735cf7/c739e/b63-piazza-caveri.jpg 590w,
+/static/49db334fcf765768ba9644e229735cf7/5413e/b63-piazza-caveri.jpg 885w,
+/static/49db334fcf765768ba9644e229735cf7/4efde/b63-piazza-caveri.jpg 1180w,
+/static/49db334fcf765768ba9644e229735cf7/2b40c/b63-piazza-caveri.jpg 2048w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Birrificio B63, specializes in &lt;em&gt;German style&lt;/em&gt; beers in a very small scale of 500L per cycle. It’s as artisanal as it gets. They offer guided tours and tasting sessions - although you might want to give them a call as their website is not the most up to date.&lt;/p&gt;
+&lt;p&gt;The brewpub was busy most of the time and the staff was very friendly - even when some words got lost in translation. &lt;/p&gt;
+&lt;p&gt;Most people coming over seem to be more interested in the &lt;strong&gt;food&lt;/strong&gt;. In fact, there was not many seats for &lt;em&gt;drinkers&lt;/em&gt; (I counted 3 tables). The food is really good and it’s a good option against the touristy eateries in the near high street.&lt;/p&gt;
+&lt;h2&gt;The Beers&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cb817dc041c005cc406c8e449615e75a/0a443/swing.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABpz5HSpFhW4m3mpiLxP/EAB0QAAMAAgIDAAAAAAAAAAAAAAABAgMRBBMSITL/2gAIAQEAAQUCXJUzbqh0Q/W78Gdc48WjrI+GI//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwExm//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8BbyUh/8QAHxAAAQMDBQAAAAAAAAAAAAAAAQARUQITIRASIDFB/9oACAEBAAY/AmLq4x2zpJRpy0LpU2xn0ovx/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBgf/aAAgBAQABPyEbmBWpZeMxLWaTDFuUBHKj060bgq7LG2ajZBXsBU//2gAMAwEAAgADAAAAENvkAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAEDAQE/EEKUuY//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEx/9oACAECAQE/EIEI0v8A/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBcYH/2gAIAQEAAT8QpkjWLyLEicPwPI7qHyWsVne1gNETlsN3p8j0EzBa75GnYpEIlTWBgOxfkVVcXOIQg4n/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Swing - Lager&quot;
+        title=&quot;Swing - Lager&quot;
+        src=&quot;/static/cb817dc041c005cc406c8e449615e75a/c739e/swing.jpg&quot;
+        srcset=&quot;/static/cb817dc041c005cc406c8e449615e75a/8ee9c/swing.jpg 148w,
+/static/cb817dc041c005cc406c8e449615e75a/ebbe7/swing.jpg 295w,
+/static/cb817dc041c005cc406c8e449615e75a/c739e/swing.jpg 590w,
+/static/cb817dc041c005cc406c8e449615e75a/5413e/swing.jpg 885w,
+/static/cb817dc041c005cc406c8e449615e75a/4efde/swing.jpg 1180w,
+/static/cb817dc041c005cc406c8e449615e75a/0a443/swing.jpg 1536w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I started my tasting with their lager beer called &lt;strong&gt;Swing&lt;/strong&gt; (&lt;a href=&quot;https://untappd.com/user/jpedroribeiro/checkin/846823979&quot; class=&quot;beer-rating&quot;&gt;&lt;span&gt;&lt;b&gt;3.75&lt;/b&gt;/5&lt;/span&gt; on Untapped&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;It’s a &lt;em&gt;helles&lt;/em&gt; style beer (remember the German influence I mentioned earlier?), very clean &amp;#x26; clear, lightly hopped. Flavour-wise it’s almost herbal. Not as full bodies as I’d expect for a helles. Surprisingly sessionable for a 5.7% ABV.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/95445357f6a0b959992afeb73399c9b5/0a443/reggae.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABddhBAoNTa0enUA0T/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIDEgARBCExE//aAAgBAQABBQLpWlOkd7MWC5aR1eu0VpD8KAxjOJ7Kej7/AP/EABcRAQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BqGv/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/Aalj/8QAHxAAAgEDBQEAAAAAAAAAAAAAABEBAhAxEiJBQlFh/9oACAEBAAY/Aq1xJkZLqbH1NrX09FrbzFpIt//EAB8QAQACAQMFAAAAAAAAAAAAAAEAESEQMUFRYZGhsf/aAAgBAQABPyErFsV5go/UVBYRmuhwS4yeSEZ6ZAAMu7FjSBC+ZNp6MQy6X//aAAwDAQACAAMAAAAQdygB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQMBAT8Q6asMKjp1n//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QWIt004KEf//EAB8QAQADAAIBBQAAAAAAAAAAAAEAESFBcTFRYZGxwf/aAAgBAQABPxA6Kaj0p+S6vHbtnUUHwgioDQUbcqNCE8Th3DtwgvK+YXanOB3F3cYWV1Go2cLc9o/ifcGSkBaf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Reggae - IPA&quot;
+        title=&quot;Reggae - IPA&quot;
+        src=&quot;/static/95445357f6a0b959992afeb73399c9b5/c739e/reggae.jpg&quot;
+        srcset=&quot;/static/95445357f6a0b959992afeb73399c9b5/8ee9c/reggae.jpg 148w,
+/static/95445357f6a0b959992afeb73399c9b5/ebbe7/reggae.jpg 295w,
+/static/95445357f6a0b959992afeb73399c9b5/c739e/reggae.jpg 590w,
+/static/95445357f6a0b959992afeb73399c9b5/5413e/reggae.jpg 885w,
+/static/95445357f6a0b959992afeb73399c9b5/4efde/reggae.jpg 1180w,
+/static/95445357f6a0b959992afeb73399c9b5/0a443/reggae.jpg 1536w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This was my favourite of the day, &lt;strong&gt;Reggae&lt;/strong&gt; (&lt;a href=&quot;https://untappd.com/user/jpedroribeiro/checkin/846826204&quot; class=&quot;beer-rating&quot;&gt;&lt;span&gt;&lt;b&gt;4.25&lt;/b&gt;/5&lt;/span&gt; on Untapped&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;Their &lt;em&gt;IPA&lt;/em&gt; was unfiltered. Creamy head, amber to almost red colour. Hoppy but not &lt;em&gt;west-coast&lt;/em&gt; hoppy. Still some malt there to balance out. Fruity notes.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3c1e23dc91afe8b3c1af3e7376f10762/0a443/soul.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAWFZ7M2DiF1MUeSKw2Wf/8QAHBAAAgMAAwEAAAAAAAAAAAAAAQIAAxIEEyEy/9oACAEBAAEFAl5AU33bO4GOgqsnsFa1p1KzYlcf6E//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BNb//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BdL//xAAeEAABAwQDAAAAAAAAAAAAAAABABEhAhASMSAiQf/aAAgBAQAGPwKol5UW7F1UcgCPFpBhKyO+P//EABwQAQACAwADAAAAAAAAAAAAAAEAESExYUFxkf/aAAgBAQABPyECBa9QCs18jD0u+srTe7eY9Zn6bljm09sMbzWGNJ//2gAMAwEAAgADAAAAEKQdvv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8Qg8lct3//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QRZALZv/EABwQAQEBAAIDAQAAAAAAAAAAAAERACExQVFxYf/aAAgBAQABPxAGAQJeiZSlcxO3HjKMg5GiJbZ1cFNo8T68Y1zSes7GKrevX5mLyxnyDgdm5c8R03Tv/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Soul - Schwarzbier&quot;
+        title=&quot;Soul - Schwarzbier&quot;
+        src=&quot;/static/3c1e23dc91afe8b3c1af3e7376f10762/c739e/soul.jpg&quot;
+        srcset=&quot;/static/3c1e23dc91afe8b3c1af3e7376f10762/8ee9c/soul.jpg 148w,
+/static/3c1e23dc91afe8b3c1af3e7376f10762/ebbe7/soul.jpg 295w,
+/static/3c1e23dc91afe8b3c1af3e7376f10762/c739e/soul.jpg 590w,
+/static/3c1e23dc91afe8b3c1af3e7376f10762/5413e/soul.jpg 885w,
+/static/3c1e23dc91afe8b3c1af3e7376f10762/4efde/soul.jpg 1180w,
+/static/3c1e23dc91afe8b3c1af3e7376f10762/0a443/soul.jpg 1536w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Their darkest option, &lt;strong&gt;Soul&lt;/strong&gt; (&lt;span href=&quot;https://untappd.com/user/jpedroribeiro/checkin/846826204&quot; class=&quot;beer-rating&quot;&gt;&lt;span&gt;&lt;b&gt;3.50&lt;/b&gt;/5&lt;/span&gt;&lt;/span&gt;). &lt;/p&gt;
+&lt;p&gt;Being German influenced it’s not surprising that their dark beer is a  &lt;em&gt;Schwarzbier&lt;/em&gt;. It was slightly sweet as expected. Full bodied, and with a thick, creamy head.   &lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.birrificio63.it/&quot;&gt;B63&lt;/a&gt; is definitely a great stop if you’re strolling around &lt;strong&gt;Aosta&lt;/strong&gt;. Good food and good beers with a very reasonable price.&lt;/p&gt;
+&lt;p&gt;In a region so rich in wine options, it’s good to know that the &lt;strong&gt;beer culture&lt;/strong&gt; is striving. After vising B63 I’ve learned that there was another brewery I could’ve visited called &lt;a href=&quot;http://www.lesbieres.it/en/shop/&quot;&gt;Les Bières du Grand St. Bernard&lt;/a&gt;. I’ve seen some of their bottles in shops around town but never thought it could be local.
+Maybe next time I’ll have to stop by and check them out. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Updating CSS Custom Properties with JavaScript]]></title><description><![CDATA[I ran into an issue this week: needed to update the colour of a pseudo element (i.e. ) of an element. The problem is that pseudo elements…]]></description><link>https://jpedroribeiro.com/2019/12/updating-css-custom-properties-javascript/</link><guid isPermaLink="false">https://jpedroribeiro.com/2019/12/updating-css-custom-properties-javascript/</guid><pubDate>Sun, 08 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I ran into an issue this week: needed to update the colour of a pseudo element (i.e. &lt;code class=&quot;language-text&quot;&gt;::before&lt;/code&gt;) of an element.&lt;/p&gt;
+&lt;p&gt;The problem is that pseudo elements are not part of the browser &lt;strong&gt;DOM API&lt;/strong&gt; and, therefore, are not available to JavaScript. They are, in fact, part of the &lt;a href=&quot;https://drafts.csswg.org/css-pseudo-4/&quot;&gt;CSS Object Model&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;My solution was to update the custom property which that pseudo element was using.
+It’s a rather simple solution, first select the &lt;strong&gt;document root&lt;/strong&gt; element:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const root = document.documentElement;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then update the custom property with the new value:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;root.style.setProperty(&amp;quot;--inputColour&amp;quot;, &amp;quot;yellow&amp;quot;);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Here’s the working solution:&lt;/p&gt;
+&lt;iframe height=&quot;265&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;Updating CSS Custom Properties with JavaScript&quot; src=&quot;https://codepen.io/jpedroribeiro/embed/rNaOrNb?height=265&amp;theme-id=default&amp;default-tab=css,result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&apos;https://codepen.io/jpedroribeiro/pen/rNaOrNb&apos;&gt;Updating CSS Custom Properties with JavaScript&lt;/a&gt; by Pedro Ribeiro
+  (&lt;a href=&apos;https://codepen.io/jpedroribeiro&apos;&gt;@jpedroribeiro&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[Book Notes #4 - Factfulness]]></title><description><![CDATA[If I would sum up this book in a short sentence it would be “numbers don’t like but liars use numbers”.  It’s a class on data interpretation…]]></description><link>https://jpedroribeiro.com/2019/12/book-notes-4-factfulness/</link><guid isPermaLink="false">https://jpedroribeiro.com/2019/12/book-notes-4-factfulness/</guid><pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a style=&quot;box-shadow: none&quot; target=&quot;_blank&quot; href=&quot;https://www.amazon.co.uk/Factfulness-Reasons-Wrong-Things-Better/dp/147363749X/ref=as_li_ss_il?keywords=factfulness&amp;qid=1575378991&amp;sr=8-1&amp;linkCode=li2&amp;tag=jpedroribeiro-21&amp;linkId=b8c908a13eaf65be368ff2bd677a76f0&amp;language=en_GB&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot;  style=&quot;margin:0 auto; display: block&quot; src=&quot;//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=147363749X&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=GB&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=jpedroribeiro-21&amp;language=en_GB&quot; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If I would sum up this book in a short sentence it would be &lt;strong&gt;“numbers don’t like but liars use numbers”&lt;/strong&gt;. &lt;/p&gt;
 &lt;p&gt;It’s a class on &lt;strong&gt;data interpretation&lt;/strong&gt;, and how biased or deceitful charts and graphs can be without the proper context.&lt;/p&gt;
 &lt;p&gt;Not a &lt;em&gt;fun&lt;/em&gt; read, but eye-opening. A &lt;strong&gt;4-star&lt;/strong&gt; rating on &lt;a href=&quot;https://www.goodreads.com/user/show/3186522-j-pedro-ribeiro&quot;&gt;my GoodReads&lt;/a&gt;.    &lt;/p&gt;

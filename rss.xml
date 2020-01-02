@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Jan 2020 14:56:56 GMT</lastBuildDate><item><title><![CDATA[Quote #2]]></title><description><![CDATA[“Respond; don’t react. Listen; don’t talk. Think; don’t assume.”
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Jan 2020 21:11:44 GMT</lastBuildDate><item><title><![CDATA[Book Review: Inclusive Components - Accessible web interfaces, piece by piece]]></title><description><![CDATA[Accessibility.  If you work with web development you must’ve heard about this term lately.  It is becoming popular topic on conferences…]]></description><link>https://jpedroribeiro.com/2020/01/book-review-inclusive-components/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/book-review-inclusive-components/</guid><pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8478a6d7b3ba4147fda55263058af2da/7fd22/inclusive-components-book-cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAV2Rnh6ZnBSncUSSS//EABoQAQEAAgMAAAAAAAAAAAAAAAECERIQEyD/2gAIAQEAAQUC7mWa24vADUkKzcNutZ8f/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BIf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AYU//8QAGBAAAwEBAAAAAAAAAAAAAAAAABExIAH/2gAIAQEABj8CuX0sEs//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMVFBEP/aAAgBAQABPyFUt4OyhcuG27jBtrzkP0XECE4TESOG3ZqGCiVU9+f/2gAMAwEAAgADAAAAEMz4c//EABcRAQEBAQAAAAAAAAAAAAAAAAEAERD/2gAIAQMBAT8QXG2eP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxA0Qj//xAAfEAEAAgEDBQAAAAAAAAAAAAABABFBEFFxITGBkdH/2gAIAQEAAT8QC0ncy4nROc6G7OIbsPm2FMUwlsYikRUKt5+kRSNV1r1ZCCFAUQFqy28wCCf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Inclusive Components Book Cover&quot;
+        title=&quot;Inclusive Components Book Cover&quot;
+        src=&quot;/static/8478a6d7b3ba4147fda55263058af2da/c739e/inclusive-components-book-cover.jpg&quot;
+        srcset=&quot;/static/8478a6d7b3ba4147fda55263058af2da/8ee9c/inclusive-components-book-cover.jpg 148w,
+/static/8478a6d7b3ba4147fda55263058af2da/ebbe7/inclusive-components-book-cover.jpg 295w,
+/static/8478a6d7b3ba4147fda55263058af2da/c739e/inclusive-components-book-cover.jpg 590w,
+/static/8478a6d7b3ba4147fda55263058af2da/7fd22/inclusive-components-book-cover.jpg 768w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Accessibility. &lt;/p&gt;
+&lt;p&gt;If you work with web development you must’ve heard about this term lately. &lt;/p&gt;
+&lt;p&gt;It is becoming popular topic on conferences &amp;#x26; meetups - whether it’s driven by &lt;a href=&quot;https://karlgroves.com/2019/08/27/the-truth-about-the-roi-of-web-accessibility&quot;&gt;money&lt;/a&gt; (an accessible website mean more people can use your product), &lt;a href=&quot;https://en.wikipedia.org/wiki/Web_accessibility#Web_accessibility_legislation&quot;&gt;law&lt;/a&gt;, &lt;a href=&quot;https://medium.com/cbc-digital-labs/developing-empathy-the-importance-of-digital-accessibility-workshops-18e40d79932a&quot;&gt;empathy&lt;/a&gt;, or simply because of &lt;strong&gt;common sense&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;On that wave comes &lt;a href=&quot;http://book.inclusive-components.design/&quot;&gt;Inclusive Components - Accessible web interfaces, piece by piece&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/heydonworks&quot;&gt;Heydon Pickering&lt;/a&gt;. The book is a comprehensive &lt;strong&gt;guide&lt;/strong&gt; on creating web components with &lt;strong&gt;accessibility&lt;/strong&gt; in mind. &lt;/p&gt;
+&lt;h2&gt;The Book&lt;/h2&gt;
+&lt;p&gt;The first thing you notice about the book is that it has the &lt;a href=&quot;https://shop.smashingmagazine.com/&quot;&gt;Smashing Magazine&lt;/a&gt; &lt;em&gt;quality standard&lt;/em&gt;, both in terms of aesthetics and content. &lt;/p&gt;
+&lt;p&gt;Throughout &lt;strong&gt;12 chapters&lt;/strong&gt;, each dedicated to a specific type of component, the author explains in details how to create
+an accessible user interface from the most basic implementation to the most complete and advanced solution - not forgetting the steps in-between.&lt;/p&gt;
+&lt;p&gt;It’s in the chapter progression that the author excels in creating an engaging and &lt;strong&gt;educational&lt;/strong&gt; writing. As the chapter evolves, so does the component in focus, with new building blocks being added to
+it. It’s an approach that caters for a wide range of readers with different skill sets. &lt;/p&gt;
+&lt;p&gt;JavaScript wise, it’s unbiased towards frameworks (React and Vue are mentioned). In fact, most of the code samples are &lt;em&gt;framework-free&lt;/em&gt;. Sometimes no JavaScript solutions are offered, as a display that the web is inclusive by nature.&lt;/p&gt;
+&lt;p&gt;Visually, the book is simple and beautiful. Perfect binding, high quality paper, and a fabric &lt;strong&gt;bound bookmark&lt;/strong&gt;. I cannot stress enough how much I like this book just for the fact that it has a bound bookmark. Tiny details count, people.&lt;/p&gt;
+&lt;h2&gt;Some Highlights&lt;/h2&gt;
+&lt;p&gt;A theme that is present throughout the book is the fact that you might have to write your code for different audiences. A user accessing your website with a screen reader and one using a mouse and cursor might need different elements to be present on the page.&lt;/p&gt;
+&lt;p&gt;We can cater the screen readers audience by hiding aesthetic elements with &lt;code class=&quot;language-text&quot;&gt;aria-hidden=&amp;quot;true&amp;quot;&lt;/code&gt; or visually hide verbose elements for the mouse/touch crowd with a custom class like the one below:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;.visually-hidden { 
+    position: absolute !important;
+    height: 1px; 
+    width: 1px;
+    overflow: hidden;
+    padding: 0;
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+} &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is a better approach than simply &lt;code class=&quot;language-text&quot;&gt;display: none&lt;/code&gt; as the latter would remove the element from the visual interface and screen reader output.&lt;/p&gt;
+&lt;p&gt;Another interesting tip is to not allow non-interactive elements to have focus, which makes sense considering that an element that is focusable means it will also have some sort of feedback when interacted with&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As you can see by my bookmarks, this book has tons of useful tips. I’ve been doing web development for years now and after reading it I felt like I needed to refactor &lt;em&gt;all the things&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I’ll end this review with a great quote from the book:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Inclusive design mantra: If in doubt, spell it out.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you don’t get it. &lt;a href=&quot;http://book.inclusive-components.design&quot;&gt;Go get a copy of the book&lt;/a&gt;, you won’t regret it.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Quote #2]]></title><description><![CDATA[“Respond; don’t react. Listen; don’t talk. Think; don’t assume.”
 — Raji Lukkoor See other quotes.]]></description><link>https://jpedroribeiro.com/2020/01/quote-raji-lukkoor/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/quote-raji-lukkoor/</guid><pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;“Respond; don’t react. Listen; don’t talk. Think; don’t assume.”
 — &lt;a href=&quot;https://www.goodreads.com/author/show/5151334.Raji_Lukkoor&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Raji Lukkoor&lt;/a&gt;&lt;/p&gt;

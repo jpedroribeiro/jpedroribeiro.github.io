@@ -1,4 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Jan 2020 21:11:44 GMT</lastBuildDate><item><title><![CDATA[Book Review: Inclusive Components - Accessible web interfaces, piece by piece]]></title><description><![CDATA[Accessibility.  If you work with web development you must’ve heard about this term lately.  It is becoming popular topic on conferences…]]></description><link>https://jpedroribeiro.com/2020/01/book-review-inclusive-components/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/book-review-inclusive-components/</guid><pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jan 2020 10:23:53 GMT</lastBuildDate><item><title><![CDATA[I used meditation apps for a year and here is what I found out]]></title><description><![CDATA[I always had some interest in meditation.  In the past, I played around with the idea via yoga classes. It was a mix of positions, breathing…]]></description><link>https://jpedroribeiro.com/2020/01/meditation-apps-for-a-year/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/meditation-apps-for-a-year/</guid><pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b50769523344d02b41ce1f32f688cee8/1a7e9/mindfulness-piece-of-paper.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.67226326393553%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB12c3McCEP//EABgQAAIDAAAAAAAAAAAAAAAAAAECAAMT/9oACAEBAAEFAtxobxEuUKtzCb2TQz//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAARExAjIhgZH/2gAIAQEABj8CTh6mrKZxC6LKx8P/xAAdEAEAAgEFAQAAAAAAAAAAAAABABEhEDFBYbFx/9oACAEBAAE/IRwJl6TdYZSOd9id2uoWKQnzTH//2gAMAwEAAgADAAAAEBAP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QiP/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPxCrr//EABoQAQEBAQEBAQAAAAAAAAAAAAERACExUcH/2gAIAQEAAT8QhOQQPMetJ1aasJ3ofW6MYJQOZ2qcRKOSfy7/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Mindfulness written on a piece of paper&quot;
+        title=&quot;Mindfulness written on a piece of paper&quot;
+        src=&quot;/static/b50769523344d02b41ce1f32f688cee8/c739e/mindfulness-piece-of-paper.jpg&quot;
+        srcset=&quot;/static/b50769523344d02b41ce1f32f688cee8/8ee9c/mindfulness-piece-of-paper.jpg 148w,
+/static/b50769523344d02b41ce1f32f688cee8/ebbe7/mindfulness-piece-of-paper.jpg 295w,
+/static/b50769523344d02b41ce1f32f688cee8/c739e/mindfulness-piece-of-paper.jpg 590w,
+/static/b50769523344d02b41ce1f32f688cee8/5413e/mindfulness-piece-of-paper.jpg 885w,
+/static/b50769523344d02b41ce1f32f688cee8/4efde/mindfulness-piece-of-paper.jpg 1180w,
+/static/b50769523344d02b41ce1f32f688cee8/1a7e9/mindfulness-piece-of-paper.jpg 5956w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I always had some interest in &lt;strong&gt;meditation&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;In the past, I played around with the idea via &lt;strong&gt;yoga&lt;/strong&gt; classes. It was a mix of positions, breathing exercises
+and some sort of meditation. &lt;/p&gt;
+&lt;p&gt;However, my goal at time was purely focused on the physical benefits that yoga would bring to me. Mindfulness was not even in the picture.  &lt;/p&gt;
+&lt;p&gt;In fact, &lt;em&gt;mindfulness&lt;/em&gt; was not even I word I was aware of. &lt;/p&gt;
+&lt;p&gt;Fast-forward to a few years, the &lt;a href=&quot;https://trends.google.com/trends/explore?date=2010-01-01%202020-01-01&amp;#x26;q=Mindfulness%20app&quot;&gt;trend&lt;/a&gt; of meditation or mindfulness apps has peaked (over 100 apps last time I checked), and meditation &lt;em&gt;on the go&lt;/em&gt; has never been so easy.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/92c7da6da190711b1e5f54fd78685182/34e8a/mindfulness-app-google-trends-2010-2020.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 78.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsTAAALEwEAmpwYAAABoklEQVQ4y41Uy07DMBDM//8TN04ITkjcEBQoNDRpm6RJE9vrwbPNlhTagqWRnX3MzvqRzHnBMAzo+14RQgBHjFExXf/HlrV9wOvbO2bPz8jzXElPEbIQfWVZoiiKo8I2lBBRcGlMEzhE5KxKJWTAdrtF13UaTBVt2+rsvdcg+hjjnNMY+mk7pTJj0Gq1wmaz0YSmafS7rmtNoo0+tklSa3u9XmO322nRKTImGZjAIJIQPCzCgs1m33aYVMw8zhmNVFRVlSphANuatnL2hMc9tU5Imtk+/DyI/wAwHDL3hHZyf0Ems0hE3ac77CMV6BxkQngJgVsQRyQVb1XA9czh6tHh4dPr+n7hUbSyJzynRiZtDSHivZaUGHA79/hI60UjyBM+EspO0AzyW2EcVRiKbcDd3OHm1SnR0yqg2h3HHBDjt0Iz+qSElZZJ/ssmqCpW98rBtoPGSTxGjLCXEtANHrNywLxKrSTktcey8cmeiiW/+AFuvJNNuqvcUwox8E7ajyWzVn1Iczz9no3g0nu3TjOy70mTEqs4whQcTnti+wnzfwF69+kj2aznFAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Google trends for &amp;quot;mindfulness apps&amp;quot; for the past decade&quot;
+        title=&quot;Google trends for &amp;quot;mindfulness apps&amp;quot; for the past decade&quot;
+        src=&quot;/static/92c7da6da190711b1e5f54fd78685182/b9e4f/mindfulness-app-google-trends-2010-2020.png&quot;
+        srcset=&quot;/static/92c7da6da190711b1e5f54fd78685182/cf440/mindfulness-app-google-trends-2010-2020.png 148w,
+/static/92c7da6da190711b1e5f54fd78685182/d2d38/mindfulness-app-google-trends-2010-2020.png 295w,
+/static/92c7da6da190711b1e5f54fd78685182/b9e4f/mindfulness-app-google-trends-2010-2020.png 590w,
+/static/92c7da6da190711b1e5f54fd78685182/34e8a/mindfulness-app-google-trends-2010-2020.png 600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So, I decided to give it a go to see what being &lt;em&gt;mindful&lt;/em&gt; means, and how would it change me (if at all).&lt;/p&gt;
+&lt;h2&gt;The Plan&lt;/h2&gt;
+&lt;p&gt;In a nutshell, my plan was: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Use a meditation (or mindfulness) app throughout the year&lt;/strong&gt;.  &lt;/li&gt;
+&lt;li&gt;Log some key moments. &lt;/li&gt;
+&lt;li&gt;Report my findings (I am an engineer, don’t judge me 🤷🏽‍♂️).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Time-wise, what worked best for me was to use it in the mornings, after the gym, just before work.&lt;/p&gt;
+&lt;p&gt;I started doing this &lt;strong&gt;every single day&lt;/strong&gt;. After about 3 months, I’ve stuck to work days only - with an occasional session on weekends.   &lt;/p&gt;
+&lt;h2&gt;The Apps&lt;/h2&gt;
+&lt;p&gt;After some consideration, I decided to go with &lt;a href=&quot;https://www.aurahealth.io/&quot;&gt;Aura&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://www.headspace.com/&quot;&gt;Headspace&lt;/a&gt;. Mainly because I had an extended trial for both that would allow me to fully use their app without the &lt;strong&gt;free tier&lt;/strong&gt; limitations.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 560px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/94f898cf09fccfd09817f79123c0d1de/02744/aura-headspce-apple-store.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 44.285714285714285%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACoUlEQVQoz42SW0iTcRjG/1N31J3c3PZt387q1EpLQ1FvZlGJSOfCnGZaieZy2EUaLRMUKo3W+kSspBSKbDmdeiPWoMhSMioXkimYCYUdhAxyun373japi+564AcvvA+/qwcJMOy4sfzoDdxgsAv4fEKl0xMYriQEIjGBwsLttPCImwihbPS/wXPyHp34CpBmKodYmQTiVDhoMClIeBxgc4TAFcggWKsMdcUYXq1L2miOEYurcBw3KxQKs1arNdPp9Krg2xKkBNF40U5WRi4whKIVrlLvY2fk+2iJ2T6kSfGx0/O8YYZMYLMYpmBZ0FpzCDxtFtDGJ0GsXg8qlRrUag2EhYUDI1oDEczI74gnTHCt21QL6alWUlLWAXHPALCBZWBfe0WlT4Bf2PUBEF9SHBTySnZv9xPnqgPahPV+nU5HqjUaUq5QkEqV2qc3JAGXx59FcpXRVVQ+AqWmp+SGCgfEd4xD7PU3wK27T6kuDPt5Zx3AkuvWhPX11sDizEv45HlCvZt4QXnGR6jXo4+p6bfjgV8/FsBqrZtDCizLZTrggsLcPnJbYQvYOrugvv0eJJfVUEaLxW/YfxJYYtma8KrtcuBBdzc4nL2Bb7Me6vPkGPXl4xS1ND9Jgm8RbFda5pBSmtVbuNUJx3L6V3cebCJvD/SQTW2dZMrpZrLAPrS6edcpoEtjikLCdsIGU70OeD/YAxS1CitLC/BzzAHemVEIpZWwzSOZIHEoP60B9iY3QMaOajDWnIGLzbWQWVAJ2Zl7QJ2VD0y5uiwojDpSWuwlbl1aIeznvX2D/V5nY4X3zham9+4+3fKgo4sqLjk8HVpDI41Ge05D6CFDEOOOwrXu1NQ4t1Amd3OiIoc5IskYimDm/VkZFkTyL6y/tzSI6DfC+SFAMf8SdgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Aura &amp;amp; Headspace on Apple Store&quot;
+        title=&quot;Aura &amp;amp; Headspace on Apple Store&quot;
+        src=&quot;/static/94f898cf09fccfd09817f79123c0d1de/02744/aura-headspce-apple-store.png&quot;
+        srcset=&quot;/static/94f898cf09fccfd09817f79123c0d1de/cf440/aura-headspce-apple-store.png 148w,
+/static/94f898cf09fccfd09817f79123c0d1de/d2d38/aura-headspce-apple-store.png 295w,
+/static/94f898cf09fccfd09817f79123c0d1de/02744/aura-headspce-apple-store.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;The Good, the bad &amp;#x26; the ugly&lt;/h2&gt;
+&lt;h3&gt;Gamification&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Aura&lt;/strong&gt; uses &lt;em&gt;day streak&lt;/em&gt;, which makes no sense to me.
+It only serves to pressure the user in using the app for the sake of it and induces &lt;strong&gt;anxiety&lt;/strong&gt; rather than mitigates it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Headspace&lt;/strong&gt; takes it easy and only tracks &lt;em&gt;total minutes meditating&lt;/em&gt;. It feels positive regardless of what that number means to you.&lt;/p&gt;
+&lt;h3&gt;Day to day use&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Aura&lt;/strong&gt; has loads of instructors. Each tackling different topics ranging from gratitude to life stories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Headspace&lt;/strong&gt; feels more like a continuous learning experience. The tracks (mostly) have an end goal. Like chapters on a book.&lt;/p&gt;
+&lt;p&gt;I found that Aura was best for &lt;strong&gt;one-offs&lt;/strong&gt; - that moment when you just need to sit down and get it going. &lt;/p&gt;
+&lt;h3&gt;Quality Control&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Aura&lt;/strong&gt;, due to its variety of instructors, has poorer quality standards compared to &lt;strong&gt;Headspace&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve notice the &lt;strong&gt;audio quality&lt;/strong&gt; dropping to a very low level and there was also one session where the instructor literally &lt;strong&gt;coughed&lt;/strong&gt; as they were giving the instructions - why wasn’t that edited out is beyond me.
+&lt;small&gt;(Now, it’s fair to notice that in total these might’ve been about 5-6 sessions throughout the whole year, so their quality &lt;em&gt;average&lt;/em&gt; is still pretty good.)&lt;/small&gt;&lt;/p&gt;
+&lt;h3&gt;Other notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I’ve noticed there’s a lack of proper &lt;strong&gt;offline&lt;/strong&gt; support in Aura, even for tracks you &lt;em&gt;liked&lt;/em&gt;. Headspace, if I’m not wrong, lets you re-listen to previous sessions.&lt;/li&gt;
+&lt;li&gt;Headspace logged me off constantly. I think that happened on every app update.&lt;/li&gt;
+&lt;li&gt;Aura had a nice feature of adding &lt;strong&gt;background white noises&lt;/strong&gt; during a session. Great for relaxation.&lt;/li&gt;
+&lt;li&gt;Both apps have some sort of &lt;strong&gt;community&lt;/strong&gt; feel. Headspace has group meditation session which is quite interesting although I’ve only really done it a couple times.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Taking the time to gather your thoughts and be mindful, even for a few minutes a day, does work. At least it did for me.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’ve noticed the biggest change in the first 2-3 weeks. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After that, it became a habit. Part of my day to day routine. Not task that I &lt;strong&gt;had to&lt;/strong&gt; do, but a moment I looked &lt;strong&gt;forward to&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;After &lt;strong&gt;1 year&lt;/strong&gt; with these apps I am looking for something &lt;strong&gt;different&lt;/strong&gt;. At the moment I’m giving &lt;a href=&quot;https://wakingup.com/&quot;&gt;Waking Up&lt;/a&gt; a try. I’ve listened to &lt;strong&gt;Sam Harris&lt;/strong&gt; in a few podcasts and he seems to be someone who knows a thing or two about meditation. I’ll report back in the future.&lt;/p&gt;
+&lt;h3&gt;Which one should you pick?&lt;/h3&gt;
+&lt;p&gt;I hate to say &lt;em&gt;it depends&lt;/em&gt;, but it does.&lt;/p&gt;
+&lt;p&gt;If you have never done mindfulness before and just want to have a taste of it, go for &lt;strong&gt;Aura&lt;/strong&gt;. Have a couple sessions and see how you feel.&lt;/p&gt;
+&lt;p&gt;If you want to &lt;strong&gt;learn&lt;/strong&gt; and have a longer term guidance, pick &lt;strong&gt;Headspace&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maybe try both&lt;/strong&gt;. Try other apps if you can. &lt;/p&gt;
+&lt;p&gt;Either way, go for their free tier version first. And then, when you’re ready to commit, subscribe. You’ll get much more features on a &lt;strong&gt;paid&lt;/strong&gt; tier.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h4&gt;&lt;em&gt;PS:&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;I’ve interchangeably used mindfulness and meditation throughout this article for brevity. They’re &lt;a href=&quot;https://medium.com/thrive-global/mindfulness-meditation-whats-the-difference-852f5ef7ec1a&quot;&gt;different things&lt;/a&gt;&lt;/small&gt;. &lt;/li&gt;
+&lt;li&gt;&lt;small&gt;It might seem obvious but it’s worth noting that everything written here is solely based on &lt;strong&gt;my&lt;/strong&gt; experience, and yours may vary&lt;/small&gt;. &lt;/li&gt;
+&lt;li&gt;&lt;small&gt;None of these companies paid me to write anything&lt;/small&gt;. &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Book Review: Inclusive Components - Accessible web interfaces, piece by piece]]></title><description><![CDATA[Accessibility.  If you work with web development you must’ve heard about this term lately.  It is becoming popular topic on conferences…]]></description><link>https://jpedroribeiro.com/2020/01/book-review-inclusive-components/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/book-review-inclusive-components/</guid><pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;

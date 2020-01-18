@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jan 2020 10:23:53 GMT</lastBuildDate><item><title><![CDATA[I used meditation apps for a year and here is what I found out]]></title><description><![CDATA[I always had some interest in meditation.  In the past, I played around with the idea via yoga classes. It was a mix of positions, breathing…]]></description><link>https://jpedroribeiro.com/2020/01/meditation-apps-for-a-year/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/meditation-apps-for-a-year/</guid><pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Jan 2020 10:40:21 GMT</lastBuildDate><item><title><![CDATA[Get a nested property of an object with dot notation]]></title><description><![CDATA[Let’s say you have a JSON file with your data. You parse it into an object literal: Your app (maybe your CMS, or an i18n library) asks for…]]></description><link>https://jpedroribeiro.com/2020/01/nested-property-dot-notation/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/nested-property-dot-notation/</guid><pubDate>Sat, 18 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Let’s say you have a JSON file with your data. You parse it into an object literal:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;  const myObject = {
+    foo: {
+      bar: {
+        baz: 123
+      },
+      ...
+      xyz: &amp;quot;test&amp;quot;
+    }
+  };&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Your app (maybe your CMS, or an i18n library) asks for the content of a specific path:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const myPath = &amp;quot;foo.bar.baz&amp;quot;;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;How would you get the value of this property?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gist.github.com/jpedroribeiro/8950ed3f10e505cadb7f62467714ab98&quot;&gt;This is what I came up with&lt;/a&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;function getPropValue(sourceObject, dotNotationPath) {
+  let returnData = sourceObject;
+
+  dotNotationPath.split(&amp;quot;.&amp;quot;).forEach(subPath =&amp;gt; {
+    returnData = returnData[subPath] || `Property ${subPath} not found`;
+  });
+
+  return returnData;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Basically, I’m breaking down the path string into an array (&lt;code class=&quot;language-text&quot;&gt;split&lt;/code&gt;), looping through each
+property. As I go to each property, &lt;code class=&quot;language-text&quot;&gt;returnData&lt;/code&gt; receives the nested object of &lt;strong&gt;that&lt;/strong&gt; specific level, up until we reach the
+final property, which will be the value we want. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(getPropValue(myObject, myPath)); // 123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If the path doesn’t exist or a property down the road is not present, you get the
+error message:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const myPath2 = &amp;quot;foo.zoo&amp;quot;
+console.log(getPropValue(myObject, myPath2)); // &amp;quot;Property zoo not found&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[I used meditation apps for a year and here is what I found out]]></title><description><![CDATA[I always had some interest in meditation.  In the past, I played around with the idea via yoga classes. It was a mix of positions, breathing…]]></description><link>https://jpedroribeiro.com/2020/01/meditation-apps-for-a-year/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/meditation-apps-for-a-year/</guid><pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;

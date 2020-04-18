@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Jan 2020 10:42:30 GMT</lastBuildDate><item><title><![CDATA[Getting a nested property of an object with dot notation]]></title><description><![CDATA[Let’s say you have a JSON file with your data. You parse it into an object literal: Your app (maybe your CMS, or an i18n library) asks for…]]></description><link>https://jpedroribeiro.com/2020/01/nested-property-dot-notation/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/nested-property-dot-notation/</guid><pubDate>Sat, 18 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Let’s say you have a JSON file with your data. You parse it into an object literal:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Apr 2020 18:08:52 GMT</lastBuildDate><item><title><![CDATA[Baseliner 6.0 is out!]]></title><description><![CDATA[Baseliner, my very own Chrome Extension has finally been published.   An extension for designers and developers who care about grid…]]></description><link>https://jpedroribeiro.com/2020/04/baseliner-6-is-out/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/04/baseliner-6-is-out/</guid><pubDate>Sat, 18 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 440px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8a51a834c969371face9ce096d53ddb6/4f7c9/promo-440.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.63636363636363%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlklEQVQoz2NQldRXJgsBNTJQqNlAhUzNBgwqUgZKEnoQPpANIw2UpQxAUpL6ihJ6QKQC48LVqEkZMKiK6ymL6yqIaCuJ6coJaQDZckKaSmI6iqLa8sKaQOPVZYw05UyAgrIC6kA3gtSI6coLa8kLaTJE+iXs3ra3tb5LX8XS2ykEqM7bMcRY09ZCz8lS3zk5OqurZUJyVJaVgYuvS5iyhJ6HXaCJpq2NkauXfRBDdnLRiWOnVy/fkJFYePzo6Y7mvrWrNtVWtG7ZsGPdqs097ZNmTZvf0dy/YM7SNSs2TOqbeezwyQnd01av2FCYWcEQF5K6Y8ue7taJrXVd2zfvri1rntI3c1LP9JmT5/V1TC7LrwXa3FrfXVlYX15Q29nUt2LxmrK8ms6mfgNVKwZ1SQNDVSt1aUNg0OsqmmtIGxqr26hI6AF9a6RuDQwVdSlDECltqCFjrCiqo6dkAURAxVoyRgzAMJAX0VIU1wUGqZyINpAhK6wFDH8QAygOZkBkgSQwtIFq5EW1QeEPSSQqlKQwlQFJngAKHanerlosBgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Baseliner logo&quot;
+        title=&quot;Baseliner logo&quot;
+        src=&quot;/static/8a51a834c969371face9ce096d53ddb6/4f7c9/promo-440.png&quot;
+        srcset=&quot;/static/8a51a834c969371face9ce096d53ddb6/cf440/promo-440.png 148w,
+/static/8a51a834c969371face9ce096d53ddb6/d2d38/promo-440.png 295w,
+/static/8a51a834c969371face9ce096d53ddb6/4f7c9/promo-440.png 440w&quot;
+        sizes=&quot;(max-width: 440px) 100vw, 440px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/baseliner/agoopbiflnjadjfbhimhlmcbgmdgldld?hl=en-GB&quot;&gt;Baseliner&lt;/a&gt;, my very own Chrome Extension has finally been published.  &lt;/p&gt;
+&lt;h2&gt;An extension for designers and developers who care about grid alignment&lt;/h2&gt;
+&lt;p&gt;Born in 2015, &lt;strong&gt;Baseliner&lt;/strong&gt; is a Chrome (and &lt;a href=&quot;https://addons.mozilla.org/en-GB/firefox/addon/baseliner-add-on/&quot;&gt;Firefox&lt;/a&gt;) extension used by more than &lt;strong&gt;6.000&lt;/strong&gt; users worldwide. &lt;/p&gt;
+&lt;p&gt;The extension overlays a grid on top of any page, helping UX Designers &amp;#x26; Developers build interfaces with pixel perfect metrics.&lt;/p&gt;
+&lt;h2&gt;Version 6.0&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cd92e7eaaa1082c1cb8712b24a2749fc/f0cf2/screenshot.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.919999999999995%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAACK0lEQVQoz3VTS28SYRTlh9iWUh6ttVqCJGyM2lSN7kzTB32tXLBgoQnVbjSR/gKju7Yu3DYuWZgmJl24MCG6s4QCDo+ZYd7D8OgAwvHON9KaGBcnd+53v+/cc+/JeK7N3UBoZhZz1+cRCE3jyvgEJn1+TPmDmPD6GHz+AIM/EGS1sXEvg88XgHcshKuhMGaC85idvgnPvYVFbK5tYHVpBfHlNayvxFm+Fd/Exuo6g5tfnjl3lh8v4dGDhzj6cITPxyf4lDlG5mMGnv03++grNrSSArOsw+A0ii6MnyrBjSynmk735LM6pNMa9l6+hiLLMEUbCmcBwyE8h28PMNB7UAoSe6g7JBxFemxUGrCqBkXDPWMN3NjiLaSJsFgoot3uwbLO0W624Dkgwl8OYVFmJDop0knp968ShC9ZZE++Qczm0eAbjMipaxStqkmEaZSKJbSEMlrVEvqmRQrfvcfAHEAtqUyJXiZUdKicAe1MQPlHHVqBmjkqyy6chk2+ib1XaVSqNaiCDIGrodOxXYUDrctG1v8aWczxEHIixFMeUr5+MbIDZ98WNXAIBZ5Htw907CH6vd7/CaW8hHpOIuI6mSAzU0Z1ldZzLrbwLPkUW9vb2N19gZ1UCs93Uo4ph2RKn+3Q4HTXDBrJpLHNP3GUM5cJKinsyjYSTxKYDIRwd/E+bt2+g0gk8u8OnR2ZFePiewSzevmtkTFdpYtkIkk/wBRisRii0SjC4TB+A2Rvdf9iuvSlAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Baseliner logo&quot;
+        title=&quot;Baseliner logo&quot;
+        src=&quot;/static/cd92e7eaaa1082c1cb8712b24a2749fc/b9e4f/screenshot.png&quot;
+        srcset=&quot;/static/cd92e7eaaa1082c1cb8712b24a2749fc/cf440/screenshot.png 148w,
+/static/cd92e7eaaa1082c1cb8712b24a2749fc/d2d38/screenshot.png 295w,
+/static/cd92e7eaaa1082c1cb8712b24a2749fc/b9e4f/screenshot.png 590w,
+/static/cd92e7eaaa1082c1cb8712b24a2749fc/f9b6a/screenshot.png 885w,
+/static/cd92e7eaaa1082c1cb8712b24a2749fc/2d849/screenshot.png 1180w,
+/static/cd92e7eaaa1082c1cb8712b24a2749fc/f0cf2/screenshot.png 1250w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The newly deployed version 6.0 was completely built from scratch, based on the feedback I’ve received over the years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Baseliner&lt;/strong&gt; now enables both horizontal &lt;strong&gt;and&lt;/strong&gt; vertical grid, by far the most requested feature.&lt;/p&gt;
+&lt;p&gt;The extension is also faster and more performant thanks to the use of more modern tooling like React.js.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/baseliner/agoopbiflnjadjfbhimhlmcbgmdgldld?hl=en-GB&quot;&gt;Download Baseliner 6.0 on Chrome Web Store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://addons.mozilla.org/en-GB/firefox/addon/baseliner-add-on/&quot;&gt;Download Baseliner 6.0 for Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Feedback, bugs, suggestions, support&lt;/h2&gt;
+&lt;p&gt;The project is on &lt;a href=&quot;https://github.com/jpedroribeiro/Baseliner&quot;&gt;GitHub&lt;/a&gt; and we welcome any suggestions that will help us improve this tool.
+Found any bug? Feel free to file an &lt;a href=&quot;https://github.com/jpedroribeiro/Baseliner/issues/new/choose&quot;&gt;issue&lt;/a&gt;.
+Like the extension? You can &lt;a href=&quot;https://ko-fi.com/jpedroribeiro&quot;&gt;buy us a coffee&lt;/a&gt; and help maintain this project.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting a nested property of an object with dot notation]]></title><description><![CDATA[Let’s say you have a JSON file with your data. You parse it into an object literal: Your app (maybe your CMS, or an i18n library) asks for…]]></description><link>https://jpedroribeiro.com/2020/01/nested-property-dot-notation/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/01/nested-property-dot-notation/</guid><pubDate>Sat, 18 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Let’s say you have a JSON file with your data. You parse it into an object literal:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;  const myObject = {
     foo: {
       bar: {

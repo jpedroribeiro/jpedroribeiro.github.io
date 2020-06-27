@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 06 Jun 2020 14:39:00 GMT</lastBuildDate><item><title><![CDATA[Book Review: Click! - How to Encourage Clicks Without Shady Tricks]]></title><description><![CDATA[I’m an engineer. I like going straight to the point and find an answer to a problem.  That’s why I’m usually put off by books on business…]]></description><link>https://jpedroribeiro.com/2020/06/book-review-click/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/06/book-review-click/</guid><pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Jun 2020 15:32:42 GMT</lastBuildDate><item><title><![CDATA[Tech Review for Responsive Web Design 3rd Ed]]></title><description><![CDATA[Over the past several months I’ve been working with Packt Publishing as a technical reviewer for their new release: Responsive Web Design…]]></description><link>https://jpedroribeiro.com/2020/06/responsive-web-design-tech-review/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/06/responsive-web-design-tech-review/</guid><pubDate>Sat, 27 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 451px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b2da3bdebe6c1c8ec896eb041968eb06/0a7b8/rwd-cover.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 110.86474501108647%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAAAQBQCdASoUABYAPtFgqE+oJSOiKAgBABoJYgCdL46VgSYSanZ+KKC0eRSGMIT6LWAAAP6WomZxAYyNme2tAeETlmVpqwrKyhDIfvnHnFx4atm7Age2Mek+oxoktVtslZmzOyuRxEt16UGaQO1ea3rIz0pO/3KvVlab7f58wBDEdu7Wuiw0M4BRFEDap01CPiSsbAGGW9StoAQpiByRS4lFgIgmAyQuRkOlqK81U93sHj8kRPoNSOt3jd6sLYq/DqMBlwJOk5Z0gUpAiLkHHN5Ejo/tFJsCVHHIE1skRAA=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Responsive Web Design with HTML5 and CSS - Third Edition Book Cover&quot;
+        title=&quot;Responsive Web Design with HTML5 and CSS - Third Edition Book Cover&quot;
+        src=&quot;/static/b2da3bdebe6c1c8ec896eb041968eb06/0a7b8/rwd-cover.webp&quot;
+        srcset=&quot;/static/b2da3bdebe6c1c8ec896eb041968eb06/cc182/rwd-cover.webp 148w,
+/static/b2da3bdebe6c1c8ec896eb041968eb06/f7e40/rwd-cover.webp 295w,
+/static/b2da3bdebe6c1c8ec896eb041968eb06/0a7b8/rwd-cover.webp 451w&quot;
+        sizes=&quot;(max-width: 451px) 100vw, 451px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Over the past several months I’ve been working with &lt;a href=&quot;https://www.packtpub.com/&quot;&gt;Packt Publishing&lt;/a&gt; as a technical reviewer for their new release: &lt;a href=&quot;https://www.packtpub.com/gb/web-development/responsive-web-design-with-html5-and-css-third-edition&quot;&gt;Responsive Web Design with HTML5 and CSS - Third Edition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve previously &lt;a href=&quot;/2015/07/being-technical-book-reviewer/&quot;&gt;shared my experience working as a tech reviewer&lt;/a&gt;, in fact, I’ve reviewed their 1st edition back in 2015.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 410px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c336b64d579836a45e72e9e532d5f002/da200/reviewer-screenshot.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.90243902439025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoUAA8APtFUpEuoJKOhsAgBABoJZQCdACKfAv2P1nc6hJMwAM3zAbprJ8UE3QW7z22zs6CcJ+ARM8sDe4h2RPSglCCYJSJAg8gdX6fjCBSxHi8YQ6Pxw8XnipqxIhwAAAA=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Snippet of the reviewer section&quot;
+        title=&quot;Snippet of the reviewer section&quot;
+        src=&quot;/static/c336b64d579836a45e72e9e532d5f002/da200/reviewer-screenshot.webp&quot;
+        srcset=&quot;/static/c336b64d579836a45e72e9e532d5f002/cc182/reviewer-screenshot.webp 148w,
+/static/c336b64d579836a45e72e9e532d5f002/f7e40/reviewer-screenshot.webp 295w,
+/static/c336b64d579836a45e72e9e532d5f002/da200/reviewer-screenshot.webp 410w&quot;
+        sizes=&quot;(max-width: 410px) 100vw, 410px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This new edition is beautifully written by &lt;a href=&quot;https://benfrain.com/&quot;&gt;Ben Frain&lt;/a&gt;, in a very informal, joyful way. The kind of book I wish I had when I started my journey as a web developer.&lt;/p&gt;
+&lt;p&gt;You can check out more about the book on the &lt;a href=&quot;https://www.packtpub.com/gb/web-development/responsive-web-design-with-html5-and-css-third-edition&quot;&gt;Packt Pub website&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Book Review: Click! - How to Encourage Clicks Without Shady Tricks]]></title><description><![CDATA[I’m an engineer. I like going straight to the point and find an answer to a problem.  That’s why I’m usually put off by books on business…]]></description><link>https://jpedroribeiro.com/2020/06/book-review-click/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/06/book-review-click/</guid><pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;

@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Nov 2020 16:05:24 GMT</lastBuildDate><item><title><![CDATA[Book Notes #6: Craft Coffee: A Manual - Brewing a better cup at home]]></title><description><![CDATA[Here are my highlights: Ideal coffee to water ratio: 1:15.  Grind reference for V60: fine sea salt, AeroPress: granulated sugar.  Pour…]]></description><link>https://jpedroribeiro.com/2020/11/book-notes-6-craft-coffee-a-manual/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/11/book-notes-6-craft-coffee-a-manual/</guid><pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 294px;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Feb 2021 17:25:28 GMT</lastBuildDate><item><title><![CDATA[Book Review: TypeScript In 50 Lessons]]></title><description><![CDATA[I’ve started incorporating TypeScript into my daily code not too long ago. Skeptical at first, the loosely typed nature of JavaScript never…]]></description><link>https://jpedroribeiro.com/2021/02/book-review-typescript=in-50-lessos/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/book-review-typescript=in-50-lessos/</guid><pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 481px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4c4a788303d28187b9a4441d8b9f253d/b8a25/typescript-book-cover.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 145.11434511434513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Typescript in 50 lessons Book Cover&quot;
+        title=&quot;Typescript in 50 lessons Book Cover&quot;
+        src=&quot;/static/4c4a788303d28187b9a4441d8b9f253d/b8a25/typescript-book-cover.png&quot;
+        srcset=&quot;/static/4c4a788303d28187b9a4441d8b9f253d/cf440/typescript-book-cover.png 148w,
+/static/4c4a788303d28187b9a4441d8b9f253d/d2d38/typescript-book-cover.png 295w,
+/static/4c4a788303d28187b9a4441d8b9f253d/b8a25/typescript-book-cover.png 481w&quot;
+        sizes=&quot;(max-width: 481px) 100vw, 481px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’ve started incorporating &lt;strong&gt;TypeScript&lt;/strong&gt; into my daily code not too long ago. Skeptical at first, the &lt;em&gt;loosely typed&lt;/em&gt; nature of JavaScript never bothered me as much as it does to other developers whose background on strongly typed languages is stronger.&lt;/p&gt;
+&lt;p&gt;However, mostly due to its popularity, I’ve decided to give it a go - and as you might expect, I was impressed.&lt;/p&gt;
+&lt;p&gt;After a couple of months of self learning I’ve decided to upgrade my knowledge and got my copy of &lt;a href=&quot;https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/&quot;&gt;TypeScript In 50 Lessons&lt;/a&gt; by &lt;a href=&quot;https://fettblog.eu/&quot;&gt;Stefan Baumgartner&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;The Book&lt;/h2&gt;
+&lt;p&gt;As someone new to TypeScript, my initial thought was how &lt;strong&gt;accessible&lt;/strong&gt; it is.
+It starts with a very hand holding approach, explaining the importance and advantages of types, which for me is error prevention (specially in a collaborative work environment) and &lt;em&gt;IDE integration&lt;/em&gt; (autocomplete, code hints, etc).&lt;/p&gt;
+&lt;p&gt;The book gets more &lt;strong&gt;advanced&lt;/strong&gt; towards the later lessons. To the point that it became less useful to me. Tho I might revisit that section later as I get more experienced with TypeScript.&lt;/p&gt;
+&lt;h2&gt;Some Highlights&lt;/h2&gt;
+&lt;p&gt;I’m guilty of adding the type &lt;code class=&quot;language-text&quot;&gt;any&lt;/code&gt; whenever I get stuck. On the book, we’re exposed with the type &lt;code class=&quot;language-text&quot;&gt;unknown&lt;/code&gt; which is an interesting way of explicitly saying we don’t know what type this &lt;em&gt;variable/parameter&lt;/em&gt; could be.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;”&lt;code class=&quot;language-text&quot;&gt;unknown&lt;/code&gt; should make you cautious: we have to provide a proper control flow to ensure type safety”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As in, testing the type of the variable before returning or making any operation.&lt;/p&gt;
+&lt;p&gt;When you have a rather complex &lt;strong&gt;data structure&lt;/strong&gt;, an easy way of getting it as a type is using &lt;code class=&quot;language-text&quot;&gt;typeof&lt;/code&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In TypeScript’s type system, the &lt;code class=&quot;language-text&quot;&gt;typeof&lt;/code&gt; operator takes any object and extracts the &lt;em&gt;shape&lt;/em&gt; of it:”
+&lt;code class=&quot;language-text&quot;&gt;type Order = typeof defaultOrder&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When learning TypeScript one thing that I could never find a proper explanation was when to use Type or Interface. I am still unsure, but I can see how one can have advantages over the other:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Declaration merging for interfaces means we can declare an interface at separate positions in the same file, with different properties, and TypeScript combines all declarations and merges them into one.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;declare global {
+  interface Window {
+    isDevelopment: boolean
+  }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As you can see by my &lt;a href=&quot;/tag/book-review/&quot;&gt;reviews&lt;/a&gt; I’m a huge fan of the &lt;strong&gt;Smashing Books&lt;/strong&gt;, and I can honestly say that this is by far &lt;strong&gt;their best book&lt;/strong&gt;. A joy to read and very insightful.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/&quot;&gt;Grab a copy of the book&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Book Notes #6: Craft Coffee: A Manual - Brewing a better cup at home]]></title><description><![CDATA[Here are my highlights: Ideal coffee to water ratio: 1:15.  Grind reference for V60: fine sea salt, AeroPress: granulated sugar.  Pour…]]></description><link>https://jpedroribeiro.com/2020/11/book-notes-6-craft-coffee-a-manual/</link><guid isPermaLink="false">https://jpedroribeiro.com/2020/11/book-notes-6-craft-coffee-a-manual/</guid><pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 294px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/254a5204f3431050d588c0ffe4728fa1/f9901/cover.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 136.05442176870747%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAABAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAWvA7Ouqk85o3rtkn//EABcQAAMBAAAAAAAAAAAAAAAAAAQQNBH/2gAIAQEAAQUCCmQUyCmxBTr/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAXEAADAQAAAAAAAAAAAAAAAAABEHGB/9oACAEBAAY/AhWK9Yr/AP/EABsQAAICAwEAAAAAAAAAAAAAAAERABAxYaEh/9oACAEBAAE/IexHo12Ig69CNoB3hZruRBtV/9oADAMBAAIAAwAAABAAMAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABECEx/9oACAEDAQE/EHsXZ//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACEx8BBBUbH/2gAIAQEAAT8Q1Trc6DwBpwfvgka4vGAABwYKViOme8HAhit2GXO5+4FAX7PH/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Book cover&quot; title=&quot;Book cover&quot; src=&quot;/static/254a5204f3431050d588c0ffe4728fa1/f9901/cover.jpg&quot; srcset=&quot;/static/254a5204f3431050d588c0ffe4728fa1/8ee9c/cover.jpg 148w,

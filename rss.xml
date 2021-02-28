@@ -1,18 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Feb 2021 17:53:30 GMT</lastBuildDate><item><title><![CDATA[Book Notes #6: How to Make Coffee: The Science Behind the Bean]]></title><description><![CDATA[Here are my highlights: (…) they are made up of a soft fleshy exterior with a shell that hosts the seed that we know as the coffee bean…]]></description><link>https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</guid><pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/425e73ffdb79940b32515336381d4835/45751/cover.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 144.86666666666665%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBP/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAAB47nU6RA1mkB//8QAFhAAAwAAAAAAAAAAAAAAAAAAACEw/9oACAEBAAEFAhT/AP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAAAAwMf/aAAgBAQAGPwIq/wD/xAAaEAEAAgMBAAAAAAAAAAAAAAABEBEAICFB/9oACAEBAAE/ISvXKkTkrev/2gAMAwEAAgADAAAAEPzq/v/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQACAwEBAAAAAAAAAAAAAAEAERBhcZEh/9oACAEBAAE/EAz6DybHkatpU3OymyJR7kgazejH/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Book cover&quot; title=&quot;Book cover&quot; src=&quot;/static/425e73ffdb79940b32515336381d4835/c739e/cover.jpg&quot; srcset=&quot;/static/425e73ffdb79940b32515336381d4835/8ee9c/cover.jpg 148w,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Feb 2021 16:14:41 GMT</lastBuildDate><item><title><![CDATA[In Defense of Testing]]></title><description><![CDATA[I’ve been thinking about this analogy lately: Writing code without tests is like playing Jenga with your software, the tower is stable…]]></description><link>https://jpedroribeiro.com/2021/02/in-defense-of-testing/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/in-defense-of-testing/</guid><pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a614c7e805d07afc449aefc16970fafd/1f853/block-tower-game-falling-on-games-night.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.6640625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABWhXSaoAf/8QAGRABAQEAAwAAAAAAAAAAAAAAAQIAAyEx/9oACAEBAAEFAuNJzU0s9mPHf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAxUf/aAAgBAQAGPwLctteGP//EABsQAAIDAAMAAAAAAAAAAAAAAAARASExQWHx/9oACAEBAAE/IeGPTuMqIg9hBtlamj//2gAMAwEAAgADAAAAEIsv/8QAFREBAQAAAAAAAAAAAAAAAAAAEDH/2gAIAQMBAT8Qp//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAECAQE/EIf/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMVFx/9oACAEBAAE/EBI8SKoTOEeqz4B8wUig9CFMAQr64HElyd//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;block tower game falling on games night.jpg&quot;
+        title=&quot;block tower game falling on games night.jpg&quot;
+        src=&quot;/static/a614c7e805d07afc449aefc16970fafd/c739e/block-tower-game-falling-on-games-night.jpg&quot;
+        srcset=&quot;/static/a614c7e805d07afc449aefc16970fafd/8ee9c/block-tower-game-falling-on-games-night.jpg 148w,
+/static/a614c7e805d07afc449aefc16970fafd/ebbe7/block-tower-game-falling-on-games-night.jpg 295w,
+/static/a614c7e805d07afc449aefc16970fafd/c739e/block-tower-game-falling-on-games-night.jpg 590w,
+/static/a614c7e805d07afc449aefc16970fafd/5413e/block-tower-game-falling-on-games-night.jpg 885w,
+/static/a614c7e805d07afc449aefc16970fafd/1f853/block-tower-game-falling-on-games-night.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about this &lt;strong&gt;analogy&lt;/strong&gt; lately:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Writing code without tests is like playing &lt;strong&gt;Jenga&lt;/strong&gt; with your software, the tower is stable enough until new blocks are added or removed.
+Code that is fully tested feels more like a &lt;strong&gt;Lego&lt;/strong&gt; structure where each brick is firmly attached to each other.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Book Notes #6: How to Make Coffee: The Science Behind the Bean]]></title><description><![CDATA[Short and sweet. A quick read that goes straight to the point. A 4-star rating on my GoodReads. Here are my highlights: (…) they are made up…]]></description><link>https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</guid><pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/425e73ffdb79940b32515336381d4835/45751/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 144.86666666666665%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBP/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAAB47nU6RA1mkB//8QAFhAAAwAAAAAAAAAAAAAAAAAAACEw/9oACAEBAAEFAhT/AP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAAAAwMf/aAAgBAQAGPwIq/wD/xAAaEAEAAgMBAAAAAAAAAAAAAAABEBEAICFB/9oACAEBAAE/ISvXKkTkrev/2gAMAwEAAgADAAAAEPzq/v/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQACAwEBAAAAAAAAAAAAAAEAERBhcZEh/9oACAEBAAE/EAz6DybHkatpU3OymyJR7kgazejH/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;How to Make Coffee Book Cover&quot;
+        title=&quot;How to Make Coffee Book Cover&quot;
+        src=&quot;/static/425e73ffdb79940b32515336381d4835/c739e/cover.jpg&quot;
+        srcset=&quot;/static/425e73ffdb79940b32515336381d4835/8ee9c/cover.jpg 148w,
 /static/425e73ffdb79940b32515336381d4835/ebbe7/cover.jpg 295w,
 /static/425e73ffdb79940b32515336381d4835/c739e/cover.jpg 590w,
 /static/425e73ffdb79940b32515336381d4835/5413e/cover.jpg 885w,
 /static/425e73ffdb79940b32515336381d4835/4efde/cover.jpg 1180w,
-/static/425e73ffdb79940b32515336381d4835/45751/cover.jpg 1500w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; loading=&quot;lazy&quot;&gt;
+/static/425e73ffdb79940b32515336381d4835/45751/cover.jpg 1500w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
- 
- Short and sweet. A quick read that goes straight to the point.
- 
- A **4-star** rating on [my GoodReads](https://www.goodreads.com/user/show/3186522-j-pedro-ribeiro).
+&lt;p&gt;Short and sweet. A quick read that goes straight to the point.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;4-star&lt;/strong&gt; rating on &lt;a href=&quot;https://www.goodreads.com/user/show/3186522-j-pedro-ribeiro&quot;&gt;my GoodReads&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here are my &lt;em&gt;highlights&lt;/em&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;(…) they are made up of a soft fleshy exterior with a shell that hosts the seed that &lt;strong&gt;we know as the coffee bean&lt;/strong&gt;. &lt;code class=&quot;language-text&quot;&gt;(pg.21)&lt;/code&gt;&lt;/li&gt;

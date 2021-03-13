@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Feb 2021 16:14:41 GMT</lastBuildDate><item><title><![CDATA[In Defense of Testing]]></title><description><![CDATA[I’ve been thinking about this analogy lately: Writing code without tests is like playing Jenga with your software, the tower is stable…]]></description><link>https://jpedroribeiro.com/2021/02/in-defense-of-testing/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/in-defense-of-testing/</guid><pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[J. Pedro Ribeiro]]></title><description><![CDATA[Hello! My name is J. Pedro Ribeiro. I’m a Brazilian front-end developer living in London. This website features some of my latest projects and my thoughts on anything web related.]]></description><link>https://jpedroribeiro.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 13 Mar 2021 17:14:24 GMT</lastBuildDate><item><title><![CDATA[Book Notes #6: How to Make Coffee: The Science Behind the Bean]]></title><description><![CDATA[Never thought I’d be reading and enjoying a book about sleeping. Insightful, and oddly entertaining. And yes, I do get the irony of reading…]]></description><link>https://jpedroribeiro.com/2021/03/book-notes-8-why-we-sleep/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/03/book-notes-8-why-we-sleep/</guid><pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7ef95745e4e969eb37ce18abaa527d14/b64ce/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 153.47769028871392%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAfABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7KnqWghCNkZNh//EABsQAAIDAAMAAAAAAAAAAAAAAAABAgMREBIy/9oACAEBAAEFAsM4frcRiLYqUa11gNaI/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQITEg/9oACAEBAAY/AtNc3UYWJLj/xAAdEAEBAQEAAQUAAAAAAAAAAAABEQAhMRBRYXGR/9oACAEBAAE/Iavl6A58/eXRg3/fCJRplvI0jR20wqlD3xe0neaSYQm//9oADAMBAAIAAwAAABBg903/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEBAQADAQEBAAAAAAAAAAABEQAhMUFRYZH/2gAIAQEAAT8QUSDfB1+/2wiV/SruVD2FEzc5EFfb5jZkKJ7k6h+pzibQA7Bw6A4VV5ubZgdDafdyxmh1Zv/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Why We Sleep Book Cover&quot;
+        title=&quot;Why We Sleep Book Cover&quot;
+        src=&quot;/static/7ef95745e4e969eb37ce18abaa527d14/c739e/cover.jpg&quot;
+        srcset=&quot;/static/7ef95745e4e969eb37ce18abaa527d14/8ee9c/cover.jpg 148w,
+/static/7ef95745e4e969eb37ce18abaa527d14/ebbe7/cover.jpg 295w,
+/static/7ef95745e4e969eb37ce18abaa527d14/c739e/cover.jpg 590w,
+/static/7ef95745e4e969eb37ce18abaa527d14/5413e/cover.jpg 885w,
+/static/7ef95745e4e969eb37ce18abaa527d14/4efde/cover.jpg 1180w,
+/static/7ef95745e4e969eb37ce18abaa527d14/b64ce/cover.jpg 1524w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Never thought I’d be reading and enjoying a book about sleeping. Insightful, and oddly entertaining. And yes, I do get the irony of reading a book about sleep after going through &lt;a href=&quot;/tag/coffee/&quot;&gt;some books on coffee&lt;/a&gt; 🤷🏽‍♂️&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;5-star&lt;/strong&gt; rating on &lt;a href=&quot;https://www.goodreads.com/user/show/3186522-j-pedro-ribeiro&quot;&gt;my GoodReads&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are my &lt;em&gt;highlights&lt;/em&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;(On different types of body cycles) If I were to keep you awake all night, your &lt;strong&gt;core temperature&lt;/strong&gt; would still show the same pattern. &lt;code class=&quot;language-text&quot;&gt;(pg.19)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) melatonin helps regulate the &lt;em&gt;timing&lt;/em&gt; of when sleep occurs by systematically signaling darkness throughout the organism. But melatonin has little influence on the generation of sleep itself. &lt;code class=&quot;language-text&quot;&gt;(pg.22)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;For every day you are in a &lt;strong&gt;different time zone&lt;/strong&gt; your suprachiasmatic nucleus can only readjust by about one hour. &lt;code class=&quot;language-text&quot;&gt;(pg.24)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The longer you are awake, the more &lt;strong&gt;adenosine&lt;/strong&gt; will accumulate. &lt;code class=&quot;language-text&quot;&gt;(pg.26)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;You can artificially mute sleep signal of adenosine by using a chemical that makes you fee more awake: &lt;strong&gt;caffeine&lt;/strong&gt;. &lt;code class=&quot;language-text&quot;&gt;(pg.26)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Individuals who are deliberately &lt;strong&gt;fasting&lt;/strong&gt; will sleep less as the brain is tricked into thinking that food has suddenly become scarce. &lt;code class=&quot;language-text&quot;&gt;(pg.66)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) migrating birds will grab brief periods of seep lasting only seconds in duration. &lt;code class=&quot;language-text&quot;&gt;(pg.66)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) &lt;em&gt;NREM&lt;/em&gt; sleep helps transfer and make safe newly learned information into &lt;strong&gt;long-term&lt;/strong&gt; storage sites on the brain. &lt;code class=&quot;language-text&quot;&gt;(pg.74)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;REM&lt;/em&gt; sleep can (help define what) a collection of information &lt;strong&gt;mean as a whole&lt;/strong&gt;, not just as facts. We can awake the next morning with new solutions to previously intractable problems or even be infused with radically new and original ideas. &lt;code class=&quot;language-text&quot;&gt;(pg.75)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Sleep is not the absence of wakefulness. &lt;code class=&quot;language-text&quot;&gt;(pg.108)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) the more sleep spindles an individual has at night, the greater the restoration of overnight learning ability come the next day. &lt;code class=&quot;language-text&quot;&gt;(pg.111)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The second benefit of sleep for &lt;strong&gt;memory&lt;/strong&gt; comes after learning (…), consolidation. &lt;code class=&quot;language-text&quot;&gt;(pg.112)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) &lt;strong&gt;emotional&lt;/strong&gt; regions of the brain are up to 30% more active in REM sleep compared to when we are awake. &lt;code class=&quot;language-text&quot;&gt;(pg.193)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) &lt;strong&gt;REM sleep&lt;/strong&gt; is the only time during the twenty-four hour period when your brain is completely devoid of this anxiety-triggering molecule (noradrenaline). &lt;code class=&quot;language-text&quot;&gt;(pg.206)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) REM sleep dreaming accomplishes 2 critical goals: remember (…) and forget. &lt;code class=&quot;language-text&quot;&gt;(pg.206)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(…) &lt;strong&gt;alcohool&lt;/strong&gt; will often suppress REM sleep, specially during the first half of the night. &lt;code class=&quot;language-text&quot;&gt;(pg.270)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;(On alarm clocks) The &lt;strong&gt;snooze&lt;/strong&gt; feature means that you will repeatedly impose a cardiovascular spike again and again within a short span of time. &lt;code class=&quot;language-text&quot;&gt;(pg.278)&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Liked this post? Read my other &lt;a href=&quot;https://www.jpedroribeiro.com/tag/book-notes/&quot;&gt;book notes&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[In Defense of Testing]]></title><description><![CDATA[I’ve been thinking about this analogy lately: Writing code without tests is like playing Jenga with your software, the tower is stable…]]></description><link>https://jpedroribeiro.com/2021/02/in-defense-of-testing/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/in-defense-of-testing/</guid><pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
@@ -32,7 +85,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Writing code without tests is like playing &lt;strong&gt;Jenga&lt;/strong&gt; with your software, the tower is stable enough until new blocks are added or removed.
 Code that is fully tested feels more like a &lt;strong&gt;Lego&lt;/strong&gt; structure where each brick is firmly attached to each other.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Book Notes #6: How to Make Coffee: The Science Behind the Bean]]></title><description><![CDATA[Short and sweet. A quick read that goes straight to the point. A 4-star rating on my GoodReads. Here are my highlights: (…) they are made up…]]></description><link>https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</guid><pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Book Notes #7: How to Make Coffee: The Science Behind the Bean]]></title><description><![CDATA[Short and sweet. A quick read that goes straight to the point. A 4-star rating on my GoodReads. Here are my highlights: (…) they are made up…]]></description><link>https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</link><guid isPermaLink="false">https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee/</guid><pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
